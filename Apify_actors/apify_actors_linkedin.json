@@ -1,0 +1,4793 @@
+{
+  "metadata": {
+    "platform": "linkedin",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.926903",
+    "total_actors": 101,
+    "existing_actors": 101,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "dev_fusion/Linkedin-Profile-Scraper",
+      "error": null,
+      "exists": true,
+      "username": "dev_fusion",
+      "name": "Linkedin-Profile-Scraper",
+      "title": "✨Mass Linkedin Profile Scraper with Email 📧 (No Cookies)",
+      "description": "🚀 Extract full LinkedIn profile insights: verified email 📧, phone number 📞, work history, education, and more...",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-15T08:24:08.869000+00:00",
+      "modified_at": "2025-12-23T22:52:07.039000+00:00",
+      "stats": {
+        "totalBuilds": 123,
+        "totalRuns": 9309351,
+        "totalUsers": 34403,
+        "totalUsers7Days": 1108,
+        "totalUsers30Days": 3300,
+        "totalUsers90Days": 7851,
+        "lastRunStartedAt": "2026-01-11T07:59:53.528000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 422,
+          "FAILED": 88,
+          "SUCCEEDED": 1303996,
+          "TIMED-OUT": 2195,
+          "TOTAL": 1306732
+        },
+        "actorReviewCount": 111,
+        "actorReviewRating": 4.525494782066733,
+        "bookmarkCount": 1147
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bebity/linkedin-jobs-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bebity",
+      "name": "linkedin-jobs-scraper",
+      "title": "🔥 LinkedIn Jobs Scraper",
+      "description": "ℹ️ Designed for both personal and professional use, simply enter your desired job title and location to receive a tailored list of job opportunities. Try it today!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-02-23T11:01:43.407000+00:00",
+      "modified_at": "2025-04-17T08:45:30.857000+00:00",
+      "stats": {
+        "totalBuilds": 145,
+        "totalRuns": 2579924,
+        "totalUsers": 20133,
+        "totalUsers7Days": 244,
+        "totalUsers30Days": 544,
+        "totalUsers90Days": 1425,
+        "lastRunStartedAt": "2026-01-11T08:00:05.306000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 225,
+          "FAILED": 80,
+          "SUCCEEDED": 117064,
+          "TIMED-OUT": 91,
+          "TOTAL": 117463
+        },
+        "actorReviewCount": 38,
+        "actorReviewRating": 4.343144338472894,
+        "bookmarkCount": 450
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-posts",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-posts",
+      "title": "Linkedin Profile Posts Scraper [NO COOKIES]",
+      "description": "Scrape LinkedIn posts data for a given LinkedIn profile including post content, reactions, comments count, and media attachments",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-12-24T23:18:17.956000+00:00",
+      "modified_at": "2026-01-04T09:55:46.702000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 4716730,
+        "totalUsers": 12995,
+        "totalUsers7Days": 956,
+        "totalUsers30Days": 1791,
+        "totalUsers90Days": 3844,
+        "lastRunStartedAt": "2026-01-11T08:00:17.096000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 40,
+          "FAILED": 0,
+          "SUCCEEDED": 628896,
+          "TIMED-OUT": 102,
+          "TOTAL": 629042
+        },
+        "actorReviewCount": 52,
+        "actorReviewRating": 4.599824385847605,
+        "bookmarkCount": 526
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-detail",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-detail",
+      "title": "Linkedin Profile Details Scraper + EMAIL (No Cookies Required)",
+      "description": "Scrape comprehensive LinkedIn profile data including work experience, education history, certifications, and location details. Get structured information from any public LinkedIn profile using their username.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-11-21T11:25:56.086000+00:00",
+      "modified_at": "2026-01-06T21:31:55.805000+00:00",
+      "stats": {
+        "totalBuilds": 40,
+        "totalRuns": 11783438,
+        "totalUsers": 7715,
+        "totalUsers7Days": 578,
+        "totalUsers30Days": 1265,
+        "totalUsers90Days": 2765,
+        "lastRunStartedAt": "2026-01-11T08:00:19.374000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 61,
+          "FAILED": 0,
+          "SUCCEEDED": 1982518,
+          "TIMED-OUT": 291,
+          "TOTAL": 1982871
+        },
+        "actorReviewCount": 47,
+        "actorReviewRating": 3.688445921913141,
+        "bookmarkCount": 296
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "code_crafter/leads-finder",
+      "error": null,
+      "exists": true,
+      "username": "code_crafter",
+      "name": "leads-finder",
+      "title": "✨Leads Finder - $1.5/1k leads with Emails [Apollo Alternative]",
+      "description": "✅ Affordable alternative to ZoomInfo, Lusha & Apollo. ✅ Get Business email, 📞Mobile Number, Personal email, LinkedIn profiles, company details etc..",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-28T19:51:03.223000+00:00",
+      "modified_at": "2025-12-28T19:02:16.232000+00:00",
+      "stats": {
+        "totalBuilds": 46,
+        "totalRuns": 211888,
+        "totalUsers": 13400,
+        "totalUsers7Days": 1255,
+        "totalUsers30Days": 3113,
+        "totalUsers90Days": 7556,
+        "lastRunStartedAt": "2026-01-11T08:00:11.681000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1401,
+          "FAILED": 730,
+          "SUCCEEDED": 57696,
+          "TIMED-OUT": 327,
+          "TOTAL": 62539
+        },
+        "actorReviewCount": 77,
+        "actorReviewRating": 3.190916716936492,
+        "bookmarkCount": 230
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-post-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-post-search-scraper",
+      "title": "Linkedin post scraper",
+      "description": "Scrape linkedin posts or updates from linkedin post search results.\nSupports advanced linkedin search filters. \nExtract posts from any linkedin member",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2023-06-08T13:15:51.419000+00:00",
+      "modified_at": "2025-12-03T04:53:05.625000+00:00",
+      "stats": {
+        "totalBuilds": 134,
+        "totalRuns": 4929531,
+        "totalUsers": 9087,
+        "totalUsers7Days": 96,
+        "totalUsers30Days": 165,
+        "totalUsers90Days": 471,
+        "lastRunStartedAt": "2026-01-11T08:00:09.543000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 66,
+          "FAILED": 308,
+          "SUCCEEDED": 65872,
+          "TIMED-OUT": 361,
+          "TOTAL": 66748
+        },
+        "actorReviewCount": 17,
+        "actorReviewRating": 3.168207499405601,
+        "bookmarkCount": 345
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-posts-search-scraper-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-posts-search-scraper-no-cookies",
+      "title": "Linkedin Posts Search Scraper | No Cookies",
+      "description": "Scrape LinkedIn posts by keyword without login. Get post content, reactions, author details, and media. Sort by relevance or date. Perfect for research, analysis, and monitoring trends.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-04-17T22:06:13.959000+00:00",
+      "modified_at": "2026-01-07T21:28:50.966000+00:00",
+      "stats": {
+        "totalBuilds": 35,
+        "totalRuns": 859688,
+        "totalUsers": 5358,
+        "totalUsers7Days": 328,
+        "totalUsers30Days": 720,
+        "totalUsers90Days": 1715,
+        "lastRunStartedAt": "2026-01-11T08:00:27.435000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 0,
+          "SUCCEEDED": 325930,
+          "TIMED-OUT": 2,
+          "TOTAL": 325943
+        },
+        "actorReviewCount": 23,
+        "actorReviewRating": 4.228716283659057,
+        "bookmarkCount": 176
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "AI"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-company-posts",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-company-posts",
+      "title": "LinkedIn Company Posts Scraper – No Cookies",
+      "description": "Extract public posts and activity from companies including post content, reactions, comments count, and media attachments",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-02-04T17:18:14.160000+00:00",
+      "modified_at": "2025-11-09T23:36:53.093000+00:00",
+      "stats": {
+        "totalBuilds": 43,
+        "totalRuns": 1649122,
+        "totalUsers": 4174,
+        "totalUsers7Days": 362,
+        "totalUsers30Days": 623,
+        "totalUsers90Days": 1264,
+        "lastRunStartedAt": "2026-01-11T08:00:21.838000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 118,
+          "SUCCEEDED": 296010,
+          "TIMED-OUT": 4,
+          "TOTAL": 296141
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 4.993694387618805,
+        "bookmarkCount": 151
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-sales-navigator-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-sales-navigator-search-scraper",
+      "title": "Linkedin Sales Navigator Scraper",
+      "description": "Scrape Linkedin sales navigator search results, lists, new results, profiles to extract social media urls, company website, positions",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-05-28T07:48:40.453000+00:00",
+      "modified_at": "2025-11-18T07:06:17.768000+00:00",
+      "stats": {
+        "totalBuilds": 105,
+        "totalRuns": 155769,
+        "totalUsers": 6370,
+        "totalUsers7Days": 58,
+        "totalUsers30Days": 151,
+        "totalUsers90Days": 493,
+        "lastRunStartedAt": "2026-01-11T08:00:03.965000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 178,
+          "FAILED": 634,
+          "SUCCEEDED": 5800,
+          "TIMED-OUT": 61,
+          "TOTAL": 6774
+        },
+        "actorReviewCount": 23,
+        "actorReviewRating": 3.2646115779446716,
+        "bookmarkCount": 238
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bebity/linkedin-premium-actor",
+      "error": null,
+      "exists": true,
+      "username": "bebity",
+      "name": "linkedin-premium-actor",
+      "title": "🔥 Linkedin Companies & Profiles Bulk Scraper",
+      "description": "Companies & Profiles Linkedin scraper.\nGet comprehensive profiles of individuals and companies based on your keywords and filters.\nUnleash the power of data! 🌐🔍",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-02T21:09:38.825000+00:00",
+      "modified_at": "2025-12-27T11:52:41.618000+00:00",
+      "stats": {
+        "totalBuilds": 194,
+        "totalRuns": 2781641,
+        "totalUsers": 12876,
+        "totalUsers7Days": 71,
+        "totalUsers30Days": 211,
+        "totalUsers90Days": 856,
+        "lastRunStartedAt": "2026-01-11T07:57:27.936000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 565,
+          "FAILED": 490,
+          "SUCCEEDED": 61114,
+          "TIMED-OUT": 77,
+          "TOTAL": 62251
+        },
+        "actorReviewCount": 32,
+        "actorReviewRating": 3.852701485502727,
+        "bookmarkCount": 291
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-profile-search",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-profile-search",
+      "title": "LinkedIn Profile Search Scraper No Cookies ✅ Find all people 📧",
+      "description": "Search for LinkedIn profiles with filters and extract detailed profile information, including work experience, education history, location and more. No cookies or account required.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-07T18:34:27.130000+00:00",
+      "modified_at": "2026-01-09T11:28:57.399000+00:00",
+      "stats": {
+        "totalBuilds": 157,
+        "totalRuns": 401604,
+        "totalUsers": 5381,
+        "totalUsers7Days": 365,
+        "totalUsers30Days": 905,
+        "totalUsers90Days": 1817,
+        "lastRunStartedAt": "2026-01-11T07:58:23.046000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 866,
+          "FAILED": 70,
+          "SUCCEEDED": 47120,
+          "TIMED-OUT": 61,
+          "TOTAL": 48159
+        },
+        "actorReviewCount": 18,
+        "actorReviewRating": 4.872185155569108,
+        "bookmarkCount": 184
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-company-employees",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-company-employees",
+      "title": "LinkedIn Company Employees Scraper ✅ No Cookies 📧",
+      "description": "Extract all LinkedIn Company employees with filters and detailed profile information, including complete work experience, and more. No cookies or account required. This actor can try to find contact emails.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-07T23:06:32.523000+00:00",
+      "modified_at": "2026-01-09T11:27:19.281000+00:00",
+      "stats": {
+        "totalBuilds": 64,
+        "totalRuns": 329567,
+        "totalUsers": 2390,
+        "totalUsers7Days": 175,
+        "totalUsers30Days": 800,
+        "totalUsers90Days": 1292,
+        "lastRunStartedAt": "2026-01-11T07:10:05.095000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 129,
+          "FAILED": 13,
+          "SUCCEEDED": 80780,
+          "TIMED-OUT": 22,
+          "TOTAL": 80958
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 3.3784982288904843,
+        "bookmarkCount": 40
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "supreme_coder/linkedin-post",
+      "error": null,
+      "exists": true,
+      "username": "supreme_coder",
+      "name": "linkedin-post",
+      "title": "Linkedin Post Scraper ✅ No cookies ✅ $2 per 1k posts",
+      "description": "Scrape unlimited Linkedin posts without risking your Linkedin account. Live data, Super fast scraping at affordable cost. High success rate",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-02-17T06:52:08.503000+00:00",
+      "modified_at": "2026-01-08T11:54:22.012000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 1925827,
+        "totalUsers": 5265,
+        "totalUsers7Days": 592,
+        "totalUsers30Days": 1022,
+        "totalUsers90Days": 1873,
+        "lastRunStartedAt": "2026-01-11T08:00:46.633000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 432,
+          "FAILED": 1179,
+          "SUCCEEDED": 408946,
+          "TIMED-OUT": 346,
+          "TOTAL": 410937
+        },
+        "actorReviewCount": 29,
+        "actorReviewRating": 4.757053611114779,
+        "bookmarkCount": 289
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "peakydev/leads-scraper-ppe",
+      "error": null,
+      "exists": true,
+      "username": "peakydev",
+      "name": "leads-scraper-ppe",
+      "title": "Leads Scraper ✅ $1/1k with EMAILS ✅ Apollo | LinkedIn Profile",
+      "description": "✅BUG FIXED - (70%-90% Email rate ✅) Extract leads with verified ☎️ Mobile  ✅ Work & Personal Emails.  Similar to Apollo, ZoomInfo, Lusha, LinkedIn",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-09-30T17:42:07.366000+00:00",
+      "modified_at": "2026-01-07T05:53:31.055000+00:00",
+      "stats": {
+        "totalBuilds": 167,
+        "totalRuns": 49273,
+        "totalUsers": 5451,
+        "totalUsers7Days": 274,
+        "totalUsers30Days": 823,
+        "totalUsers90Days": 2656,
+        "lastRunStartedAt": "2026-01-11T08:00:42.636000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 172,
+          "FAILED": 0,
+          "SUCCEEDED": 3153,
+          "TIMED-OUT": 19,
+          "TOTAL": 3362
+        },
+        "actorReviewCount": 51,
+        "actorReviewRating": 2.8232923611862524,
+        "bookmarkCount": 139
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-jobs-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-jobs-scraper",
+      "title": "Linkedin Jobs Scraper - PPR",
+      "description": "Scrape jobs from linkedin jobs search results along with company details. Get key information to find contact info",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2024-08-16T10:55:14.544000+00:00",
+      "modified_at": "2025-11-26T16:57:11.285000+00:00",
+      "stats": {
+        "totalBuilds": 116,
+        "totalRuns": 1056118,
+        "totalUsers": 12016,
+        "totalUsers7Days": 668,
+        "totalUsers30Days": 1267,
+        "totalUsers90Days": 2839,
+        "lastRunStartedAt": "2026-01-11T08:00:50.557000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 498,
+          "FAILED": 1463,
+          "SUCCEEDED": 99763,
+          "TIMED-OUT": 202,
+          "TOTAL": 101948
+        },
+        "actorReviewCount": 22,
+        "actorReviewRating": 4.982455102006009,
+        "bookmarkCount": 475
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pipelinelabs/lead-scraper-apollo-zoominfo-lusha",
+      "error": null,
+      "exists": true,
+      "username": "pipelinelabs",
+      "name": "lead-scraper-apollo-zoominfo-lusha",
+      "title": "🎉 Leads Scraper ✅ Upto 50k Leads With EMAILS ✅ Like Apollo",
+      "description": "Scrape Up to 50K leads per run with Emails, LinkedIn URL, Phone Numbers, & More! Similar to Apollo, ZoomInfo, Lusha. 90+ Million Verified Database!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-10-03T16:54:56.879000+00:00",
+      "modified_at": "2025-12-19T19:30:59.241000+00:00",
+      "stats": {
+        "totalBuilds": 85,
+        "totalRuns": 29219,
+        "totalUsers": 4951,
+        "totalUsers7Days": 135,
+        "totalUsers30Days": 485,
+        "totalUsers90Days": 1908,
+        "lastRunStartedAt": "2026-01-11T04:52:36.709000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 51,
+          "FAILED": 1,
+          "SUCCEEDED": 5299,
+          "TIMED-OUT": 1,
+          "TOTAL": 5361
+        },
+        "actorReviewCount": 69,
+        "actorReviewRating": 3.1430929138610977,
+        "bookmarkCount": 141
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-company-employees-scraper-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-company-employees-scraper-no-cookies",
+      "title": "Linkedin Company Employees Scraper | No Cookies",
+      "description": "Extract LinkedIn company employees without sharing your cookies or  account. Get structured data including profile details, job titles, and current positions. No login required.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-04-19T14:40:17.329000+00:00",
+      "modified_at": "2025-12-27T10:34:00.872000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 207779,
+        "totalUsers": 2421,
+        "totalUsers7Days": 117,
+        "totalUsers30Days": 280,
+        "totalUsers90Days": 712,
+        "lastRunStartedAt": "2026-01-11T07:52:51.581000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 38,
+          "FAILED": 0,
+          "SUCCEEDED": 21408,
+          "TIMED-OUT": 1,
+          "TOTAL": 21452
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 4.555624116070553,
+        "bookmarkCount": 67
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-post-search",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-post-search",
+      "title": "Linkedin Post Search Scraper (No Cookies)",
+      "description": "Search LinkedIn Posts with advanced filters by target profiles or companies. No cookies or account required.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-03T17:21:18.508000+00:00",
+      "modified_at": "2026-01-10T14:36:10.706000+00:00",
+      "stats": {
+        "totalBuilds": 55,
+        "totalRuns": 348811,
+        "totalUsers": 3047,
+        "totalUsers7Days": 236,
+        "totalUsers30Days": 442,
+        "totalUsers90Days": 827,
+        "lastRunStartedAt": "2026-01-11T08:01:03.934000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 219,
+          "FAILED": 53,
+          "SUCCEEDED": 49848,
+          "TIMED-OUT": 0,
+          "TOTAL": 50137
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.743784275304565,
+        "bookmarkCount": 74
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-jobs-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-jobs-search-scraper",
+      "title": "Advanced Linkedin Job Scraper",
+      "description": "Scrape linkedin job postings and get company and recruiter details. Supports boolean search and other advanced search filters. Success rate is > 98%",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-16T08:18:22.205000+00:00",
+      "modified_at": "2025-11-18T03:59:23.044000+00:00",
+      "stats": {
+        "totalBuilds": 134,
+        "totalRuns": 245721,
+        "totalUsers": 3257,
+        "totalUsers7Days": 53,
+        "totalUsers30Days": 76,
+        "totalUsers90Days": 211,
+        "lastRunStartedAt": "2026-01-11T08:01:16.142000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 45,
+          "FAILED": 227,
+          "SUCCEEDED": 10227,
+          "TIMED-OUT": 6,
+          "TOTAL": 10532
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 4.44937461563223,
+        "bookmarkCount": 140
+      },
+      "categories": [
+        "JOBS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-profile-scraper",
+      "title": "LinkedIn Profile Scraper + Email ✅ No Cookies",
+      "description": "Extract detailed information from LinkedIn profiles in bulk, including complete work experience, education history, skills and more. No cookies or account required.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-23T16:43:33.559000+00:00",
+      "modified_at": "2026-01-02T20:44:00.692000+00:00",
+      "stats": {
+        "totalBuilds": 88,
+        "totalRuns": 1751028,
+        "totalUsers": 4456,
+        "totalUsers7Days": 668,
+        "totalUsers30Days": 1199,
+        "totalUsers90Days": 1921,
+        "lastRunStartedAt": "2026-01-11T08:01:16.686000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 350,
+          "FAILED": 0,
+          "SUCCEEDED": 455322,
+          "TIMED-OUT": 127,
+          "TOTAL": 455822
+        },
+        "actorReviewCount": 16,
+        "actorReviewRating": 4.107897035651837,
+        "bookmarkCount": 123
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "muhammad_usama/linkedin-data-scraper-every-thing",
+      "error": null,
+      "exists": true,
+      "username": "muhammad_usama",
+      "name": "linkedin-data-scraper-every-thing",
+      "title": "Linkedin data scraper ( EVERY-THING )",
+      "description": "This actor can scrape anything from linkedin. Anything includes Person Data, Company Data, Person Posts, Company Posts, Search Jobs, Search People, Search Companies, Search Posts and much more. Cannot afford pricing? Contact us, we'll discuss a better pricing.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-08-12T20:06:29.030000+00:00",
+      "modified_at": "2025-12-09T19:16:55.247000+00:00",
+      "stats": {
+        "totalBuilds": 24,
+        "totalRuns": 1564478,
+        "totalUsers": 1674,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 30,
+        "totalUsers90Days": 94,
+        "lastRunStartedAt": "2026-01-11T08:00:11.465000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 175344,
+          "TIMED-OUT": 0,
+          "TOTAL": 175344
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1.9496921823766689,
+        "bookmarkCount": 60
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-batch-profile-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-batch-profile-posts-scraper",
+      "title": "Linkedin Mass Profile Posts Scraper | NO COOKIES",
+      "description": "Scrape in Batch LinkedIn posts from LinkedIn profiles including post content, reactions, comments count, and media attachments",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-03-15T13:28:58.535000+00:00",
+      "modified_at": "2025-11-12T18:04:48.452000+00:00",
+      "stats": {
+        "totalBuilds": 51,
+        "totalRuns": 193339,
+        "totalUsers": 2229,
+        "totalUsers7Days": 149,
+        "totalUsers30Days": 294,
+        "totalUsers90Days": 651,
+        "lastRunStartedAt": "2026-01-11T08:00:59.311000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 25,
+          "SUCCEEDED": 57498,
+          "TIMED-OUT": 0,
+          "TOTAL": 57527
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.8594948753061535,
+        "bookmarkCount": 78
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-profile-scraper",
+      "title": "Linkedin profile scraper",
+      "description": "Scrape linkedin profile urls and get complete profile details including basic info, position history, skills, company details, bio, location, etc\n(⚠️ Warning: Viewing/scraping more than 300-400 profiles per day will result in Linkedin account warning)",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-09-02T17:27:22.720000+00:00",
+      "modified_at": "2025-11-09T16:46:07.035000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 665012,
+        "totalUsers": 5058,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 26,
+        "totalUsers90Days": 154,
+        "lastRunStartedAt": "2026-01-11T05:44:09.625000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 398,
+          "SUCCEEDED": 3254,
+          "TIMED-OUT": 2,
+          "TOTAL": 3659
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 2.7989679285134845,
+        "bookmarkCount": 200
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-company-posts",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-company-posts",
+      "title": "LinkedIn Company Posts Scraper (No Cookies) ✅ $2 per 1k",
+      "description": "Extract posts from LinkedIn companies including content, media, engagement, reactions, comments and more. No cookies or account required. Concurrency + fast response times make mass scraping fast ⚡",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-08T21:58:04.760000+00:00",
+      "modified_at": "2026-01-10T18:13:18.903000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 384819,
+        "totalUsers": 606,
+        "totalUsers7Days": 117,
+        "totalUsers30Days": 195,
+        "totalUsers90Days": 315,
+        "lastRunStartedAt": "2026-01-11T08:00:52.481000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 15,
+          "FAILED": 13,
+          "SUCCEEDED": 342905,
+          "TIMED-OUT": 13,
+          "TOTAL": 342952
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-profile-posts",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-profile-posts",
+      "title": "LinkedIn Profile Posts Scraper (No Cookies)⚡$2 per 1k",
+      "description": "Extract posts from LinkedIn profiles including content, media, engagement, reactions, comments and more. No cookies or account required. Concurrency + fast response times make mass scraping fast ⚡",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-24T23:03:16.546000+00:00",
+      "modified_at": "2026-01-10T18:13:42.570000+00:00",
+      "stats": {
+        "totalBuilds": 47,
+        "totalRuns": 2425266,
+        "totalUsers": 2931,
+        "totalUsers7Days": 324,
+        "totalUsers30Days": 558,
+        "totalUsers90Days": 1100,
+        "lastRunStartedAt": "2026-01-11T08:01:48.502000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 75,
+          "FAILED": 19,
+          "SUCCEEDED": 837325,
+          "TIMED-OUT": 21,
+          "TOTAL": 837495
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.422317456007236,
+        "bookmarkCount": 119
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-batch-scraper-no-cookies-required",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-batch-scraper-no-cookies-required",
+      "title": "Linkedin Profile Details Batch Scraper + EMAIL (No Cookies)",
+      "description": "(no cookies need) Extract In Bulk  comprehensive LinkedIn profile data including work experience, education history, certifications, and location details. Get structured information from any public LinkedIn profile using their username.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-12-18T10:32:53.564000+00:00",
+      "modified_at": "2025-11-10T10:09:22.021000+00:00",
+      "stats": {
+        "totalBuilds": 91,
+        "totalRuns": 1715669,
+        "totalUsers": 5052,
+        "totalUsers7Days": 301,
+        "totalUsers30Days": 448,
+        "totalUsers90Days": 1268,
+        "lastRunStartedAt": "2026-01-11T08:01:46.865000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 113,
+          "FAILED": 1,
+          "SUCCEEDED": 385106,
+          "TIMED-OUT": 12,
+          "TOTAL": 385246
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 4.676910770936116,
+        "bookmarkCount": 78
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "peakydev/leads-scraper",
+      "error": null,
+      "exists": true,
+      "username": "peakydev",
+      "name": "leads-scraper",
+      "title": "Leads Scraper ✅  With EMAILS ✅ like Apollo | LinkedIn Profile",
+      "description": "$35 for 300k. (70%-90% Email rate ✅) Extract leads with verified ☎️ Phone 💌 Work & Personal Emails - Similar to Apollo, ZoomInfo, Lusha, LinkedIn",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-09-28T10:39:54.015000+00:00",
+      "modified_at": "2026-01-07T05:54:07.234000+00:00",
+      "stats": {
+        "totalBuilds": 186,
+        "totalRuns": 23588,
+        "totalUsers": 1816,
+        "totalUsers7Days": 48,
+        "totalUsers30Days": 179,
+        "totalUsers90Days": 572,
+        "lastRunStartedAt": "2026-01-11T04:58:09.431000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 29,
+          "FAILED": 5,
+          "SUCCEEDED": 1001,
+          "TIMED-OUT": 0,
+          "TOTAL": 1041
+        },
+        "actorReviewCount": 22,
+        "actorReviewRating": 3.535394757542222,
+        "bookmarkCount": 49
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SEO_TOOLS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-reactions",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-reactions",
+      "title": "Linkedin Profile Reactions [NO COOKIES]",
+      "description": "Linkedin User Reactions Scraper:\nExtract reactions for LinkedIn profiles and users including post content, reactions, stats, article, media attachments and more.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-02-05T21:07:40.776000+00:00",
+      "modified_at": "2025-11-12T22:09:16.374000+00:00",
+      "stats": {
+        "totalBuilds": 27,
+        "totalRuns": 373034,
+        "totalUsers": 674,
+        "totalUsers7Days": 36,
+        "totalUsers30Days": 74,
+        "totalUsers90Days": 202,
+        "lastRunStartedAt": "2026-01-11T07:59:14.740000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 9,
+          "SUCCEEDED": 61520,
+          "TIMED-OUT": 0,
+          "TOTAL": 61529
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-post-reactions",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-post-reactions",
+      "title": "Linkedin Post Reactions Scraper",
+      "description": "Scrape all reactions data for a given post",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-03-30T18:10:59.599000+00:00",
+      "modified_at": "2025-11-13T11:28:29.034000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 100304,
+        "totalUsers": 1184,
+        "totalUsers7Days": 70,
+        "totalUsers30Days": 135,
+        "totalUsers90Days": 348,
+        "lastRunStartedAt": "2026-01-11T08:01:31.028000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 471,
+          "SUCCEEDED": 13217,
+          "TIMED-OUT": 0,
+          "TOTAL": 13693
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 5,
+        "bookmarkCount": 52
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-post-comments-replies-engagements-scraper-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-post-comments-replies-engagements-scraper-no-cookies",
+      "title": "Linkedin Post Comments,Replies,Engagements Scraper | No Cookies",
+      "description": "Scrape in Batch all LinkedIn post related data including comments, stats, , reactions, replies and media attachments",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-03-17T20:37:23.886000+00:00",
+      "modified_at": "2026-01-09T22:24:46.478000+00:00",
+      "stats": {
+        "totalBuilds": 49,
+        "totalRuns": 209654,
+        "totalUsers": 2394,
+        "totalUsers7Days": 108,
+        "totalUsers30Days": 269,
+        "totalUsers90Days": 730,
+        "lastRunStartedAt": "2026-01-11T08:01:59.916000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 35,
+          "SUCCEEDED": 37865,
+          "TIMED-OUT": 0,
+          "TOTAL": 37901
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.920109530077627,
+        "bookmarkCount": 92
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "muhammad_usama/Apify-Sales-Navigator-No-Cookies",
+      "error": null,
+      "exists": true,
+      "username": "muhammad_usama",
+      "name": "Apify-Sales-Navigator-No-Cookies",
+      "title": "Linkedin Sales Navigator Scraper ( No cookies required )",
+      "description": "Scrapes Linkedin sales navigator data ( People and Companies ).",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-18T01:06:14.750000+00:00",
+      "modified_at": "2025-10-25T13:04:36.385000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 79071,
+        "totalUsers": 228,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 37,
+        "totalUsers90Days": 79,
+        "lastRunStartedAt": "2026-01-11T08:02:11.427000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 51634,
+          "TIMED-OUT": 0,
+          "TOTAL": 51634
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 3.0110608345902468,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-full-sections-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-full-sections-scraper",
+      "title": "Linkedin Profile Full Sections Scraper + EMAIL |No Cookies",
+      "description": "Scrape complete LinkedIn profile data  including work experience, education history, certifications, and location details. Get structured information from any public LinkedIn profile using their username.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-04-26T11:12:15.999000+00:00",
+      "modified_at": "2025-11-13T10:25:41.723000+00:00",
+      "stats": {
+        "totalBuilds": 71,
+        "totalRuns": 525436,
+        "totalUsers": 1412,
+        "totalUsers7Days": 99,
+        "totalUsers30Days": 191,
+        "totalUsers90Days": 396,
+        "lastRunStartedAt": "2026-01-11T08:02:02.634000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 247,
+          "SUCCEEDED": 71153,
+          "TIMED-OUT": 193,
+          "TOTAL": 71603
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 5,
+        "bookmarkCount": 32
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dev_fusion/Linkedin-Company-Scraper",
+      "error": null,
+      "exists": true,
+      "username": "dev_fusion",
+      "name": "Linkedin-Company-Scraper",
+      "title": "🔥Bulk Linkedin Company Profile Scraper (No Cookies)",
+      "description": "The LinkedIn Company Scraper Actor efficiently extracts comprehensive company information from LinkedIn, including names, industries, websites, employee counts, and more, without requiring cookies. It simplifies data gathering for market analysis and competitive research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-15T05:54:01.440000+00:00",
+      "modified_at": "2025-12-20T21:12:36.770000+00:00",
+      "stats": {
+        "totalBuilds": 26,
+        "totalRuns": 1249314,
+        "totalUsers": 5644,
+        "totalUsers7Days": 241,
+        "totalUsers30Days": 541,
+        "totalUsers90Days": 1379,
+        "lastRunStartedAt": "2026-01-11T08:00:46.761000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 15,
+          "FAILED": 0,
+          "SUCCEEDED": 170488,
+          "TIMED-OUT": 3,
+          "TOTAL": 170508
+        },
+        "actorReviewCount": 20,
+        "actorReviewRating": 3.2541304081275975,
+        "bookmarkCount": 317
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-post-reactions",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-post-reactions",
+      "title": "LinkedIn Post Reactions Scraper (No Cookies)⚡$2 per 1k",
+      "description": "Extract LinkedIn post social activities and reactions such as likes, appreciations, etc. No cookies or account required. Concurrency + fast response times make mass scraping fast ⚡",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-22T22:04:56.036000+00:00",
+      "modified_at": "2026-01-08T13:09:58.323000+00:00",
+      "stats": {
+        "totalBuilds": 29,
+        "totalRuns": 206147,
+        "totalUsers": 994,
+        "totalUsers7Days": 53,
+        "totalUsers30Days": 92,
+        "totalUsers90Days": 360,
+        "lastRunStartedAt": "2026-01-11T07:05:33.688000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 34,
+          "FAILED": 2,
+          "SUCCEEDED": 46817,
+          "TIMED-OUT": 4,
+          "TOTAL": 46861
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 28
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapeverse/linkedin-company-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrapeverse",
+      "name": "linkedin-company-profile-scraper",
+      "title": "Linkedin Company Profile Scraper",
+      "description": "The LinkedIn Company Profile Scraper is a powerful and efficient tool designed to extract valuable information from LinkedIn company profiles with ease. Whether you're a market researcher, sales professional, or just curious about a company's background.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-09-09T08:00:39.753000+00:00",
+      "modified_at": "2025-08-07T15:06:09.601000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 2761360,
+        "totalUsers": 450,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 46,
+        "totalUsers90Days": 91,
+        "lastRunStartedAt": "2026-01-11T08:02:02.611000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 89040,
+          "TIMED-OUT": 0,
+          "TOTAL": 89041
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 3.0492151881171305,
+        "bookmarkCount": 70
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "anchor/LinkedIn-people-finder",
+      "error": null,
+      "exists": true,
+      "username": "anchor",
+      "name": "LinkedIn-people-finder",
+      "title": "LinkedIn People URL - Mass Profile Finder",
+      "description": "Search for LinkedIn pages of people based on their names. Upload a CSV of person names, and get their LinkedIn URLs via API or manual export. Automate with schedules, n8n & others tools. Try for free the best Bulk tool to find LinkedIn people URLs !",
+      "readme": "",
+      "version": "0.3",
+      "created_at": "2022-03-08T19:57:03.077000+00:00",
+      "modified_at": "2026-01-05T13:34:24.851000+00:00",
+      "stats": {
+        "totalBuilds": 168,
+        "totalRuns": 210110,
+        "totalUsers": 3522,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 65,
+        "totalUsers90Days": 166,
+        "lastRunStartedAt": "2026-01-11T06:51:18.129000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 36,
+          "FAILED": 8,
+          "SUCCEEDED": 8147,
+          "TIMED-OUT": 71,
+          "TOTAL": 8266
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 3.6439574035086997,
+        "bookmarkCount": 48
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "silva95gustavo/linkedin-ad-library-scraper",
+      "error": null,
+      "exists": true,
+      "username": "silva95gustavo",
+      "name": "linkedin-ad-library-scraper",
+      "title": "LinkedIn Ads Scraper",
+      "description": "Extract ads of any format from LinkedIn Ad Library. Gain access to ad details, ad copy, media URL, call-to-action buttons and more. Dive deeper into the LinkedIn Ad Library for a competitive edge.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-10-30T19:55:35.985000+00:00",
+      "modified_at": "2026-01-05T18:57:59.351000+00:00",
+      "stats": {
+        "totalBuilds": 124,
+        "totalRuns": 286496,
+        "totalUsers": 2026,
+        "totalUsers7Days": 52,
+        "totalUsers30Days": 91,
+        "totalUsers90Days": 211,
+        "lastRunStartedAt": "2026-01-11T07:10:37.669000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 32,
+          "FAILED": 5,
+          "SUCCEEDED": 15275,
+          "TIMED-OUT": 9,
+          "TOTAL": 15324
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.969495334900487,
+        "bookmarkCount": 58
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "anchor/LinkedIn-company-url-finder",
+      "error": null,
+      "exists": true,
+      "username": "anchor",
+      "name": "LinkedIn-company-url-finder",
+      "title": "LinkedIn Company URL - Mass Profile Finder",
+      "description": "Search for LinkedIn company pages based on a company name. Upload a CSV list of company names, and get their LinkedIn company URLs via API or manual export. Automate with schedules, n8n & others tools. Try for free the best bulk tool to find LinkedIn company URLs !",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-02-13T13:38:51.892000+00:00",
+      "modified_at": "2026-01-02T23:28:46.990000+00:00",
+      "stats": {
+        "totalBuilds": 137,
+        "totalRuns": 149594,
+        "totalUsers": 4802,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 50,
+        "totalUsers90Days": 154,
+        "lastRunStartedAt": "2026-01-11T08:00:14.391000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 75,
+          "FAILED": 4,
+          "SUCCEEDED": 1008,
+          "TIMED-OUT": 25,
+          "TOTAL": 1115
+        },
+        "actorReviewCount": 21,
+        "actorReviewRating": 4.273420547162214,
+        "bookmarkCount": 65
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "supreme_coder/linkedin-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "supreme_coder",
+      "name": "linkedin-profile-scraper",
+      "title": "Linkedin Profile Scraper ✅ No cookie ✅ $3 per 1k profiles",
+      "description": "Scrape unlimited Linkedin profiles and search URLs without risking your Linkedin account. Live data, Super fast scraping at affordable cost. High success rate.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2025-01-27T08:27:33.738000+00:00",
+      "modified_at": "2026-01-10T14:17:53.090000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 768423,
+        "totalUsers": 3037,
+        "totalUsers7Days": 147,
+        "totalUsers30Days": 333,
+        "totalUsers90Days": 862,
+        "lastRunStartedAt": "2026-01-11T08:02:56.530000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 483,
+          "FAILED": 15,
+          "SUCCEEDED": 127075,
+          "TIMED-OUT": 69,
+          "TOTAL": 127644
+        },
+        "actorReviewCount": 17,
+        "actorReviewRating": 4.281262997568251,
+        "bookmarkCount": 131
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-jobs-scraper-api",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-jobs-scraper-api",
+      "title": "LinkedIn Jobs Scraper - No Cookies",
+      "description": "Extract LinkedIn jobs data including description, titles, company info, application details... Features advanced filtering by location, experience, job type, and Easy Apply status.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-11-17T14:25:34.335000+00:00",
+      "modified_at": "2025-10-27T21:04:43.407000+00:00",
+      "stats": {
+        "totalBuilds": 73,
+        "totalRuns": 688805,
+        "totalUsers": 2463,
+        "totalUsers7Days": 94,
+        "totalUsers30Days": 202,
+        "totalUsers90Days": 456,
+        "lastRunStartedAt": "2026-01-11T08:00:57.713000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 0,
+          "SUCCEEDED": 218074,
+          "TIMED-OUT": 255,
+          "TOTAL": 218334
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 5,
+        "bookmarkCount": 82
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-post-comments",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-post-comments",
+      "title": "LinkedIn Post Comments Scraper (No Cookies)⚡$2 per 1k",
+      "description": "Extract LinkedIn post comments in bulk, as well as comment social activities such as likes and reactions. No cookies or account required. Concurrency + fast response times make mass scraping fast ⚡",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-22T22:36:52.159000+00:00",
+      "modified_at": "2026-01-10T18:16:14.636000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 181002,
+        "totalUsers": 1578,
+        "totalUsers7Days": 474,
+        "totalUsers30Days": 596,
+        "totalUsers90Days": 820,
+        "lastRunStartedAt": "2026-01-11T07:50:00.582000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 22,
+          "FAILED": 15,
+          "SUCCEEDED": 83770,
+          "TIMED-OUT": 0,
+          "TOTAL": 83810
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.895847118125925,
+        "bookmarkCount": 28
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fantastic-jobs/career-site-job-listing-api",
+      "error": null,
+      "exists": true,
+      "username": "fantastic-jobs",
+      "name": "career-site-job-listing-api",
+      "title": "Career Site Job Listing API",
+      "description": "The perfect Job Posting API for high-quality real jobs! Direct postings from over 140k company career sites across 41 ATS platforms like: Workday, Greenhouse, and Ashby. Enriched with AI and LinkedIn company data, with up to 60 fields per job! Includes Lever, Rippling, SuccessFactors, iCIMS",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-14T13:29:52.619000+00:00",
+      "modified_at": "2025-12-29T10:04:50.522000+00:00",
+      "stats": {
+        "totalBuilds": 41,
+        "totalRuns": 68210,
+        "totalUsers": 1060,
+        "totalUsers7Days": 111,
+        "totalUsers30Days": 216,
+        "totalUsers90Days": 375,
+        "lastRunStartedAt": "2026-01-11T08:02:00.769000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 12,
+          "SUCCEEDED": 19420,
+          "TIMED-OUT": 0,
+          "TOTAL": 19439
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 5,
+        "bookmarkCount": 28
+      },
+      "categories": [
+        "JOBS",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-comments",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-comments",
+      "title": "Linkedin Profile Comments [NO COOKIES]",
+      "description": "Linkedin User comments scraper:\nExtract comments LinkedIn profiles and users including post content, reactions, stats, media attachments and more.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-02-05T16:24:14.546000+00:00",
+      "modified_at": "2025-11-13T10:24:26.129000+00:00",
+      "stats": {
+        "totalBuilds": 32,
+        "totalRuns": 442960,
+        "totalUsers": 826,
+        "totalUsers7Days": 49,
+        "totalUsers30Days": 96,
+        "totalUsers90Days": 235,
+        "lastRunStartedAt": "2026-01-11T07:57:34.583000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 825,
+          "SUCCEEDED": 132235,
+          "TIMED-OUT": 0,
+          "TOTAL": 133060
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 5,
+        "bookmarkCount": 32
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fantastic-jobs/advanced-linkedin-job-search-api",
+      "error": null,
+      "exists": true,
+      "username": "fantastic-jobs",
+      "name": "advanced-linkedin-job-search-api",
+      "title": "Advanced LinkedIn Job Search API",
+      "description": "Access our real-time LinkedIn Jobs database with over 10 million new jobs per month. With detailed company data, recruiter data, and AI enrichments! Get exact results with our advanced filters on title, description, location, company description, no. of employees, industry, seniority, and easyapply.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-15T09:28:31.168000+00:00",
+      "modified_at": "2025-12-29T10:07:52.813000+00:00",
+      "stats": {
+        "totalBuilds": 32,
+        "totalRuns": 75184,
+        "totalUsers": 534,
+        "totalUsers7Days": 74,
+        "totalUsers30Days": 162,
+        "totalUsers90Days": 276,
+        "lastRunStartedAt": "2026-01-11T08:03:00.848000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 8,
+          "SUCCEEDED": 18373,
+          "TIMED-OUT": 18,
+          "TOTAL": 18407
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 5,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "JOBS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-people-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-people-search-scraper",
+      "title": "Linkedin people search scraper",
+      "description": "Scrape search results from linkedin people search. \nPerform search on linkedin and pass the resulting url from address bar to this actor to scrape profiles.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-05-21T15:54:39.385000+00:00",
+      "modified_at": "2025-10-13T17:43:04.916000+00:00",
+      "stats": {
+        "totalBuilds": 79,
+        "totalRuns": 205026,
+        "totalUsers": 1921,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 41,
+        "totalUsers90Days": 135,
+        "lastRunStartedAt": "2026-01-11T06:53:24.089000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 17,
+          "FAILED": 91,
+          "SUCCEEDED": 1193,
+          "TIMED-OUT": 61,
+          "TOTAL": 1365
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 2.252667307698648,
+        "bookmarkCount": 69
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraping_solutions/linkedin-posts-engagers-likers-and-commenters-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "scraping_solutions",
+      "name": "linkedin-posts-engagers-likers-and-commenters-no-cookies",
+      "title": "Linkedin Posts Engagers (Likers and Commenters) ✅ No cookies ✅",
+      "description": "Extract Likers and Commenters from LinkedIn Posts – 100% Public Data, No Login or Cookies!\nBoost your LinkedIn engagement analysis with this powerful tool that scrapes likers and commenters from public LinkedIn posts without using cookies. Perfect for marketers, recruiters, analysts.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-02T21:38:16.829000+00:00",
+      "modified_at": "2026-01-02T05:34:54.297000+00:00",
+      "stats": {
+        "totalBuilds": 64,
+        "totalRuns": 716057,
+        "totalUsers": 394,
+        "totalUsers7Days": 10,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 76,
+        "lastRunStartedAt": "2026-01-11T07:09:53.190000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 4,
+          "SUCCEEDED": 24555,
+          "TIMED-OUT": 0,
+          "TOTAL": 24559
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 18
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pipelinelabs/lead-scraper-apollo-zoominfo-lusha-ppe",
+      "error": null,
+      "exists": true,
+      "username": "pipelinelabs",
+      "name": "lead-scraper-apollo-zoominfo-lusha-ppe",
+      "title": "🎉Leads Scraper ✅ $1/1k Leads ✅ 50K/Run With EMAILS✅Like Apollo",
+      "description": "$1/1k Leads - Scrape Up to 50K leads per run with Emails, LinkedIn URL, Phone Numbers, & More! Similar to Apollo, ZoomInfo, Lusha. 90+ Million Verified Database!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-10-08T17:32:12.037000+00:00",
+      "modified_at": "2025-12-19T19:01:54.955000+00:00",
+      "stats": {
+        "totalBuilds": 47,
+        "totalRuns": 22747,
+        "totalUsers": 2825,
+        "totalUsers7Days": 142,
+        "totalUsers30Days": 386,
+        "totalUsers90Days": 1607,
+        "lastRunStartedAt": "2026-01-11T08:00:01.540000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 37,
+          "FAILED": 0,
+          "SUCCEEDED": 4839,
+          "TIMED-OUT": 7,
+          "TOTAL": 4911
+        },
+        "actorReviewCount": 31,
+        "actorReviewRating": 2.030248528573958,
+        "bookmarkCount": 77
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-company",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-company",
+      "title": "Linkedin Company Details Scraper (No Cookies) ✅ Bulk",
+      "description": "Extract detailed information from LinkedIn Companies such as company name, address, phone numbers, website, employee count, and more. Find LinkedIn company URLs by name in Bulk. No cookies or account required.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-15T19:41:19.735000+00:00",
+      "modified_at": "2025-12-10T12:00:09.974000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 1476310,
+        "totalUsers": 2088,
+        "totalUsers7Days": 98,
+        "totalUsers30Days": 219,
+        "totalUsers90Days": 495,
+        "lastRunStartedAt": "2026-01-11T08:03:43.499000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 14,
+          "FAILED": 19,
+          "SUCCEEDED": 458845,
+          "TIMED-OUT": 258,
+          "TOTAL": 459136
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.269829998094046,
+        "bookmarkCount": 45
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-profile-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-profile-search-scraper",
+      "title": "Linkedin Profile Search Scraper + EMAIL (No Cookies Required)",
+      "description": "Find and extract detailed LinkedIn profile data by name, location, and job title. Get professional information, contact details, current positions, and more. Perfect for recruitment, sales prospecting, and lead generation. Clean, structured data ready for your business needs.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-04T19:17:55.104000+00:00",
+      "modified_at": "2025-12-27T10:33:07.286000+00:00",
+      "stats": {
+        "totalBuilds": 18,
+        "totalRuns": 130947,
+        "totalUsers": 513,
+        "totalUsers7Days": 26,
+        "totalUsers30Days": 83,
+        "totalUsers90Days": 245,
+        "lastRunStartedAt": "2026-01-11T07:58:34.886000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 75,
+          "FAILED": 0,
+          "SUCCEEDED": 44569,
+          "TIMED-OUT": 2,
+          "TOTAL": 44646
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.382186532480029,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/linkedin-company-people-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "linkedin-company-people-scraper",
+      "title": "Linkedin Company Employees/People Scraper",
+      "description": "The Actor is designed to extract information from LinkedIn company pages, capturing details that include the names of individuals, their positions, usernames, profile images, the URLs of their LinkedIn profile pages, and the names of their associated companies",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-26T16:24:34.823000+00:00",
+      "modified_at": "2025-12-15T16:19:37.759000+00:00",
+      "stats": {
+        "totalBuilds": 106,
+        "totalRuns": 14982,
+        "totalUsers": 1025,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 82,
+        "lastRunStartedAt": "2026-01-11T07:55:19.543000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 19,
+          "SUCCEEDED": 1138,
+          "TIMED-OUT": 0,
+          "TOTAL": 1167
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.954151872347079,
+        "bookmarkCount": 52
+      },
+      "categories": [
+        "JOBS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "caprolok/linkedin-employees-scraper",
+      "error": null,
+      "exists": true,
+      "username": "caprolok",
+      "name": "linkedin-employees-scraper",
+      "title": "Linkedin Employees Scraper",
+      "description": "Effortlessly gather LinkedIn URLs and names of employees in bulk. Ideal for HR and recruitment, this tool quickly provides essential contact information, simplifying talent search and networking opportunities.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-12-30T08:51:55.864000+00:00",
+      "modified_at": "2025-12-30T05:42:10.237000+00:00",
+      "stats": {
+        "totalBuilds": 195,
+        "totalRuns": 247946,
+        "totalUsers": 3361,
+        "totalUsers7Days": 30,
+        "totalUsers30Days": 95,
+        "totalUsers90Days": 401,
+        "lastRunStartedAt": "2026-01-11T07:55:50.218000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 9,
+          "FAILED": 0,
+          "SUCCEEDED": 5401,
+          "TIMED-OUT": 3,
+          "TOTAL": 5413
+        },
+        "actorReviewCount": 21,
+        "actorReviewRating": 1.7992275821464676,
+        "bookmarkCount": 119
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "JOBS",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "muhammad_usama/Github-Apify-Linkedin-data-scraper",
+      "error": null,
+      "exists": true,
+      "username": "muhammad_usama",
+      "name": "Github-Apify-Linkedin-data-scraper",
+      "title": "Linkedin Person Data Scraper",
+      "description": "This Actor can scrape all the public data of person, provided his linkedin profile's url. The data includes name, follwers, profile Picture, education, experiences and much more...",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-31T16:56:54.008000+00:00",
+      "modified_at": "2025-10-01T19:18:52.059000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 10074512,
+        "totalUsers": 384,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 21,
+        "lastRunStartedAt": "2026-01-11T08:04:00.070000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 2024143,
+          "TIMED-OUT": 19,
+          "TOTAL": 2024164
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fetchclub/linkedin-company-profiles-scraper",
+      "error": null,
+      "exists": true,
+      "username": "fetchclub",
+      "name": "linkedin-company-profiles-scraper",
+      "title": "LinkedIn Company Profiles Scraper",
+      "description": "Actively Maintained - Affordable Rental & Run Cost - LinkedIn Company Profiles Scraper - Extract detailed data from company LinkedIn profiles. Export results for analysis, connect via API, & integrate with other apps. Perfect for recruitment, business, & market research. Unofficial LinkedIn API.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-09-28T20:41:13.226000+00:00",
+      "modified_at": "2025-09-16T22:28:39.337000+00:00",
+      "stats": {
+        "totalBuilds": 50,
+        "totalRuns": 630455,
+        "totalUsers": 673,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 42,
+        "totalUsers90Days": 101,
+        "lastRunStartedAt": "2026-01-11T08:04:21.868000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 21,
+          "SUCCEEDED": 159074,
+          "TIMED-OUT": 5,
+          "TOTAL": 159111
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 23
+      },
+      "categories": [
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-company-posts-batch-scraper-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-company-posts-batch-scraper-no-cookies",
+      "title": "Linkedin Company Posts Batch Scraper | No Cookies",
+      "description": "Extract public posts data in batch from companies including post content, reactions, comments count, and media attachments",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-05-04T23:51:06.386000+00:00",
+      "modified_at": "2025-10-27T21:02:55.259000+00:00",
+      "stats": {
+        "totalBuilds": 25,
+        "totalRuns": 70416,
+        "totalUsers": 414,
+        "totalUsers7Days": 47,
+        "totalUsers30Days": 67,
+        "totalUsers90Days": 133,
+        "lastRunStartedAt": "2026-01-11T08:00:25.387000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 16273,
+          "TIMED-OUT": 4,
+          "TOTAL": 16279
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bestscrapers/linkedin-open-profile-status",
+      "error": null,
+      "exists": true,
+      "username": "bestscrapers",
+      "name": "linkedin-open-profile-status",
+      "title": "Linkedin Open Profile Status",
+      "description": "The **Linkedin Open Profile Status** is a powerful tool designed to accurately detect whether a profile's open status (i.e., can receive InMail) is true or false.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-23T18:25:46.167000+00:00",
+      "modified_at": "2025-12-16T15:16:34.976000+00:00",
+      "stats": {
+        "totalBuilds": 16,
+        "totalRuns": 277689,
+        "totalUsers": 204,
+        "totalUsers7Days": 9,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 184,
+        "lastRunStartedAt": "2026-01-11T07:43:56.330000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 0,
+          "SUCCEEDED": 34890,
+          "TIMED-OUT": 0,
+          "TOTAL": 34895
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fetchclub/linkedin-jobs-scraper",
+      "error": null,
+      "exists": true,
+      "username": "fetchclub",
+      "name": "linkedin-jobs-scraper",
+      "title": "LinkedIn Jobs & Company Scraper",
+      "description": "Actively Maintained - Cheap Rental & Run Cost - LinkedIn Jobs Scraper  + Companies - to extract job listings worldwide. Export results for analysis, connect via API, & integrate with other apps. Please note that LinkedIn may block some requests leading their being to fewer results than expected.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-09-11T23:42:27.770000+00:00",
+      "modified_at": "2025-09-16T22:28:40.565000+00:00",
+      "stats": {
+        "totalBuilds": 102,
+        "totalRuns": 310845,
+        "totalUsers": 906,
+        "totalUsers7Days": 18,
+        "totalUsers30Days": 41,
+        "totalUsers90Days": 93,
+        "lastRunStartedAt": "2026-01-11T00:00:00.634000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 10,
+          "SUCCEEDED": 9484,
+          "TIMED-OUT": 0,
+          "TOTAL": 9502
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 3.744474193745891,
+        "bookmarkCount": 36
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-comment-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-comment-scraper",
+      "title": "Linkedin comment scraper",
+      "description": "Scrape comments from any linkedin post with following details: Comment text, Comment author details, Total Likes, Total replies, etc",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-09-03T06:00:51.328000+00:00",
+      "modified_at": "2025-10-13T17:42:24.446000+00:00",
+      "stats": {
+        "totalBuilds": 59,
+        "totalRuns": 80260,
+        "totalUsers": 1019,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 28,
+        "lastRunStartedAt": "2026-01-09T12:24:20.875000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 16,
+          "SUCCEEDED": 67,
+          "TIMED-OUT": 0,
+          "TOTAL": 85
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1,
+        "bookmarkCount": 21
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "radeance/wellfound-job-listings-scraper",
+      "error": null,
+      "exists": true,
+      "username": "radeance",
+      "name": "wellfound-job-listings-scraper",
+      "title": "Wellfound Scraper",
+      "description": "Access high quality startup job and company data from Wellfound (AngelList) skills, experience, salary, remote policies, company linkedin, funding rounds, teams and investors. Built for recruiters, analysts, and job seekers with fast export to JSON, CSV, Excel, RSS & more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-06-01T00:09:29.781000+00:00",
+      "modified_at": "2025-12-14T19:57:03.294000+00:00",
+      "stats": {
+        "totalBuilds": 127,
+        "totalRuns": 15523,
+        "totalUsers": 744,
+        "totalUsers7Days": 53,
+        "totalUsers30Days": 90,
+        "totalUsers90Days": 145,
+        "lastRunStartedAt": "2026-01-11T08:00:25.776000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 30,
+          "FAILED": 0,
+          "SUCCEEDED": 2564,
+          "TIMED-OUT": 1,
+          "TOTAL": 2609
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.694039921833101,
+        "bookmarkCount": 29
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "unlimitedleadtestinbox/linkedin-profile-url-finder",
+      "error": null,
+      "exists": true,
+      "username": "unlimitedleadtestinbox",
+      "name": "linkedin-profile-url-finder",
+      "title": "Linkedin profile url finder",
+      "description": "Find people linkedin profile urls from full name and company name",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-18T16:05:11.749000+00:00",
+      "modified_at": "2025-11-18T18:13:29.980000+00:00",
+      "stats": {
+        "totalBuilds": 7,
+        "totalRuns": 262045,
+        "totalUsers": 243,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 31,
+        "totalUsers90Days": 102,
+        "lastRunStartedAt": "2026-01-11T08:01:54.811000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 37618,
+          "TIMED-OUT": 0,
+          "TOTAL": 37620
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "cheap_scraper/linkedin-job-scraper",
+      "error": null,
+      "exists": true,
+      "username": "cheap_scraper",
+      "name": "linkedin-job-scraper",
+      "title": "LinkedIn Jobs Scraper | Remove Duplicate Jobs | Pay Per Result",
+      "description": "LinkedIn Jobs Scraper | Remove Duplicate Jobs.\n\nThe LinkedIn jobs scraper allows you to collect jobs in 2 ways:\n\n    By providing one or more start URLs, or\n    By entering multiple keywords, search queries.\n\nYou can use either method individually or combine both.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-26T16:16:58.428000+00:00",
+      "modified_at": "2026-01-10T15:19:03.140000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 69649,
+        "totalUsers": 1506,
+        "totalUsers7Days": 80,
+        "totalUsers30Days": 159,
+        "totalUsers90Days": 407,
+        "lastRunStartedAt": "2026-01-11T08:03:03.761000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 111,
+          "FAILED": 0,
+          "SUCCEEDED": 9051,
+          "TIMED-OUT": 16,
+          "TOTAL": 9178
+        },
+        "actorReviewCount": 13,
+        "actorReviewRating": 4.724746349139859,
+        "bookmarkCount": 64
+      },
+      "categories": [
+        "JOBS",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "olympus/b2b-leads-finder",
+      "error": null,
+      "exists": true,
+      "username": "olympus",
+      "name": "b2b-leads-finder",
+      "title": "🟢 Leads Finder -$1/1k leads [like apollo, linkedIn",
+      "description": "🔥🔥 BUGS FIXED- ✅ Work & Personal Emails ✅ 📞 Phone | Extract leads with just a search URL",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-10-20T00:01:47.440000+00:00",
+      "modified_at": "2026-01-10T17:27:24.199000+00:00",
+      "stats": {
+        "totalBuilds": 173,
+        "totalRuns": 5547,
+        "totalUsers": 1583,
+        "totalUsers7Days": 92,
+        "totalUsers30Days": 277,
+        "totalUsers90Days": 977,
+        "lastRunStartedAt": "2026-01-11T07:31:29.511000+00:00",
+        "actorReviewCount": 47,
+        "actorReviewRating": 3.6204164829424044,
+        "bookmarkCount": 63,
+        "publicActorRunStats30Days": {
+          "ABORTED": 48,
+          "FAILED": 33,
+          "SUCCEEDED": 1263,
+          "TIMED-OUT": 1,
+          "TOTAL": 1508
+        }
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SEO_TOOLS",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-company-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-company-scraper",
+      "title": "Linkedin company scraper",
+      "description": "This linkedin company extractor program gives you all available information several companies in bulk including name, address, phone numbers, website, employee count, etc",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-06-14T19:52:39.574000+00:00",
+      "modified_at": "2025-10-13T17:42:48.795000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 412774,
+        "totalUsers": 1303,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-07T19:26:34.238000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 25,
+          "SUCCEEDED": 184,
+          "TIMED-OUT": 1,
+          "TOTAL": 221
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 43
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "logical_scrapers/linkedin-company-scraper",
+      "error": null,
+      "exists": true,
+      "username": "logical_scrapers",
+      "name": "linkedin-company-scraper",
+      "title": "Linkedin-company-scraper",
+      "description": "FASTEST LinkedIn company scraper. BULK Pull 50,000+ enriched company profiles in under 10 minutes. Company name, address, description, employee count, logo URL, website, industry, company size/type, headquarters, founding year, specialties, similar/affiliated pages, stock info and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-06-27T11:52:20.729000+00:00",
+      "modified_at": "2026-01-03T18:28:29.165000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 343305,
+        "totalUsers": 1547,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 67,
+        "totalUsers90Days": 166,
+        "lastRunStartedAt": "2026-01-11T01:55:15.143000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 22370,
+          "TIMED-OUT": 6,
+          "TOTAL": 22378
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 3.891149897838207,
+        "bookmarkCount": 47
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fantastic-jobs/career-site-job-listing-feed",
+      "error": null,
+      "exists": true,
+      "username": "fantastic-jobs",
+      "name": "career-site-job-listing-feed",
+      "title": "Career Site Job Listing Feed",
+      "description": "The perfect Job Posting Feed for high-quality real jobs! Direct postings from over 140k company career sites across 41 ATS platforms like: Workday, Greenhouse, and Ashby. Enriched with AI and LinkedIn company data, with up to 60 fields per job! Includes Lever, Rippling, SuccessFactors, iCIMS",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-28T11:07:35.884000+00:00",
+      "modified_at": "2025-12-29T10:05:44.395000+00:00",
+      "stats": {
+        "totalBuilds": 60,
+        "totalRuns": 135007,
+        "totalUsers": 389,
+        "totalUsers7Days": 39,
+        "totalUsers30Days": 71,
+        "totalUsers90Days": 146,
+        "lastRunStartedAt": "2026-01-11T07:57:00.868000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 2,
+          "SUCCEEDED": 33749,
+          "TIMED-OUT": 0,
+          "TOTAL": 33756
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.854303493005528,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "JOBS",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/linkedin-post-reactions-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "linkedin-post-reactions-scraper",
+      "title": "Linkedin post reactions scraper",
+      "description": "Scrape reactions or likes from linkedin post",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-15T18:25:55.437000+00:00",
+      "modified_at": "2025-10-13T17:44:15.028000+00:00",
+      "stats": {
+        "totalBuilds": 25,
+        "totalRuns": 43903,
+        "totalUsers": 594,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 22,
+        "lastRunStartedAt": "2026-01-04T12:06:00.169000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 28,
+          "SUCCEEDED": 43,
+          "TIMED-OUT": 0,
+          "TOTAL": 71
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 18
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "logical_scrapers/linkedin-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "logical_scrapers",
+      "name": "linkedin-profile-scraper",
+      "title": "Linkedin Profile Scraper",
+      "description": "🚀 Fastest linkedin profile scraper. Easily extract comprehensive LinkedIn profile data, including name, headline, industry, location, experience, education, skills, certifications, and more. Automates LinkedIn data collection for lead generation, recruiting, research, and competitive analysis.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-07-02T19:41:53.769000+00:00",
+      "modified_at": "2025-10-15T11:08:38.564000+00:00",
+      "stats": {
+        "totalBuilds": 29,
+        "totalRuns": 163020,
+        "totalUsers": 421,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 37,
+        "lastRunStartedAt": "2026-01-10T10:37:48.387000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 41,
+          "TIMED-OUT": 0,
+          "TOTAL": 42
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.04197442048845,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datadoping/linkedin-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datadoping",
+      "name": "linkedin-profile-scraper",
+      "title": "Linkedin Profile Scraper with Email & Company Data (No Cookie)",
+      "description": "For just $4 per 1,000 profiles, LinkedIn Profile with Email & Company Data and get complete lead information, including verified emails, using their username, URL, or URN.\n\nThis advanced scraper integrates with tools like Apollo, Hunter, Lusha etc. to ensure accurate and up-to-date email data.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-10-05T01:20:52.922000+00:00",
+      "modified_at": "2026-01-07T02:08:02.694000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 71354,
+        "totalUsers": 618,
+        "totalUsers7Days": 32,
+        "totalUsers30Days": 93,
+        "totalUsers90Days": 328,
+        "lastRunStartedAt": "2026-01-11T07:45:09.127000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 67,
+          "FAILED": 0,
+          "SUCCEEDED": 7222,
+          "TIMED-OUT": 6,
+          "TOTAL": 7295
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.82518196912331,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-job-detail",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-job-detail",
+      "title": "Linkedin Job Details (No Cookies)",
+      "description": "Extract comprehensive LinkedIn job details including full description, company information, salary insights, and application statistics. Get detailed data from any LinkedIn job ID.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-11-20T23:20:03.243000+00:00",
+      "modified_at": "2025-11-13T10:26:18.719000+00:00",
+      "stats": {
+        "totalBuilds": 42,
+        "totalRuns": 554103,
+        "totalUsers": 760,
+        "totalUsers7Days": 40,
+        "totalUsers30Days": 64,
+        "totalUsers90Days": 128,
+        "lastRunStartedAt": "2026-01-11T08:06:04.111000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 0,
+          "SUCCEEDED": 73815,
+          "TIMED-OUT": 7,
+          "TOTAL": 73826
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 41
+      },
+      "categories": [
+        "AUTOMATION",
+        "JOBS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bestscrapers/linkedin-sales-navigator-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bestscrapers",
+      "name": "linkedin-sales-navigator-scraper",
+      "title": "Linkedin Sales Navigator Scraper",
+      "description": "A powerful tool designed to extract detailed lead information from a Sales Navigator URL — without the need for cookies or login.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-23T18:06:53.082000+00:00",
+      "modified_at": "2025-12-24T04:32:15.106000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 9255,
+        "totalUsers": 523,
+        "totalUsers7Days": 36,
+        "totalUsers30Days": 95,
+        "totalUsers90Days": 399,
+        "lastRunStartedAt": "2026-01-11T06:53:50.826000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 2868,
+          "TIMED-OUT": 0,
+          "TOTAL": 2871
+        },
+        "actorReviewCount": 14,
+        "actorReviewRating": 3.5032969346177207,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "peak050423/linkedin-company-follower-scraper",
+      "error": null,
+      "exists": true,
+      "username": "peak050423",
+      "name": "linkedin-company-follower-scraper",
+      "title": "LinkedIn Company Follower Scraper",
+      "description": "This powerful tool helps actors and industry professionals gather valuable follower information from companies on LinkedIn. By using hidden APIs, this scraper provides access to data that enhances networking efforts.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-16T13:32:25.655000+00:00",
+      "modified_at": "2025-04-15T13:57:59.482000+00:00",
+      "stats": {
+        "totalBuilds": 72,
+        "totalRuns": 416,
+        "totalUsers": 107,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 19,
+        "lastRunStartedAt": "2026-01-08T15:52:26.195000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 7,
+          "SUCCEEDED": 0,
+          "TIMED-OUT": 0,
+          "TOTAL": 7
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 5,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "lntb/linkedin-jobs-scraper---multiple-titles-locations-in-one",
+      "error": null,
+      "exists": true,
+      "username": "lntb",
+      "name": "linkedin-jobs-scraper---multiple-titles-locations-in-one",
+      "title": "🔥 LinkedIn Jobs Scraper – Multiple Titles & Locations in One!",
+      "description": "This LinkedIn Job Scraper allows you to extract job listings across multiple job titles and locations: \n🔍 Key Features:\nInput multiple job titles (e.g. \"Software Engineer\", \"Data Analyst\")\nInput multiple locations (e.g. \"London\", \"New York\", \"Berlin\")\nFilters by work type: On-site, Remote, Hybrid",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-13T07:52:32.361000+00:00",
+      "modified_at": "2025-12-25T11:19:46.699000+00:00",
+      "stats": {
+        "totalBuilds": 94,
+        "totalRuns": 11638,
+        "totalUsers": 191,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 45,
+        "totalUsers90Days": 79,
+        "lastRunStartedAt": "2026-01-11T07:43:37.687000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 743,
+          "TIMED-OUT": 4,
+          "TOTAL": 754
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 5,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "JOBS",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-job-search",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-job-search",
+      "title": "Advanced Linkedin Job Scraper (No Cookies)",
+      "description": "The most Advanced LinkedIn Job Search Scraper. No cookies or account required. Concurrency + fast response times",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-14T17:32:37.188000+00:00",
+      "modified_at": "2025-12-04T13:59:45.097000+00:00",
+      "stats": {
+        "totalBuilds": 46,
+        "totalRuns": 202990,
+        "totalUsers": 642,
+        "totalUsers7Days": 64,
+        "totalUsers30Days": 133,
+        "totalUsers90Days": 237,
+        "lastRunStartedAt": "2026-01-11T07:00:01.472000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 21,
+          "FAILED": 0,
+          "SUCCEEDED": 122231,
+          "TIMED-OUT": 0,
+          "TOTAL": 122252
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.523906289273726,
+        "bookmarkCount": 32
+      },
+      "categories": [
+        "AUTOMATION",
+        "JOBS",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/linkedin-group-member-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "linkedin-group-member-scraper",
+      "title": "Linkedin Group Member Scraper",
+      "description": "Linkedin  Group Member Scraper– is Advance Software with Unique Feature for Extract Member information from Any Linkedin Group - update 17/05/2025  via api now very fast",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-06T18:56:58.106000+00:00",
+      "modified_at": "2025-11-21T13:45:40.863000+00:00",
+      "stats": {
+        "totalBuilds": 41,
+        "totalRuns": 1352,
+        "totalUsers": 389,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 42,
+        "lastRunStartedAt": "2026-01-08T08:57:22.359000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 50,
+          "TIMED-OUT": 0,
+          "TOTAL": 61
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/linkedin-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "linkedin-email-scraper",
+      "title": "Linkedin Email Scraper",
+      "description": "Linkedin Email Scraper- Scrap Emails from linkedin specific profile using google search engine",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-09T07:34:34.235000+00:00",
+      "modified_at": "2025-11-25T18:37:39.584000+00:00",
+      "stats": {
+        "totalBuilds": 55,
+        "totalRuns": 17265,
+        "totalUsers": 3103,
+        "totalUsers7Days": 10,
+        "totalUsers30Days": 46,
+        "totalUsers90Days": 194,
+        "lastRunStartedAt": "2026-01-11T08:02:14.270000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 58,
+          "FAILED": 0,
+          "SUCCEEDED": 320,
+          "TIMED-OUT": 0,
+          "TOTAL": 383
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 3.873107057707443,
+        "bookmarkCount": 64
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bestscrapers/linkedin-company-insights-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bestscrapers",
+      "name": "linkedin-company-insights-scraper",
+      "title": "Linkedin Company Insights Scraper",
+      "description": "The **LinkedIn Company Insights Scraper** is a powerful tool designed to extract detailed company insights information from public company ID — without the need for cookies or login.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-23T18:30:15.754000+00:00",
+      "modified_at": "2025-12-06T16:26:09.798000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 18848,
+        "totalUsers": 184,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 173,
+        "lastRunStartedAt": "2026-01-11T03:40:50.682000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 2127,
+          "TIMED-OUT": 0,
+          "TOTAL": 2127
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "caprolok/linkedin-leads-generator",
+      "error": null,
+      "exists": true,
+      "username": "caprolok",
+      "name": "linkedin-leads-generator",
+      "title": "Linkedin Leads Generator",
+      "description": "Extract verified LinkedIn leads by job title, industry, location, and language. Get emails, usernames, and profile links. Perfect for B2B outreach, recruiting, and professional networking at scale.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-01T09:36:21.663000+00:00",
+      "modified_at": "2025-12-30T07:30:46.291000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 2528,
+        "totalUsers": 598,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 111,
+        "lastRunStartedAt": "2026-01-10T17:36:13.004000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 82,
+          "TIMED-OUT": 0,
+          "TOTAL": 83
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "riceman/linkedin-company-data-insights-scraper",
+      "error": null,
+      "exists": true,
+      "username": "riceman",
+      "name": "linkedin-company-data-insights-scraper",
+      "title": "LinkedIn Company Data & Insights Scraper [NO COOKIE]",
+      "description": "Scrape comprehensive LinkedIn company data & business insights without your LinkedIn account. Extract basic company data, headcount growth, job openings, hiring patterns & employee analytics. Automatic retries, pay-per-use.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-30T07:17:02.142000+00:00",
+      "modified_at": "2025-11-23T04:52:21.141000+00:00",
+      "stats": {
+        "totalBuilds": 36,
+        "totalRuns": 18498,
+        "totalUsers": 115,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 27,
+        "totalUsers90Days": 56,
+        "lastRunStartedAt": "2026-01-11T07:41:47.685000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 4174,
+          "TIMED-OUT": 6,
+          "TOTAL": 4188
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "solana/advanced-linkedin-sales-navigator-scraper-verified-leads",
+      "error": null,
+      "exists": true,
+      "username": "solana",
+      "name": "advanced-linkedin-sales-navigator-scraper-verified-leads",
+      "title": "Advanced LinkedIn Sales Navigator Scraper - Verified Leads",
+      "description": "Extract accurate LinkedIn Sales Navigator leads – full names, roles & companies. Blazing-fast, enhanced, CRM-ready. Works securely with your `li_at` linkedin cookie.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-16T11:08:12.621000+00:00",
+      "modified_at": "2025-08-21T07:16:55.260000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 903,
+        "totalUsers": 266,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 56,
+        "lastRunStartedAt": "2026-01-09T16:02:44.290000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 57,
+          "SUCCEEDED": 0,
+          "TIMED-OUT": 0,
+          "TOTAL": 57
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 1.9132026886409712,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/linkedin-company-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "linkedin-company-profile-scraper",
+      "title": "LinkedIn Company Profile Scraper",
+      "description": "This LinkedIn company extractor program enables you to gather comprehensive information on multiple companies in bulk. It provides details such as company name, address, phone numbers, website, employee count, and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-04T07:55:39.933000+00:00",
+      "modified_at": "2025-04-16T04:30:06.833000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 87082,
+        "totalUsers": 1323,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 67,
+        "totalUsers90Days": 185,
+        "lastRunStartedAt": "2026-01-11T06:00:09.460000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 44,
+          "SUCCEEDED": 2038,
+          "TIMED-OUT": 0,
+          "TOTAL": 2083
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 54
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-companies-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-companies-search-scraper",
+      "title": "LinkedIn Companies Search Scraper | No Cookies",
+      "description": "Scrape LinkedIn companies using keywords without login and get structured data including company profiles, industries, locations, and follower count.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-05-17T20:30:36.820000+00:00",
+      "modified_at": "2025-11-02T17:06:41.887000+00:00",
+      "stats": {
+        "totalBuilds": 10,
+        "totalRuns": 77515,
+        "totalUsers": 711,
+        "totalUsers7Days": 37,
+        "totalUsers30Days": 87,
+        "totalUsers90Days": 234,
+        "lastRunStartedAt": "2026-01-11T07:58:35.877000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 21040,
+          "TIMED-OUT": 0,
+          "TOTAL": 21040
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.412063025017266,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "anchor/linkedin-profile-enrichment",
+      "error": null,
+      "exists": true,
+      "username": "anchor",
+      "name": "linkedin-profile-enrichment",
+      "title": "LinkedIn Profile Scraper for cheap lead enrichment ✅",
+      "description": "Extract LIVE LinkedIn profile data from LinkedIn URLs. Works with people and companies. Upload a CSV of LinkedIn URLs or use the API. Automate your LinkedIn enrichment with N8N, Make, Zapier integrations... No Cookies. Cheap, high-quality, live lead enrichment for LinkedIn profiles !",
+      "readme": "",
+      "version": "0.10",
+      "created_at": "2024-04-15T20:49:38.537000+00:00",
+      "modified_at": "2025-12-05T07:35:24.355000+00:00",
+      "stats": {
+        "totalBuilds": 147,
+        "totalRuns": 173954,
+        "totalUsers": 3580,
+        "totalUsers7Days": 57,
+        "totalUsers30Days": 154,
+        "totalUsers90Days": 469,
+        "lastRunStartedAt": "2026-01-11T08:09:34.704000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 9,
+          "FAILED": 0,
+          "SUCCEEDED": 21672,
+          "TIMED-OUT": 3,
+          "TOTAL": 21685
+        },
+        "actorReviewCount": 14,
+        "actorReviewRating": 4.88356263236822,
+        "bookmarkCount": 83
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/linkedin-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "linkedin-posts-scraper",
+      "title": "LinkedIn Posts Scraper",
+      "description": "Scrape LinkedIn posts data from LinkedIn Post URLs.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-14T06:48:16.513000+00:00",
+      "modified_at": "2025-09-29T04:13:51.284000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 44732,
+        "totalUsers": 643,
+        "totalUsers7Days": 9,
+        "totalUsers30Days": 26,
+        "totalUsers90Days": 69,
+        "lastRunStartedAt": "2026-01-11T07:17:44.881000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 31,
+          "SUCCEEDED": 3891,
+          "TIMED-OUT": 1,
+          "TOTAL": 3932
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "unlimitedleadtestinbox/linkedin-company-employees-scraper-no-cookie",
+      "error": null,
+      "exists": true,
+      "username": "unlimitedleadtestinbox",
+      "name": "linkedin-company-employees-scraper-no-cookie",
+      "title": "Linkedin Company Employees Scraper (No cookie)",
+      "description": "Linkedin Company Employees Scraper (No cookie)",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-14T15:14:18.926000+00:00",
+      "modified_at": "2025-12-03T07:42:51.980000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 28867,
+        "totalUsers": 95,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-10T19:17:55.230000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 98,
+          "TIMED-OUT": 0,
+          "TOTAL": 98
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "vulnv/linkedin-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "vulnv",
+      "name": "linkedin-profile-scraper",
+      "title": "🚀 LinkedIn Profile Scraper ⚡ No Login Required",
+      "description": "Extract comprehensive data from public LinkedIn user profiles including work experience, education, skills, connections, and activity. Bulk processing supported. No LinkedIn authentication needed - just provide profile URLs and get structured JSON data.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-08-02T17:36:56.303000+00:00",
+      "modified_at": "2025-12-15T22:28:40.889000+00:00",
+      "stats": {
+        "totalBuilds": 16,
+        "totalRuns": 2936,
+        "totalUsers": 321,
+        "totalUsers7Days": 19,
+        "totalUsers30Days": 59,
+        "totalUsers90Days": 130,
+        "lastRunStartedAt": "2026-01-11T05:00:16.359000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 1,
+          "SUCCEEDED": 959,
+          "TIMED-OUT": 2,
+          "TOTAL": 972
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "future_creator/linkedin-jobs-scraper",
+      "error": null,
+      "exists": true,
+      "username": "future_creator",
+      "name": "linkedin-jobs-scraper",
+      "title": "⚡️ Linkedin Jobs Scraper",
+      "description": "This LinkedIn Jobs scraper efficiently gathers detailed information about job vacancies on LinkedIn based on your specified criteria. Easily configure filters to match LinkedIn's search capabilities, ensuring precise and comprehensive selection of relevant job listings.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-05-24T15:37:28.363000+00:00",
+      "modified_at": "2025-07-12T09:15:39.256000+00:00",
+      "stats": {
+        "totalBuilds": 76,
+        "totalRuns": 3279,
+        "totalUsers": 404,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 42,
+        "lastRunStartedAt": "2026-01-11T05:00:37.600000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 73,
+          "TIMED-OUT": 0,
+          "TOTAL": 74
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/linkedin-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "linkedin-email-scraper",
+      "title": "Linkedin Email Scraper",
+      "description": "🚀 Effortlessly scrape email addresses from LinkedIn profiles! 👥 Find professionals matching your keywords and specific email domains. Perfect for lead generation, recruitment, and B2B outreach campaigns. Powered by stealth technology for reliable data collection. 📧🕵️‍♂️",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-12T07:11:24.683000+00:00",
+      "modified_at": "2025-11-25T00:28:21.762000+00:00",
+      "stats": {
+        "totalBuilds": 8,
+        "totalRuns": 6078,
+        "totalUsers": 1062,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 99,
+        "lastRunStartedAt": "2026-01-09T15:10:39.002000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 130,
+          "TIMED-OUT": 0,
+          "TOTAL": 132
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 3.114430759724257,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraping_solutions/linkedin-posts-scraper-users-groups-schools-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "scraping_solutions",
+      "name": "linkedin-posts-scraper-users-groups-schools-no-cookies",
+      "title": "Linkedin Posts Scraper (users,companies,groups) ✅ No cookies ✅",
+      "description": "LinkedIn Timelines Posts Scraper\nScrape LinkedIn timeline posts from users, groups, showcase pages, and schools quickly and efficiently. This actor extracts detailed post data, including content, timestamps, engagement metrics (likes, comments, shares), and media (images, videos, links).",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-17T01:49:53.054000+00:00",
+      "modified_at": "2025-12-09T16:53:24.385000+00:00",
+      "stats": {
+        "totalBuilds": 16,
+        "totalRuns": 25875,
+        "totalUsers": 161,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 22,
+        "lastRunStartedAt": "2026-01-11T05:00:38.096000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 9,
+          "SUCCEEDED": 48,
+          "TIMED-OUT": 0,
+          "TOTAL": 57
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 3.6838525823232624,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "getdataforme/linkedin-user-post-scraper",
+      "error": null,
+      "exists": true,
+      "username": "getdataforme",
+      "name": "linkedin-user-post-scraper",
+      "title": "Linkedin-user-post-Scraper ✅",
+      "description": "Linkedin Post Scraper is the apify actor to scrape posts from users. It also support build entry of the urls and scrapes all the post posted by the users or company with full detailed information like. If it was a reposted linkedin post or self. Company details, url, the reaction on the post.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-17T08:13:18.714000+00:00",
+      "modified_at": "2025-03-26T05:50:49.102000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 6543,
+        "totalUsers": 70,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 20,
+        "lastRunStartedAt": "2026-01-09T05:29:48.286000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 13,
+          "TIMED-OUT": 0,
+          "TOTAL": 13
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-post-reshares",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-post-reshares",
+      "title": "LinkedIn Post Reshares/Reposts Scraper || No Cookies",
+      "description": "LinkedIn Post Reposts Scraper:\nExtract reposts for a given LinkedIn post including author data, stats, media attachments and more.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-04-09T17:38:44.350000+00:00",
+      "modified_at": "2026-01-06T11:06:30.769000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 52487,
+        "totalUsers": 91,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 20,
+        "lastRunStartedAt": "2026-01-11T04:03:27.814000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 27,
+          "SUCCEEDED": 15011,
+          "TIMED-OUT": 0,
+          "TOTAL": 15038
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/discover-linkedin-people-posts",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "discover-linkedin-people-posts",
+      "title": "Discover LinkedIn People Posts",
+      "description": "It retrieves posts created, liked, or commented on by the user, along with detailed insights like reactions, comments, hashtags, and more, in a structured JSON format.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-14T11:55:50.311000+00:00",
+      "modified_at": "2025-03-16T06:13:53.022000+00:00",
+      "stats": {
+        "totalBuilds": 26,
+        "totalRuns": 4270,
+        "totalUsers": 259,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 33,
+        "lastRunStartedAt": "2026-01-09T12:29:46.475000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 108,
+          "TIMED-OUT": 0,
+          "TOTAL": 108
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "valig/linkedin-jobs-scraper",
+      "error": null,
+      "exists": true,
+      "username": "valig",
+      "name": "linkedin-jobs-scraper",
+      "title": "🏆 LinkedIn Jobs Scraper",
+      "description": "🚀 Automatically extract LinkedIn job listings based on your selected role and location, saving time and effort in your job search. 💼✨",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-02T12:38:45.717000+00:00",
+      "modified_at": "2025-11-29T18:10:33.019000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 42883,
+        "totalUsers": 761,
+        "totalUsers7Days": 60,
+        "totalUsers30Days": 112,
+        "totalUsers90Days": 212,
+        "lastRunStartedAt": "2026-01-11T08:01:17.445000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 0,
+          "SUCCEEDED": 6766,
+          "TIMED-OUT": 69,
+          "TOTAL": 6846
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.961529682802537,
+        "bookmarkCount": 42
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harvestapi/linkedin-profile-search-by-name",
+      "error": null,
+      "exists": true,
+      "username": "harvestapi",
+      "name": "linkedin-profile-search-by-name",
+      "title": "Linkedin Profile Search By Name scraper ✅ No Cookies",
+      "description": "Search for LinkedIn profiles by name with filters and extract detailed profile information, including work experience, education history, location and more. No cookies or account required.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-25T21:41:12.971000+00:00",
+      "modified_at": "2026-01-10T18:15:19.551000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 2059812,
+        "totalUsers": 413,
+        "totalUsers7Days": 34,
+        "totalUsers30Days": 84,
+        "totalUsers90Days": 202,
+        "lastRunStartedAt": "2026-01-11T08:07:46.747000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 9,
+          "FAILED": 0,
+          "SUCCEEDED": 52356,
+          "TIMED-OUT": 0,
+          "TOTAL": 52365
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "riceman/linkedin-sales-navigator-lead-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "riceman",
+      "name": "linkedin-sales-navigator-lead-search-scraper",
+      "title": "LinkedIn Sales Navigator | Lead Search Scraper [NO COOKIE/URL]",
+      "description": "Scrape LinkedIn Sales Navigator lead search results—no LinkedIn session cookie or pre-built search URLs required. Just input your search parameters and get lead profiles from search results, all directly within this actor.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-07-05T09:42:36.877000+00:00",
+      "modified_at": "2025-11-16T16:45:52.011000+00:00",
+      "stats": {
+        "totalBuilds": 102,
+        "totalRuns": 1086,
+        "totalUsers": 309,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 30,
+        "totalUsers90Days": 86,
+        "lastRunStartedAt": "2026-01-10T17:35:05.272000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 9,
+          "FAILED": 14,
+          "SUCCEEDED": 130,
+          "TIMED-OUT": 17,
+          "TOTAL": 172
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 1.8358982887237123,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "unlimitedleadtestinbox/linkedin-company-url-finder",
+      "error": null,
+      "exists": true,
+      "username": "unlimitedleadtestinbox",
+      "name": "linkedin-company-url-finder",
+      "title": "Linkedin company url finder",
+      "description": "Linkedin company url finder : find company linkedin url from company name",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-18T17:05:39.105000+00:00",
+      "modified_at": "2025-11-18T18:13:47.259000+00:00",
+      "stats": {
+        "totalBuilds": 4,
+        "totalRuns": 1877,
+        "totalUsers": 71,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 26,
+        "lastRunStartedAt": "2026-01-10T20:59:49.893000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 775,
+          "TIMED-OUT": 0,
+          "TOTAL": 775
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "ivanvs/linkedin-job-scraper",
+      "error": null,
+      "exists": true,
+      "username": "ivanvs",
+      "name": "linkedin-job-scraper",
+      "title": "LinkedIn Job Scraper",
+      "description": "Extract job listings from Linkedin. Scrape details job details like when it is posted, number of applicants, location and salary range. Download listings data in JSON, XML, Excel.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-02T14:12:05.792000+00:00",
+      "modified_at": "2025-07-12T21:21:49.548000+00:00",
+      "stats": {
+        "totalBuilds": 59,
+        "totalRuns": 22752,
+        "totalUsers": 727,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 39,
+        "totalUsers90Days": 122,
+        "lastRunStartedAt": "2026-01-11T04:49:00.613000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 13,
+          "FAILED": 0,
+          "SUCCEEDED": 1106,
+          "TIMED-OUT": 0,
+          "TOTAL": 1119
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.085547765166064,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dead00/linkedin-mutual-connection-analyzer",
+      "error": null,
+      "exists": true,
+      "username": "dead00",
+      "name": "linkedin-mutual-connection-analyzer",
+      "title": "Linkedin Mutual Connection Analyzer",
+      "description": "A LinkedIn Connection Analyzer that analyzes LinkedIn profiles and determines connection degrees between you and target profiles.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-26T10:35:34.691000+00:00",
+      "modified_at": "2025-12-14T11:26:29.472000+00:00",
+      "stats": {
+        "totalBuilds": 12,
+        "totalRuns": 248,
+        "totalUsers": 43,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 23,
+        "lastRunStartedAt": "2026-01-09T01:35:45.924000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 15,
+          "TIMED-OUT": 0,
+          "TOTAL": 16
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/linkedin-bulk-profiles-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "linkedin-bulk-profiles-email-scraper",
+      "title": "Linkedin Bulk Profiles Email Scraper",
+      "description": "LinkedIn Bulk Profiles Email Scraper- Scrap Emails from bulk LinkedIn Profile link using Google Search Engine",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-13T11:54:54.191000+00:00",
+      "modified_at": "2025-11-18T17:12:31.590000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 1380,
+        "totalUsers": 453,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 31,
+        "lastRunStartedAt": "2026-01-09T08:29:54.640000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 27,
+          "TIMED-OUT": 0,
+          "TOTAL": 27
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "logical_scrapers/linkedin-profile-scraper-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "logical_scrapers",
+      "name": "linkedin-profile-scraper-no-cookies",
+      "title": "Linkedin Profile Scraper No Cookies",
+      "description": "LinkedIn Bulk Profile Scraper with No Cookies Required. scrapers all publicly available data from a given LinkedIn profile URL.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-15T13:59:26.417000+00:00",
+      "modified_at": "2025-08-08T07:19:19.959000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 3644,
+        "totalUsers": 359,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 41,
+        "lastRunStartedAt": "2026-01-10T21:14:59.142000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 251,
+          "SUCCEEDED": 328,
+          "TIMED-OUT": 0,
+          "TOTAL": 579
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1,
+        "bookmarkCount": 0
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "ahmed-khaled/linkedin-engagement-scraper",
+      "error": null,
+      "exists": true,
+      "username": "ahmed-khaled",
+      "name": "linkedin-engagement-scraper",
+      "title": "LinkedIn Profile Engagement Scraper (Company and Profile)",
+      "description": "A powerful Apify actor to extract post-engagement metrics from LinkedIn profiles. Gather likes, comments, reposts, and more for data-driven insights. Boost your social media strategy today!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-27T13:19:20.129000+00:00",
+      "modified_at": "2025-11-25T22:05:58.190000+00:00",
+      "stats": {
+        "totalBuilds": 56,
+        "totalRuns": 742,
+        "totalUsers": 236,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 12,
+        "lastRunStartedAt": "2025-12-30T06:49:34.968000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 7,
+          "SUCCEEDED": 2,
+          "TIMED-OUT": 0,
+          "TOTAL": 9
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "AUTOMATION",
+        "JOBS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "unlimitedleadtestinbox/linkedin-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "unlimitedleadtestinbox",
+      "name": "linkedin-email-scraper",
+      "title": "Linkedin email scraper",
+      "description": "Find Professional Email from linkedin profile url",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-24T17:27:59.238000+00:00",
+      "modified_at": "2025-11-18T18:14:09.217000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 546,
+        "totalUsers": 92,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 36,
+        "lastRunStartedAt": "2026-01-10T22:20:59.857000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 5,
+          "SUCCEEDED": 212,
+          "TIMED-OUT": 0,
+          "TOTAL": 217
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/linkedin-people-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "linkedin-people-profile-scraper",
+      "title": "LinkedIn People Profile Scraper",
+      "description": "Retrieve LinkedIn profile URLs and extract comprehensive profile details. This includes basic information, employment history, skills, company information, biography, location, and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-04T06:45:59.388000+00:00",
+      "modified_at": "2025-12-19T07:09:31.838000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 48110,
+        "totalUsers": 1254,
+        "totalUsers7Days": 33,
+        "totalUsers30Days": 70,
+        "totalUsers90Days": 161,
+        "lastRunStartedAt": "2026-01-11T08:00:31.622000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 6764,
+          "TIMED-OUT": 86,
+          "TOTAL": 6852
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.992360646059447,
+        "bookmarkCount": 26
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

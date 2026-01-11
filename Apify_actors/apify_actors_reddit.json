@@ -1,0 +1,724 @@
+{
+  "metadata": {
+    "platform": "reddit",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.930188",
+    "total_actors": 15,
+    "existing_actors": 15,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "trudax/reddit-scraper",
+      "error": null,
+      "exists": true,
+      "username": "trudax",
+      "name": "reddit-scraper",
+      "title": "Reddit Scraper",
+      "description": "Unlimited Reddit web scraper to crawl posts, comments, communities, and users without login. Limit web scraping by number of posts or items and extract all data in a dataset in multiple formats.",
+      "readme": "",
+      "version": "4.11",
+      "created_at": "2022-02-10T09:25:08.220000+00:00",
+      "modified_at": "2025-11-29T05:26:28.095000+00:00",
+      "stats": {
+        "totalBuilds": 313,
+        "totalRuns": 3502268,
+        "totalUsers": 9826,
+        "totalUsers7Days": 101,
+        "totalUsers30Days": 245,
+        "totalUsers90Days": 552,
+        "lastRunStartedAt": "2026-01-11T08:00:15.475000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 768,
+          "FAILED": 49,
+          "SUCCEEDED": 264791,
+          "TIMED-OUT": 120,
+          "TOTAL": 265742
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 4.564781569122915,
+        "bookmarkCount": 152
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "trudax/reddit-scraper-lite",
+      "error": null,
+      "exists": true,
+      "username": "trudax",
+      "name": "reddit-scraper-lite",
+      "title": "Reddit Scraper Lite",
+      "description": "Pay Per Result, unlimited Reddit web scraper to crawl posts, comments, communities, and users without login. Limit web scraping by number of posts or items and extract all data in a dataset in multiple formats.",
+      "readme": "",
+      "version": "4.14",
+      "created_at": "2020-06-25T01:29:02.137000+00:00",
+      "modified_at": "2025-11-29T05:26:32.222000+00:00",
+      "stats": {
+        "totalBuilds": 591,
+        "totalRuns": 2439800,
+        "totalUsers": 11984,
+        "totalUsers7Days": 303,
+        "totalUsers30Days": 607,
+        "totalUsers90Days": 1466,
+        "lastRunStartedAt": "2026-01-11T08:00:21.041000+00:00",
+        "totalMetamorphs": 32959,
+        "publicActorRunStats30Days": {
+          "ABORTED": 147,
+          "FAILED": 2141,
+          "SUCCEEDED": 58868,
+          "TIMED-OUT": 182,
+          "TOTAL": 61345
+        },
+        "actorReviewCount": 16,
+        "actorReviewRating": 2.038752993606049,
+        "bookmarkCount": 308
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS",
+        "AI"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harshmaur/reddit-scraper-pro",
+      "error": null,
+      "exists": true,
+      "username": "harshmaur",
+      "name": "reddit-scraper-pro",
+      "title": "Reddit Scraper Pro",
+      "description": "Reddit Scraper Pro is a powerful, unlimited scraping for $20/mo for extracting data from Reddit. Scrape posts, users, comments, and communities with advanced search capabilities. Perfect for brand monitoring, trend tracking, and competitor research. Supports make, n8n integrations",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-08-24T12:41:22.794000+00:00",
+      "modified_at": "2025-11-26T10:57:51.440000+00:00",
+      "stats": {
+        "totalBuilds": 92,
+        "totalRuns": 297316,
+        "totalUsers": 1252,
+        "totalUsers7Days": 45,
+        "totalUsers30Days": 84,
+        "totalUsers90Days": 228,
+        "lastRunStartedAt": "2026-01-11T08:00:57.030000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 123,
+          "FAILED": 99,
+          "SUCCEEDED": 41547,
+          "TIMED-OUT": 98,
+          "TOTAL": 41869
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.8211949092461066,
+        "bookmarkCount": 53
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/reddit-scraper",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "reddit-scraper",
+      "title": "Reddit Scraper",
+      "description": "Tap into the wealth of Reddit's data with our Reddit Scraper. Extract valuable insights from posts, subreddits, comments, and user data effortlessly. Simplify analysis and gain valuable insights from the diverse Reddit community with our user-friendly and efficient tool.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-06-22T22:51:59.207000+00:00",
+      "modified_at": "2026-01-11T00:14:02.388000+00:00",
+      "stats": {
+        "totalBuilds": 877,
+        "totalRuns": 134305,
+        "totalUsers": 1372,
+        "totalUsers7Days": 24,
+        "totalUsers30Days": 39,
+        "totalUsers90Days": 110,
+        "lastRunStartedAt": "2026-01-11T03:58:45.748000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 21,
+          "FAILED": 37,
+          "SUCCEEDED": 516,
+          "TIMED-OUT": 0,
+          "TOTAL": 574
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 23
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fatihtahta/reddit-scraper-search-fast",
+      "error": null,
+      "exists": true,
+      "username": "fatihtahta",
+      "name": "reddit-scraper-search-fast",
+      "title": "Reddit Scraper | All-In-One | $1.5 / 1K",
+      "description": "Reddit All-in-one Scraper. Scrape posts and full comment threads from any search, subreddit, user, or direct post URL. This enterprise-grade scraper is the fastest in the market and delivers clean and detailed JSON.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-28T10:14:14.576000+00:00",
+      "modified_at": "2025-12-18T12:37:14.999000+00:00",
+      "stats": {
+        "totalBuilds": 60,
+        "totalRuns": 66604,
+        "totalUsers": 896,
+        "totalUsers7Days": 130,
+        "totalUsers30Days": 287,
+        "totalUsers90Days": 500,
+        "lastRunStartedAt": "2026-01-11T08:05:54.923000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 333,
+          "FAILED": 0,
+          "SUCCEEDED": 17371,
+          "TIMED-OUT": 98,
+          "TOTAL": 17805
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 5,
+        "bookmarkCount": 39
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "harshmaur/reddit-scraper",
+      "error": null,
+      "exists": true,
+      "username": "harshmaur",
+      "name": "reddit-scraper",
+      "title": "Reddit Scraper - MCP, AI, PPR",
+      "description": "Reddit Scraper lets you extract posts, comments, users, and communities without API rate limits. With a flexible pay-per-result model, it’s perfect for one-time projects, targeted data pulls, research, brand tracking, and competitor analysis—only pay for what you use. Works with MCP and AI tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-04T14:44:43.415000+00:00",
+      "modified_at": "2025-11-26T10:58:21.704000+00:00",
+      "stats": {
+        "totalBuilds": 41,
+        "totalRuns": 6880,
+        "totalUsers": 260,
+        "totalUsers7Days": 22,
+        "totalUsers30Days": 51,
+        "totalUsers90Days": 118,
+        "lastRunStartedAt": "2026-01-11T05:53:30.062000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 53,
+          "FAILED": 40,
+          "SUCCEEDED": 1309,
+          "TIMED-OUT": 13,
+          "TOTAL": 1417
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "jupri/reddit",
+      "error": null,
+      "exists": true,
+      "username": "jupri",
+      "name": "reddit",
+      "title": "Reddit  Explorer 3.1",
+      "description": "💫 All-in-One Reddit.com Scraper 🟪🟦🟩🟨🟧🟥",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-08-17T08:00:20.389000+00:00",
+      "modified_at": "2025-12-09T19:39:05.814000+00:00",
+      "stats": {
+        "totalBuilds": 96,
+        "totalRuns": 13500,
+        "totalUsers": 289,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 27,
+        "lastRunStartedAt": "2026-01-09T18:41:47.084000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 4,
+          "SUCCEEDED": 107,
+          "TIMED-OUT": 0,
+          "TOTAL": 111
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "creative_tablecloth/reddit-scraper-for-posts",
+      "error": null,
+      "exists": true,
+      "username": "creative_tablecloth",
+      "name": "reddit-scraper-for-posts",
+      "title": "Reddit Scraper For Posts & Comments",
+      "description": "Access Reddit data freely without authentication. Quickly extract detailed information from Reddit posts and comments, both efficiently and cost-effectively. (approx $0.015 for 1,000 results)",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-06-08T09:46:00.404000+00:00",
+      "modified_at": "2025-03-01T04:46:24.960000+00:00",
+      "stats": {
+        "totalBuilds": 39,
+        "totalRuns": 2426,
+        "totalUsers": 408,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 36,
+        "lastRunStartedAt": "2026-01-10T03:59:47.606000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 28,
+          "TIMED-OUT": 0,
+          "TOTAL": 30
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "vulnv/reddit-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "vulnv",
+      "name": "reddit-posts-scraper",
+      "title": "Reddit Posts Scraper",
+      "description": "Unlimited Reddit web scraper to crawl posts, comments and subreddits without login.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-02-13T16:49:38.175000+00:00",
+      "modified_at": "2025-10-07T10:21:02.014000+00:00",
+      "stats": {
+        "totalBuilds": 4,
+        "totalRuns": 3570,
+        "totalUsers": 312,
+        "totalUsers7Days": 10,
+        "totalUsers30Days": 15,
+        "totalUsers90Days": 45,
+        "lastRunStartedAt": "2026-01-10T22:30:10.911000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 170,
+          "TIMED-OUT": 0,
+          "TOTAL": 171
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "comchat/reddit-api-scraper",
+      "error": null,
+      "exists": true,
+      "username": "comchat",
+      "name": "reddit-api-scraper",
+      "title": "Reddit API Scraper",
+      "description": "Reddit Scraper is a powerful tool that allows you to extract data from Reddit such as posts by keyword. With Reddit Scraper, you can easily gather valuable information from Reddit without the need to log in. You can easily use this Reddit scraper as an alternative API.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-12-14T05:13:59.266000+00:00",
+      "modified_at": "2025-01-29T17:04:07.112000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 18070,
+        "totalUsers": 1443,
+        "totalUsers7Days": 19,
+        "totalUsers30Days": 50,
+        "totalUsers90Days": 167,
+        "lastRunStartedAt": "2026-01-11T07:00:05.834000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 8,
+          "SUCCEEDED": 258,
+          "TIMED-OUT": 1,
+          "TOTAL": 272
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 1,
+        "bookmarkCount": 48
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/reddit-posts-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "reddit-posts-search-scraper",
+      "title": "Reddit Posts Search Scraper",
+      "description": "Extract Reddit posts from search results with rich metadata, including media content, engagement metrics, and community information. Perfect for content research, trend analysis, and social media monitoring across Reddit communities.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-04T08:15:04.561000+00:00",
+      "modified_at": "2025-11-25T00:25:57.758000+00:00",
+      "stats": {
+        "totalBuilds": 26,
+        "totalRuns": 1588,
+        "totalUsers": 145,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 34,
+        "lastRunStartedAt": "2026-01-11T04:30:24.590000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 217,
+          "TIMED-OUT": 0,
+          "TOTAL": 218
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dead00/reddit-post-scrapper",
+      "error": null,
+      "exists": true,
+      "username": "dead00",
+      "name": "reddit-post-scrapper",
+      "title": "Reddit Post Scrapper",
+      "description": "A Reddit post scraper is a tool or script that automatically collects data from Reddit posts—such as titles, content, comments.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-18T17:20:53.804000+00:00",
+      "modified_at": "2025-05-18T17:48:30.209000+00:00",
+      "stats": {
+        "totalBuilds": 2,
+        "totalRuns": 2699,
+        "totalUsers": 52,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 5,
+        "lastRunStartedAt": "2026-01-10T04:32:22.650000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 17,
+          "SUCCEEDED": 630,
+          "TIMED-OUT": 0,
+          "TOTAL": 647
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AI",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/reddit-subreddit-users",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "reddit-subreddit-users",
+      "title": "Reddit Subreddit Members Scraper",
+      "description": "Scrape all members of a subreddit. Find the most active and influential users within Reddit communities. Perfect for market research, community analysis, and finding key players in your target niche.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-11T22:01:17.439000+00:00",
+      "modified_at": "2025-12-12T07:54:51.640000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 831,
+        "totalUsers": 129,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 26,
+        "lastRunStartedAt": "2026-01-11T03:41:45.024000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 295,
+          "FAILED": 0,
+          "SUCCEEDED": 71,
+          "TIMED-OUT": 0,
+          "TOTAL": 366
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 2.2560209757983136,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "stefanie-rink/reddit-subreddit-scraper",
+      "error": null,
+      "exists": true,
+      "username": "stefanie-rink",
+      "name": "reddit-subreddit-scraper",
+      "title": "Reddit Subreddit Scraper",
+      "description": "Get Posts and comments from any subreddit - with sorting options for both posts and comments.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-03T01:08:30.830000+00:00",
+      "modified_at": "2025-02-14T00:15:22.183000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 692,
+        "totalUsers": 81,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 6,
+        "lastRunStartedAt": "2026-01-11T08:06:28.735000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 20,
+          "TIMED-OUT": 0,
+          "TOTAL": 20
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/reddit-comments-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "reddit-comments-search-scraper",
+      "title": "Reddit Comments Search Scraper",
+      "description": "Search and extract Reddit comments with advanced filtering options. Get detailed metadata including comment content, author info, post context, and engagement metrics. Perfect for sentiment analysis, trend research, and social media monitoring.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-05T02:51:26.768000+00:00",
+      "modified_at": "2025-11-25T00:34:29.011000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 2662,
+        "totalUsers": 104,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 16,
+        "lastRunStartedAt": "2026-01-10T18:10:50.022000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 586,
+          "TIMED-OUT": 0,
+          "TOTAL": 586
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

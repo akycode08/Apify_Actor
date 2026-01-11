@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "platform": "pinterest",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.930858",
+    "total_actors": 4,
+    "existing_actors": 4,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "epctex/pinterest-scraper",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "pinterest-scraper",
+      "title": "Pinterest Data Extractor",
+      "description": "Unleash the potential of our Pinterest Scraper to gather pins, comments, user info, photos, videos, and deep insights. Extract titles, prices, creation date, user language, user locale, images, hashtags, and more. Export in XML, JSON, CSV, Excel, or HTML for unlimited and fast insights!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-02-17T09:58:50.824000+00:00",
+      "modified_at": "2026-01-11T00:10:08.593000+00:00",
+      "stats": {
+        "totalBuilds": 1060,
+        "totalRuns": 38192,
+        "totalUsers": 1448,
+        "totalUsers7Days": 18,
+        "totalUsers30Days": 53,
+        "totalUsers90Days": 109,
+        "lastRunStartedAt": "2026-01-11T06:00:59.618000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 63,
+          "SUCCEEDED": 1947,
+          "TIMED-OUT": 10,
+          "TOTAL": 2027
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 32
+      },
+      "categories": [
+        "SEO_TOOLS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "jupri/pinterest-explorer",
+      "error": null,
+      "exists": true,
+      "username": "jupri",
+      "name": "pinterest-explorer",
+      "title": "Pinterest Explorer 📌",
+      "description": "💫 All-in-One Pinterest.com Scraper",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-06-07T07:34:02.553000+00:00",
+      "modified_at": "2025-09-06T11:04:42.409000+00:00",
+      "stats": {
+        "totalBuilds": 94,
+        "totalRuns": 166779,
+        "totalUsers": 392,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 34,
+        "lastRunStartedAt": "2026-01-10T23:36:05.863000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 741,
+          "SUCCEEDED": 10355,
+          "TIMED-OUT": 0,
+          "TOTAL": 11099
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/pinterest-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "pinterest-search-scraper",
+      "title": "Pinterest Search Scraper",
+      "description": "The Pinterest Search Scraper is an essential tool for discovering visual content on Pinterest. With customizable search options and detailed data retrieval, it enhances your ability to find and utilize creative inspiration effectively! 🌟",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-13T06:43:31.801000+00:00",
+      "modified_at": "2025-11-25T00:28:31.581000+00:00",
+      "stats": {
+        "totalBuilds": 12,
+        "totalRuns": 49471,
+        "totalUsers": 434,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 16,
+        "totalUsers90Days": 52,
+        "lastRunStartedAt": "2026-01-11T08:14:31.490000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 0,
+          "SUCCEEDED": 3406,
+          "TIMED-OUT": 0,
+          "TOTAL": 3416
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/pinterest-image-downloader",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "pinterest-image-downloader",
+      "title": "Pinterest Image Downloader",
+      "description": "Easily download high-quality images from Pinterest. With batch downloading capabilities and comprehensive data retrieval, you can enrich your visual content library effortlessly! 📸",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-23T02:34:38.580000+00:00",
+      "modified_at": "2025-12-02T00:38:33.968000+00:00",
+      "stats": {
+        "totalBuilds": 14,
+        "totalRuns": 5645,
+        "totalUsers": 229,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 21,
+        "lastRunStartedAt": "2026-01-11T06:44:31.694000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 32,
+          "TIMED-OUT": 0,
+          "TOTAL": 32
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

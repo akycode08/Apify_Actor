@@ -1,0 +1,2150 @@
+{
+  "metadata": {
+    "platform": "youtube",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.925362",
+    "total_actors": 45,
+    "existing_actors": 45,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "streamers/youtube-scraper",
+      "error": null,
+      "exists": true,
+      "username": "streamers",
+      "name": "youtube-scraper",
+      "title": "YouTube Scraper",
+      "description": "YouTube crawler and video scraper. Alternative YouTube API with no limits or quotas. Extract and download channel name, likes, number of views, and number of subscribers.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-14T13:07:04.588000+00:00",
+      "modified_at": "2026-01-09T14:34:46.117000+00:00",
+      "stats": {
+        "totalBuilds": 812,
+        "totalRuns": 10444090,
+        "totalUsers": 47913,
+        "totalUsers7Days": 1618,
+        "totalUsers30Days": 3320,
+        "totalUsers90Days": 6759,
+        "lastRunStartedAt": "2026-01-11T07:59:56.653000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1753,
+          "FAILED": 4756,
+          "SUCCEEDED": 933213,
+          "TIMED-OUT": 295,
+          "TOTAL": 940226
+        },
+        "actorReviewCount": 106,
+        "actorReviewRating": 4.627313636772393,
+        "bookmarkCount": 1506
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/youtube-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "youtube-video-downloader",
+      "title": "Youtube Video Downloader",
+      "description": "Effortlessly download YouTube videos of your preferred quality with our user-friendly Video Downloader. Try it now!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-09-25T15:59:19.163000+00:00",
+      "modified_at": "2026-01-11T00:17:49.193000+00:00",
+      "stats": {
+        "totalBuilds": 683,
+        "totalRuns": 607604,
+        "totalUsers": 2404,
+        "totalUsers7Days": 46,
+        "totalUsers30Days": 108,
+        "totalUsers90Days": 253,
+        "lastRunStartedAt": "2026-01-11T07:40:22.868000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 64,
+          "FAILED": 1082,
+          "SUCCEEDED": 11717,
+          "TIMED-OUT": 1328,
+          "TOTAL": 14192
+        },
+        "actorReviewCount": 15,
+        "actorReviewRating": 3.8325649601881273,
+        "bookmarkCount": 91
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "streamers/youtube-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "streamers",
+      "name": "youtube-comments-scraper",
+      "title": "YouTube Comments Scraper",
+      "description": "This alternative YouTube Data API has no limits or quotas. Extract YouTube comments data from one or multiple YouTube videos: full comment text, posting date, author username, video title, videoId. Download YouTube comments in JSON, CSV, and Excel.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-14T08:54:05.693000+00:00",
+      "modified_at": "2026-01-09T14:34:46.004000+00:00",
+      "stats": {
+        "totalBuilds": 638,
+        "totalRuns": 341032,
+        "totalUsers": 10833,
+        "totalUsers7Days": 195,
+        "totalUsers30Days": 493,
+        "totalUsers90Days": 1230,
+        "lastRunStartedAt": "2026-01-11T08:00:29.245000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 33,
+          "FAILED": 222,
+          "SUCCEEDED": 20635,
+          "TIMED-OUT": 2,
+          "TOTAL": 20892
+        },
+        "actorReviewCount": 22,
+        "actorReviewRating": 4.9643446771647,
+        "bookmarkCount": 235
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "topaz_sharingan/Youtube-Transcript-Scraper",
+      "error": null,
+      "exists": true,
+      "username": "topaz_sharingan",
+      "name": "Youtube-Transcript-Scraper",
+      "title": "Youtube Transcript Scraper",
+      "description": "Are you in search of a robust solution for extracting transcripts from YouTube videos? Look no further 😉, YouTube-Transcript-Scraper will meet your needs. Our software not only efficiently retrieves transcripts but also provides additional valuable information .👍 😀 Scrap away 🕵‍♂️.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-09-26T12:46:36.250000+00:00",
+      "modified_at": "2026-01-11T02:59:07.236000+00:00",
+      "stats": {
+        "totalBuilds": 73,
+        "totalRuns": 1905092,
+        "totalUsers": 3691,
+        "totalUsers7Days": 60,
+        "totalUsers30Days": 139,
+        "totalUsers90Days": 338,
+        "lastRunStartedAt": "2026-01-11T08:01:28.816000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 2,
+          "SUCCEEDED": 180669,
+          "TIMED-OUT": 17045,
+          "TOTAL": 204797
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.091113654224737,
+        "bookmarkCount": 106
+      },
+      "categories": [
+        "DEVELOPER_TOOLS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "streamers/youtube-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "streamers",
+      "name": "youtube-video-downloader",
+      "title": "YouTube Video Downloader",
+      "description": "Use YouTube Video Downloader to download YouTube videos in MP4, MP3, avi, and other formats directly to your cloud storage service.  Just add a YouTube video URL and get the converted video in a few seconds.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-21T11:08:19.205000+00:00",
+      "modified_at": "2026-01-07T02:45:07.083000+00:00",
+      "stats": {
+        "totalBuilds": 160,
+        "totalRuns": 27607,
+        "totalUsers": 2273,
+        "totalUsers7Days": 61,
+        "totalUsers30Days": 195,
+        "totalUsers90Days": 426,
+        "lastRunStartedAt": "2026-01-11T08:00:43.855000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 46,
+          "FAILED": 1280,
+          "SUCCEEDED": 4074,
+          "TIMED-OUT": 9,
+          "TOTAL": 5409
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 3.2978295206735537,
+        "bookmarkCount": 38
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/youtube-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "youtube-scraper",
+      "title": "🏯 Youtube Scraper (Pay Per Result)",
+      "description": "Experience unparalleled efficiency and depth with its ultra-fast capabilities in searching, URL, playlist, channel, and profile scraping. It comes equipped with a variety of filters to customize your data collection precisely. Plus, it's incredibly affordable at only $0.50 per 1000 videos!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-12-26T07:14:37.904000+00:00",
+      "modified_at": "2026-01-11T02:02:31.655000+00:00",
+      "stats": {
+        "totalBuilds": 753,
+        "totalRuns": 2896034,
+        "totalUsers": 4952,
+        "totalUsers7Days": 161,
+        "totalUsers30Days": 362,
+        "totalUsers90Days": 854,
+        "lastRunStartedAt": "2026-01-11T08:01:22.380000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 151,
+          "FAILED": 2500,
+          "SUCCEEDED": 348087,
+          "TIMED-OUT": 21,
+          "TOTAL": 350759
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 3.980925318347904,
+        "bookmarkCount": 215
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "crawlmaster/youtube-transcript-fetcher",
+      "error": null,
+      "exists": true,
+      "username": "crawlmaster",
+      "name": "youtube-transcript-fetcher",
+      "title": "YouTube Transcript Fetcher",
+      "description": null,
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-19T17:00:00.414000+00:00",
+      "modified_at": "2025-12-11T10:07:54.176000+00:00",
+      "stats": {
+        "totalBuilds": 125,
+        "totalRuns": 366781,
+        "totalUsers": 242,
+        "totalUsers7Days": 23,
+        "totalUsers30Days": 75,
+        "totalUsers90Days": 161,
+        "lastRunStartedAt": "2026-01-11T07:54:38.575000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 833,
+          "TIMED-OUT": 0,
+          "TOTAL": 834
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 2.550165691865128,
+        "bookmarkCount": 0
+      },
+      "categories": [
+        "AI",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dataovercoffee/Youtube-Channel-Business-Email-Scraper",
+      "error": null,
+      "exists": true,
+      "username": "dataovercoffee",
+      "name": "Youtube-Channel-Business-Email-Scraper",
+      "title": "Youtube Channel Email Scraper",
+      "description": "🚀🔒 Extract real YouTube channel emails at scale with logged-in accounts & CAPTCHA solving — No BS, Real Emails ✉️✨",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-14T11:51:21.122000+00:00",
+      "modified_at": "2025-12-28T16:40:41.837000+00:00",
+      "stats": {
+        "totalBuilds": 52,
+        "totalRuns": 163340,
+        "totalUsers": 555,
+        "totalUsers7Days": 22,
+        "totalUsers30Days": 74,
+        "totalUsers90Days": 153,
+        "lastRunStartedAt": "2026-01-11T07:42:37.670000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 88,
+          "FAILED": 1,
+          "SUCCEEDED": 104933,
+          "TIMED-OUT": 54,
+          "TOTAL": 105160
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.826027920349569,
+        "bookmarkCount": 28
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "newbs/Youtube-Channel",
+      "error": null,
+      "exists": true,
+      "username": "newbs",
+      "name": "Youtube-Channel",
+      "title": "Youtube Channel Scraper",
+      "description": "Unlock valuable insights with our YouTube video data extraction tool. Effortlessly gather information like youtube video title, transcription,social links and more youtube information ... Enhance your analysis and decision-making with comprehensive data from this youtube scraper actor.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-03-10T11:34:31.174000+00:00",
+      "modified_at": "2025-12-22T01:55:04.107000+00:00",
+      "stats": {
+        "totalBuilds": 237,
+        "totalRuns": 220407,
+        "totalUsers": 2445,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 86,
+        "totalUsers90Days": 264,
+        "lastRunStartedAt": "2026-01-11T04:12:18.966000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 70,
+          "FAILED": 0,
+          "SUCCEEDED": 2754,
+          "TIMED-OUT": 7,
+          "TOTAL": 2832
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.917858185268602,
+        "bookmarkCount": 68
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "starvibe/youtube-video-transcript",
+      "error": null,
+      "exists": true,
+      "username": "starvibe",
+      "name": "youtube-video-transcript",
+      "title": "YouTube Video Transcript",
+      "description": "This Apify Actor extracts full transcripts (with timestamps) and metadata from YouTube videos, including title, description, upload date, views, likes, channel info, and duration",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-15T07:16:16.772000+00:00",
+      "modified_at": "2025-12-23T13:15:19.542000+00:00",
+      "stats": {
+        "totalBuilds": 79,
+        "totalRuns": 1405064,
+        "totalUsers": 957,
+        "totalUsers7Days": 195,
+        "totalUsers30Days": 479,
+        "totalUsers90Days": 647,
+        "lastRunStartedAt": "2026-01-11T08:01:23.009000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 15,
+          "FAILED": 0,
+          "SUCCEEDED": 506869,
+          "TIMED-OUT": 440,
+          "TOTAL": 507324
+        },
+        "actorReviewCount": 17,
+        "actorReviewRating": 5,
+        "bookmarkCount": 33
+      },
+      "categories": [
+        "VIDEOS",
+        "AGENTS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "streamers/youtube-channel-scraper",
+      "error": null,
+      "exists": true,
+      "username": "streamers",
+      "name": "youtube-channel-scraper",
+      "title": "Fast YouTube Channel Scraper",
+      "description": "This alternative YouTube Data API has no limits or quotas. Use it to scrape one or multiple YouTube channels: channel info, URL, total number of subscribers, videos and views, creation date. Try it and get basic video data. You can download extracted data in JSON, CSV, and Excel.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-27T20:54:05.783000+00:00",
+      "modified_at": "2026-01-09T14:35:09.841000+00:00",
+      "stats": {
+        "totalBuilds": 612,
+        "totalRuns": 5561047,
+        "totalUsers": 8543,
+        "totalUsers7Days": 280,
+        "totalUsers30Days": 585,
+        "totalUsers90Days": 1241,
+        "lastRunStartedAt": "2026-01-11T08:02:23.082000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 28,
+          "FAILED": 2138,
+          "SUCCEEDED": 683940,
+          "TIMED-OUT": 226,
+          "TOTAL": 686340
+        },
+        "actorReviewCount": 24,
+        "actorReviewRating": 4.894783834514827,
+        "bookmarkCount": 328
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "thenetaji/youtube-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "thenetaji",
+      "name": "youtube-video-downloader",
+      "title": "Youtube Video Downloader",
+      "description": "Download YouTube videos quickly and in high quality with our YouTube Video Downloader. This easy-to-use tool allows you to save YouTube videos in multiple formats and resolutions. Perfect for content creators, marketers, and researchers, our downloader supports fast, secure, and hassle-free.Try now!",
+      "readme": "",
+      "version": "1.3",
+      "created_at": "2025-01-24T02:28:13.106000+00:00",
+      "modified_at": "2025-12-02T07:13:40.208000+00:00",
+      "stats": {
+        "totalBuilds": 84,
+        "totalRuns": 5387,
+        "totalUsers": 470,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 30,
+        "totalUsers90Days": 76,
+        "lastRunStartedAt": "2026-01-11T01:47:46.808000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 17,
+          "FAILED": 1,
+          "SUCCEEDED": 361,
+          "TIMED-OUT": 0,
+          "TOTAL": 379
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 2.8023867682786774,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "AUTOMATION",
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "streamers/youtube-shorts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "streamers",
+      "name": "youtube-shorts-scraper",
+      "title": "YouTube Shorts Scraper",
+      "description": "Extract YouTube Shorts data from one or multiple YouTube channels. Get video URL, caption, timestamp, likes, dislikes, views and comments count, basic channel info, and more. This alternative YouTube API has no limits or quotas. Download the data in JSON, CSV, and Excel.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-03-09T10:52:23.607000+00:00",
+      "modified_at": "2026-01-09T14:34:51.117000+00:00",
+      "stats": {
+        "totalBuilds": 658,
+        "totalRuns": 533679,
+        "totalUsers": 36123,
+        "totalUsers7Days": 78,
+        "totalUsers30Days": 514,
+        "totalUsers90Days": 1034,
+        "lastRunStartedAt": "2026-01-11T08:00:03.525000+00:00",
+        "totalMetamorphs": 14,
+        "publicActorRunStats30Days": {
+          "ABORTED": 599,
+          "FAILED": 1126,
+          "SUCCEEDED": 25547,
+          "TIMED-OUT": 1,
+          "TOTAL": 27285
+        },
+        "actorReviewCount": 18,
+        "actorReviewRating": 4.72881527440512,
+        "bookmarkCount": 137
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pintostudio/youtube-transcript-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pintostudio",
+      "name": "youtube-transcript-scraper",
+      "title": "Youtube Transcript Scraper",
+      "description": "Looking for a reliable way to extract transcripts from YouTube videos? 🎥✨ Look no further! The YouTube-Transcript-Scraper has you covered. 🚀 It effortlessly retrieves transcripts while offering additional valuable insights. Ready to start? Let’s scrape away! 🕵️‍♂️💻",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2024-11-20T11:23:15.262000+00:00",
+      "modified_at": "2025-12-30T10:01:51.793000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 1678231,
+        "totalUsers": 8586,
+        "totalUsers7Days": 464,
+        "totalUsers30Days": 996,
+        "totalUsers90Days": 2020,
+        "lastRunStartedAt": "2026-01-11T08:04:28.073000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 25,
+          "FAILED": 76462,
+          "SUCCEEDED": 164005,
+          "TIMED-OUT": 16,
+          "TOTAL": 240513
+        },
+        "actorReviewCount": 24,
+        "actorReviewRating": 4.732281734686558,
+        "bookmarkCount": 264
+      },
+      "categories": [
+        "AUTOMATION",
+        "DEVELOPER_TOOLS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "karamelo/youtube-full-channel-transcripts-extractor",
+      "error": null,
+      "exists": true,
+      "username": "karamelo",
+      "name": "youtube-full-channel-transcripts-extractor",
+      "title": "YouTube Full Channel Transcripts Extractor",
+      "description": "With only the channel or playlist link You can extract 1 to 1000s of all the transcripts of a channel, be it videos or shorts or streams/lives or even podcasts and playlists, you name it. Get all the transcripts/captions organized  with video ID and title in a nice table or JSON or CSV to download.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-12T21:57:11.654000+00:00",
+      "modified_at": "2026-01-07T15:04:01.042000+00:00",
+      "stats": {
+        "totalBuilds": 170,
+        "totalRuns": 20564,
+        "totalUsers": 1736,
+        "totalUsers7Days": 16,
+        "totalUsers30Days": 61,
+        "totalUsers90Days": 140,
+        "lastRunStartedAt": "2026-01-11T05:57:44.353000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 22,
+          "FAILED": 8,
+          "SUCCEEDED": 1791,
+          "TIMED-OUT": 5,
+          "TOTAL": 1833
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.409769775282897,
+        "bookmarkCount": 51
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "xtech/youtube-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "xtech",
+      "name": "youtube-video-downloader",
+      "title": "Youtube Video Downloader PRO",
+      "description": "𝗙𝗶𝗻𝗮𝗹𝗹𝘆 - 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗧𝗵𝗮𝘁 𝗗𝗼𝗲𝘀𝗻'𝘁 𝗦𝘂𝗰𝗸\nNo more one-at-a-time downloads or missing metadata. Concurrent processing, full data extraction, multiple formats. The professional solution for serious YouTube data collection.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-01-22T14:33:46.323000+00:00",
+      "modified_at": "2025-12-12T17:41:45.432000+00:00",
+      "stats": {
+        "totalBuilds": 81,
+        "totalRuns": 63110,
+        "totalUsers": 313,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 24,
+        "lastRunStartedAt": "2026-01-10T23:50:30.212000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 38,
+          "SUCCEEDED": 5014,
+          "TIMED-OUT": 15,
+          "TOTAL": 5075
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.13025655170194,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "AUTOMATION",
+        "ECOMMERCE",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraper-mind/youtube-video-shorts-mp3-downloader",
+      "error": null,
+      "exists": true,
+      "username": "scraper-mind",
+      "name": "youtube-video-shorts-mp3-downloader",
+      "title": "Youtube Video, Shorts & MP3 Downloader",
+      "description": "[𝗖𝗵𝗲𝗮𝗽𝗲𝘀𝘁 𝗣𝗿𝗶𝗰𝗲] YouTube Video, Shorts & MP3 Downloader effortlessly extracts download links from YouTube videos in multiple resolutions: 8K to 360p. It provides separate video, audio & a merged Video link along with detailed metadata. Bulk Processing (Support 1000+ URLs & TXT file)",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-03-06T15:41:10.812000+00:00",
+      "modified_at": "2025-12-09T19:42:22.408000+00:00",
+      "stats": {
+        "totalBuilds": 55,
+        "totalRuns": 39911,
+        "totalUsers": 302,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 15,
+        "totalUsers90Days": 50,
+        "lastRunStartedAt": "2026-01-11T00:47:52.391000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 5227,
+          "TIMED-OUT": 0,
+          "TOTAL": 5230
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 3.9232866072548926,
+        "bookmarkCount": 23
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "stefanie-rink/youtube-scraper",
+      "error": null,
+      "exists": true,
+      "username": "stefanie-rink",
+      "name": "youtube-scraper",
+      "title": "Advanced Youtube Scraper",
+      "description": "Please follow all inquiries at: tnot2652@gmail.com. \nSearch YouTube for keywords, channels or individual video data blazingly fast. Internal YouTube API. No key needed. Customizable sorting, including their views, comments, channel info, number of subscribers, publication date, and title data etc.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-04-19T00:36:06.263000+00:00",
+      "modified_at": "2024-06-07T12:22:00.246000+00:00",
+      "stats": {
+        "totalBuilds": 41,
+        "totalRuns": 120907,
+        "totalUsers": 924,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-11T03:50:38.660000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 118,
+          "TIMED-OUT": 0,
+          "TOTAL": 118
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "genial_candlestand/youtube-subtitles-scraper",
+      "error": null,
+      "exists": true,
+      "username": "genial_candlestand",
+      "name": "youtube-subtitles-scraper",
+      "title": "YouTube Video Subtitles (captions) Scraper",
+      "description": "Extract subtitles (captions) from one or multiple YouTube videos. Download YouTube video subtitles (captions) as a HTML, JSON, CSV, Excel, or XML doc.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2023-07-30T12:20:20.089000+00:00",
+      "modified_at": "2025-06-17T22:29:10.974000+00:00",
+      "stats": {
+        "totalBuilds": 30,
+        "totalRuns": 70073,
+        "totalUsers": 643,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-11T07:31:55.068000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 82,
+          "SUCCEEDED": 3520,
+          "TIMED-OUT": 2,
+          "TOTAL": 3612
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 2.9301015355099587,
+        "bookmarkCount": 23
+      },
+      "categories": [
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "topaz_sharingan/Youtube-Transcript-Scraper-1",
+      "error": null,
+      "exists": true,
+      "username": "topaz_sharingan",
+      "name": "Youtube-Transcript-Scraper-1",
+      "title": "YouTube Transcript Ninja ⚡️🥷⚡",
+      "description": "Extract transcripts from YouTube videos with ease! This actor takes a YouTube video URL as input and returns the transcript of the video in the specified format.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-09T01:32:02.778000+00:00",
+      "modified_at": "2026-01-10T01:13:37.802000+00:00",
+      "stats": {
+        "totalBuilds": 47,
+        "totalRuns": 554276,
+        "totalUsers": 5312,
+        "totalUsers7Days": 157,
+        "totalUsers30Days": 414,
+        "totalUsers90Days": 846,
+        "lastRunStartedAt": "2026-01-11T08:05:43.978000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 16,
+          "FAILED": 120,
+          "SUCCEEDED": 39870,
+          "TIMED-OUT": 45,
+          "TOTAL": 40053
+        },
+        "actorReviewCount": 15,
+        "actorReviewRating": 4.936248207015167,
+        "bookmarkCount": 609
+      },
+      "categories": [
+        "AI",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "newbs/Youtube-Shorts",
+      "error": null,
+      "exists": true,
+      "username": "newbs",
+      "name": "Youtube-Shorts",
+      "title": "Youtube Shorts Scraper",
+      "description": "Unlock valuable insights with our YouTube video data extraction tool. Effortlessly gather crucial information like video title, social links, description, and more youtube information ..... Enhance your analysis and decision-making with comprehensive data from this youtube scraper actor.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-05-22T21:38:27.653000+00:00",
+      "modified_at": "2025-01-25T15:41:06.021000+00:00",
+      "stats": {
+        "totalBuilds": 54,
+        "totalRuns": 99732,
+        "totalUsers": 380,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 27,
+        "lastRunStartedAt": "2026-01-09T17:11:54.618000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 27,
+          "TIMED-OUT": 0,
+          "TOTAL": 27
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "tcz/youtube-search-term-channel-crawler",
+      "error": null,
+      "exists": true,
+      "username": "tcz",
+      "name": "youtube-search-term-channel-crawler",
+      "title": "YouTube Search Term Channel Crawler",
+      "description": "You can use this crawler to define a list of search terms, crawl Youtube search results for those terms, and extract channel information, including email if written in the channel description.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-03-04T17:09:47.700000+00:00",
+      "modified_at": "2025-02-13T02:16:03.247000+00:00",
+      "stats": {
+        "totalBuilds": 29,
+        "totalRuns": 2206,
+        "totalUsers": 641,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 16,
+        "totalUsers90Days": 39,
+        "lastRunStartedAt": "2026-01-09T17:05:47.939000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 46,
+          "FAILED": 0,
+          "SUCCEEDED": 48,
+          "TIMED-OUT": 0,
+          "TOTAL": 94
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/traffic-generator",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "traffic-generator",
+      "title": "Traffic Generator (Youtube, Web, Etsy, Behance and many more!)",
+      "description": "Maximize your website's performance and visibility with our Traffic Generator. Drive targeted traffic, simulate page views, and stress-test against potential threats. With the power to generate millions of visits, it's the ultimate solution for boosting your online presence.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2021-11-01T14:28:56.610000+00:00",
+      "modified_at": "2026-01-11T00:03:17.587000+00:00",
+      "stats": {
+        "totalBuilds": 1692,
+        "totalRuns": 148607,
+        "totalUsers": 38926,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 34,
+        "totalUsers90Days": 110,
+        "lastRunStartedAt": "2026-01-11T06:59:15.819000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 421,
+          "FAILED": 119,
+          "SUCCEEDED": 56,
+          "TIMED-OUT": 11,
+          "TOTAL": 611
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 4.727310965064844,
+        "bookmarkCount": 299
+      },
+      "categories": [
+        "AUTOMATION",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/youtube-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "youtube-email-scraper",
+      "title": "Youtube Email Scraper",
+      "description": "🚀 Effortlessly scrape email addresses from YouTube channel descriptions! 🎥 Find content creators matching your keywords and specific email domains. Perfect for influencer marketing, partnership outreach, and content creator discovery. Powered for reliable data collection. 📧🕵️‍♂️",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-12T05:27:17.124000+00:00",
+      "modified_at": "2025-11-25T00:37:49.884000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 3873,
+        "totalUsers": 625,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 81,
+        "lastRunStartedAt": "2026-01-11T08:00:24.856000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 177,
+          "TIMED-OUT": 0,
+          "TOTAL": 179
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.59999846440992,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "insight_api_labs/youtube-transcript",
+      "error": null,
+      "exists": true,
+      "username": "insight_api_labs",
+      "name": "youtube-transcript",
+      "title": "Youtube Transcript - 1$/month",
+      "description": "Youtube Transcript (with video details and transcript timestamps)",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-29T17:04:41.378000+00:00",
+      "modified_at": "2025-10-19T14:14:41.607000+00:00",
+      "stats": {
+        "totalBuilds": 14,
+        "totalRuns": 44387,
+        "totalUsers": 874,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 46,
+        "totalUsers90Days": 96,
+        "lastRunStartedAt": "2026-01-10T21:42:58.589000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 2,
+          "SUCCEEDED": 442,
+          "TIMED-OUT": 1,
+          "TOTAL": 456
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 69
+      },
+      "categories": [
+        "AUTOMATION",
+        "VIDEOS",
+        "AI"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/youtube-hashtag-video-shorts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "youtube-hashtag-video-shorts-scraper",
+      "title": "YouTube Hashtag Video & Shorts Scraper 🎥",
+      "description": "Scrape YouTube videos and Shorts by hashtag - Extract comprehensive video data including titles, views, channel info, and more. Perfect for content analysis and market research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-03T03:02:01.103000+00:00",
+      "modified_at": "2025-11-25T00:32:26.144000+00:00",
+      "stats": {
+        "totalBuilds": 4,
+        "totalRuns": 232,
+        "totalUsers": 80,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 15,
+        "lastRunStartedAt": "2026-01-04T17:02:51.708000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 15,
+          "TIMED-OUT": 0,
+          "TOTAL": 15
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "exporter24/youtube-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "exporter24",
+      "name": "youtube-email-scraper",
+      "title": "YouTube Email Scraper",
+      "description": "Extract the email address of given youtube channel from public data.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-05T07:31:24.440000+00:00",
+      "modified_at": "2025-10-31T01:47:37.754000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 175345,
+        "totalUsers": 229,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 34,
+        "totalUsers90Days": 77,
+        "lastRunStartedAt": "2026-01-11T08:13:46.534000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 930,
+          "SUCCEEDED": 7600,
+          "TIMED-OUT": 13,
+          "TOTAL": 8543
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AI",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/youtube-video-details-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "youtube-video-details-scraper",
+      "title": "YouTube | Transcript Extractor | Video Details | Auto-Translate",
+      "description": "Scrape full video metadata (title, description, channel info, publish date, view/like counts, tags, categories, thumbnails), channel details, and all engagement metrics.\nPlus: Download complete video transcripts in any available or auto-translated language, with clean plain-text output.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-30T06:21:48.091000+00:00",
+      "modified_at": "2026-01-04T08:31:21.068000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 51720,
+        "totalUsers": 161,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 18,
+        "totalUsers90Days": 35,
+        "lastRunStartedAt": "2026-01-11T04:11:48.463000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 485,
+          "TIMED-OUT": 0,
+          "TOTAL": 486
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/youtube-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "youtube-profile-scraper",
+      "title": "Youtube Profile Scraper",
+      "description": "Extract YouTube channel data, including subscriber counts, video uploads, descriptions, and associated links. Get a comprehensive view of channel activity and profile information directly from YouTube.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-02-07T14:18:30.809000+00:00",
+      "modified_at": "2025-02-07T14:20:00.282000+00:00",
+      "stats": {
+        "totalBuilds": 1,
+        "totalRuns": 26542,
+        "totalUsers": 227,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 46,
+        "lastRunStartedAt": "2026-01-11T07:23:10.854000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 275,
+          "SUCCEEDED": 4258,
+          "TIMED-OUT": 230,
+          "TOTAL": 4765
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "delicious_zebu/youtube-channel-video-scraper",
+      "error": null,
+      "exists": true,
+      "username": "delicious_zebu",
+      "name": "youtube-channel-video-scraper",
+      "title": "YouTube Channel Video Scraper",
+      "description": "Fast and stable YouTube profile scraper with expert support! 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-12T09:00:40.260000+00:00",
+      "modified_at": "2025-12-14T02:56:20.244000+00:00",
+      "stats": {
+        "totalBuilds": 8,
+        "totalRuns": 2803,
+        "totalUsers": 181,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 31,
+        "lastRunStartedAt": "2026-01-11T08:01:41.133000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 1771,
+          "TIMED-OUT": 6,
+          "TOTAL": 1780
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 4.6667842004821765,
+        "bookmarkCount": 21
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "ybmeng/youtube-shorts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "ybmeng",
+      "name": "youtube-shorts-scraper",
+      "title": "Youtube Shorts Scraper",
+      "description": "Scrape all Youtube Shorts data for given channels. What you'll get:\n\nTitle, URL, Length, UploadDate, Keywords\nViewCount, CommentCount, LikeCount\n\nAnd much more!\n\nIf you'd like to see more information please contact me at AceEngineer1992@gmail.com",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-03T13:40:59.088000+00:00",
+      "modified_at": "2025-07-21T11:19:38.091000+00:00",
+      "stats": {
+        "totalBuilds": 45,
+        "totalRuns": 26185,
+        "totalUsers": 40,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 1,
+        "totalUsers90Days": 9,
+        "lastRunStartedAt": "2026-01-10T09:29:48.596000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 28,
+          "TIMED-OUT": 0,
+          "TOTAL": 28
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "AUTOMATION",
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/youtube-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "youtube-email-scraper",
+      "title": "Youtube Email Scraper",
+      "description": "Youtube Email Scraper- Scrap Emails from Youtube specific profile using google search engine",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-09T07:46:21.950000+00:00",
+      "modified_at": "2025-11-15T09:08:15.392000+00:00",
+      "stats": {
+        "totalBuilds": 60,
+        "totalRuns": 13293,
+        "totalUsers": 2189,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 18,
+        "totalUsers90Days": 70,
+        "lastRunStartedAt": "2026-01-11T04:59:05.953000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 36,
+          "FAILED": 0,
+          "SUCCEEDED": 94,
+          "TIMED-OUT": 34,
+          "TOTAL": 164
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 2,
+        "bookmarkCount": 51
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/youtube-search",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "youtube-search",
+      "title": "Youtube Search",
+      "description": "YouTube crawler and video scraper. More then using the YouTube API.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-03-13T16:17:12.121000+00:00",
+      "modified_at": "2024-09-17T08:30:40.163000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 14784,
+        "totalUsers": 203,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 26,
+        "lastRunStartedAt": "2026-01-09T20:11:48.639000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 29,
+          "TIMED-OUT": 0,
+          "TOTAL": 31
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/youtube-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "youtube-comments-scraper",
+      "title": "Youtube Comments Scraper (Pay Per Result)",
+      "description": "YouTube Comments Scraper, the ultimate solution for extensive YouTube comments data retrieval. With its high-speed scraping abilities, it provides unmatched effectiveness and thoroughness. Additionally, its cost-effectiveness is unmatched, priced at just $0.50 per 1000 comments!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-01-09T17:43:50.156000+00:00",
+      "modified_at": "2026-01-11T02:03:16.438000+00:00",
+      "stats": {
+        "totalBuilds": 844,
+        "totalRuns": 257091,
+        "totalUsers": 853,
+        "totalUsers7Days": 19,
+        "totalUsers30Days": 43,
+        "totalUsers90Days": 104,
+        "lastRunStartedAt": "2026-01-11T08:02:32.243000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 129,
+          "SUCCEEDED": 37324,
+          "TIMED-OUT": 0,
+          "TOTAL": 37455
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/youtube-channel-video-details-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "youtube-channel-video-details-scraper",
+      "title": "Youtube Channel Videos Details Scraper",
+      "description": "Extract granular data on every video, from rich thumbnails to detailed view counts, empowering data-driven decisions for content creation, audience engagement and channel growth. Whether you're a seasoned YouTuber, a digital marketer, or an AI researcher, unlock the insights you need to thrive in...",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-01T05:36:27.091000+00:00",
+      "modified_at": "2025-11-28T14:55:33.892000+00:00",
+      "stats": {
+        "totalBuilds": 5,
+        "totalRuns": 2816,
+        "totalUsers": 94,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 19,
+        "lastRunStartedAt": "2026-01-10T14:41:50.006000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 30,
+          "SUCCEEDED": 69,
+          "TIMED-OUT": 0,
+          "TOTAL": 99
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/youtube-email-extractor---fast-cheap",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "youtube-email-extractor---fast-cheap",
+      "title": "YouTube Email Extractor 📩📍 - Fast & cheap 💬⭐",
+      "description": "🔍 Extract emails from YouTube quickly! 🚀✨ Search by keywords, email domains, and scrape unlimited emails 📧💻. Filter by domains like Gmail, Yahoo, or custom options 🔑💡. Get accurate email lists with YouTube source links 🔗. Start now and unlock endless possibilities for outreach! 🌟🔥",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-15T15:56:47.368000+00:00",
+      "modified_at": "2025-11-25T13:42:24.076000+00:00",
+      "stats": {
+        "totalBuilds": 8,
+        "totalRuns": 6366,
+        "totalUsers": 788,
+        "totalUsers7Days": 10,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 71,
+        "lastRunStartedAt": "2026-01-11T08:04:36.824000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 12,
+          "FAILED": 1,
+          "SUCCEEDED": 271,
+          "TIMED-OUT": 1,
+          "TOTAL": 288
+        },
+        "actorReviewCount": 21,
+        "actorReviewRating": 4.705687679257157,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "JOBS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "xtech/youtube-shorts-downloader-pro",
+      "error": null,
+      "exists": true,
+      "username": "xtech",
+      "name": "youtube-shorts-downloader-pro",
+      "title": "Youtube Shorts Downloader Pro",
+      "description": "Professional YouTube Shorts downloader for bulk downloads. Download vertical short-form videos with metadata extraction. Perfect for content creators, social media managers & marketers. Supports 8 concurrent downloads, all resolutions, and mobile-optimized formats. Fast, reliable, unlimited.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-06-26T07:01:53.505000+00:00",
+      "modified_at": "2025-07-09T11:58:48.867000+00:00",
+      "stats": {
+        "totalBuilds": 7,
+        "totalRuns": 1531,
+        "totalUsers": 74,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 14,
+        "lastRunStartedAt": "2026-01-11T07:10:44.132000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 251,
+          "TIMED-OUT": 0,
+          "TOTAL": 251
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 0
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "grow_media/youtube-channel-scraper",
+      "error": null,
+      "exists": true,
+      "username": "grow_media",
+      "name": "youtube-channel-scraper",
+      "title": "Youtube Channel Scraper",
+      "description": "Extract comprehensive data from YouTube channels including video stats, channel details, and engagement metrics. Support for multiple channels (up to 100), date filtering, and sorting options. Get video views, likes, comments, duration, tags plus channel subscribers, total views, and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-30T13:09:48.196000+00:00",
+      "modified_at": "2025-10-25T04:34:32.037000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 57766,
+        "totalUsers": 386,
+        "totalUsers7Days": 25,
+        "totalUsers30Days": 61,
+        "totalUsers90Days": 143,
+        "lastRunStartedAt": "2026-01-11T07:02:13.496000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 539,
+          "SUCCEEDED": 4986,
+          "TIMED-OUT": 0,
+          "TOTAL": 5527
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapingxpert/youtube-video-to-transcript",
+      "error": null,
+      "exists": true,
+      "username": "scrapingxpert",
+      "name": "youtube-video-to-transcript",
+      "title": "YouTube video to Transcript",
+      "description": "Fetch YouTube video transcripts automatically using Apify. Supports multiple URLs and retrieves captions from YouTube. Ideal for video content analysis, subtitle generation, or transcription needs. Customize with headers and cookies for accuracy.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-25T20:09:15.718000+00:00",
+      "modified_at": "2025-02-27T18:22:54.326000+00:00",
+      "stats": {
+        "totalBuilds": 70,
+        "totalRuns": 2222,
+        "totalUsers": 184,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 27,
+        "lastRunStartedAt": "2026-01-10T05:47:48.515000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 33,
+          "TIMED-OUT": 0,
+          "TOTAL": 34
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "AUTOMATION",
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "topaz_sharingan/Youtube-Comment-Scraper",
+      "error": null,
+      "exists": true,
+      "username": "topaz_sharingan",
+      "name": "Youtube-Comment-Scraper",
+      "title": "Youtube Comment Scraper",
+      "description": "Introducing the YouTube Comment Scraper — a dynamic tool designed to unlock the wealth of insights hidden within YouTube video comments. Whether you're a content creator, researcher, or simply curious, this actor empowers you to effortlessly extract and analyze valuable information, including commen",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-10T00:13:26.281000+00:00",
+      "modified_at": "2025-02-01T00:03:39.926000+00:00",
+      "stats": {
+        "totalBuilds": 28,
+        "totalRuns": 1630,
+        "totalUsers": 146,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 8,
+        "lastRunStartedAt": "2026-01-11T03:35:47.347000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 15,
+          "TIMED-OUT": 1,
+          "TOTAL": 16
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "SEO_TOOLS",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "delicious_zebu/youtube-video-data-scraper",
+      "error": null,
+      "exists": true,
+      "username": "delicious_zebu",
+      "name": "youtube-video-data-scraper",
+      "title": "YouTube Video Data Scraper",
+      "description": "Easily extract key video details from YouTube, including views, likes, comments, and channel stats. Simply provide the video URL and get all the essential data in minutes. Perfect for video analytics, SEO, and content research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-23T09:57:56.819000+00:00",
+      "modified_at": "2025-12-14T02:56:40.028000+00:00",
+      "stats": {
+        "totalBuilds": 3,
+        "totalRuns": 702,
+        "totalUsers": 88,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 13,
+        "lastRunStartedAt": "2026-01-11T08:01:42.167000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 24,
+          "TIMED-OUT": 1,
+          "TOTAL": 25
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "VIDEOS",
+        "SEO_TOOLS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dz_omar/Youtube-Scraper-Pro",
+      "error": null,
+      "exists": true,
+      "username": "dz_omar",
+      "name": "Youtube-Scraper-Pro",
+      "title": "YouTube Full Channel,Playlists,Shorts,Live...",
+      "description": "Extracts metadata and scripts from all YT content, identifying smart keywords like #hashtags and @channelnames. It supports playlists, shorts, live, podcasts, courses, channels, videos, and batch requests.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-27T06:56:05.228000+00:00",
+      "modified_at": "2025-11-29T16:46:19.312000+00:00",
+      "stats": {
+        "totalBuilds": 96,
+        "totalRuns": 9502,
+        "totalUsers": 134,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 20,
+        "lastRunStartedAt": "2026-01-09T23:35:48.665000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 0,
+          "SUCCEEDED": 59,
+          "TIMED-OUT": 3,
+          "TOTAL": 67
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 4.972567848660985,
+        "bookmarkCount": 21
+      },
+      "categories": [
+        "VIDEOS",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/youtube-email-phone-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "youtube-email-phone-scraper",
+      "title": "YouTube Email & Phone Scraper 📧📞",
+      "description": "🔍 Extract emails & phone numbers from YouTube quickly! Search by keywords, email domains, & scrape unlimited contacts. Apply filters for domains like Gmail, Yahoo, or custom options. Receive accurate lists with YouTube source links. With a single snap, your information is right at your reach.🚀📧📱",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-15T18:02:22.266000+00:00",
+      "modified_at": "2025-11-25T13:39:36.656000+00:00",
+      "stats": {
+        "totalBuilds": 3,
+        "totalRuns": 1782,
+        "totalUsers": 377,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 41,
+        "lastRunStartedAt": "2026-01-11T08:03:00.819000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 4,
+          "SUCCEEDED": 58,
+          "TIMED-OUT": 2,
+          "TOTAL": 69
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 5,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "exporter24/youtube-email-bulk-scraper",
+      "error": null,
+      "exists": true,
+      "username": "exporter24",
+      "name": "youtube-email-bulk-scraper",
+      "title": "Youtube Email Bulk Scraper",
+      "description": "Extract the email address of given youtube channel from public data.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-26T01:58:15.306000+00:00",
+      "modified_at": "2025-12-29T09:25:22.766000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 25230,
+        "totalUsers": 174,
+        "totalUsers7Days": 10,
+        "totalUsers30Days": 35,
+        "totalUsers90Days": 60,
+        "lastRunStartedAt": "2026-01-10T12:31:26.663000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 6922,
+          "TIMED-OUT": 11,
+          "TOTAL": 6935
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "AI",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "web.harvester/youtube-downloader",
+      "error": null,
+      "exists": true,
+      "username": "web.harvester",
+      "name": "youtube-downloader",
+      "title": "Youtube to MP3 Downloader",
+      "description": "Convert and download YouTube videos to high-quality MP3 audio files effortlessly with this actor",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-06-30T06:42:30.474000+00:00",
+      "modified_at": "2025-12-23T19:25:39.017000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 8348,
+        "totalUsers": 424,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 12,
+        "totalUsers90Days": 32,
+        "lastRunStartedAt": "2026-01-10T17:50:11.947000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 59,
+          "TIMED-OUT": 7,
+          "TOTAL": 73
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 18
+      },
+      "categories": [
+        "VIDEOS",
+        "AUTOMATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

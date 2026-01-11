@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "platform": "whatsapp",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.931936",
+    "total_actors": 2,
+    "existing_actors": 2,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "curious_coder/whatsapp-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "whatsapp-scraper",
+      "title": "Whatsapp scraper",
+      "description": "Scrape  whatsapp numbers in bulk and extract complete details including name, email, website, address, description, profile picture, etc",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-09-15T11:42:53.871000+00:00",
+      "modified_at": "2025-08-15T10:57:32.369000+00:00",
+      "stats": {
+        "totalBuilds": 40,
+        "totalRuns": 2365,
+        "totalUsers": 786,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 9,
+        "lastRunStartedAt": "2025-11-23T22:44:29.732000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 0,
+          "SUCCEEDED": 1,
+          "TIMED-OUT": 0,
+          "TOTAL": 6
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.068442453455136,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "extremescrapes/whatsapp-messages-scraper",
+      "error": null,
+      "exists": true,
+      "username": "extremescrapes",
+      "name": "whatsapp-messages-scraper",
+      "title": "WhatsApp Messages Scraper",
+      "description": "Scrape and monitor WhatsApp group or private chat messages in real time. Scan the QR code to connect and start collecting structured WhatsApp message data.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-16T20:42:26.975000+00:00",
+      "modified_at": "2025-11-10T13:51:35.338000+00:00",
+      "stats": {
+        "totalBuilds": 23,
+        "totalRuns": 746,
+        "totalUsers": 217,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 39,
+        "lastRunStartedAt": "2026-01-10T16:11:15.168000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 148,
+          "TIMED-OUT": 3,
+          "TOTAL": 157
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

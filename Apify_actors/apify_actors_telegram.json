@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "platform": "telegram",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.931339",
+    "total_actors": 8,
+    "existing_actors": 8,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "curious_coder/telegram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "telegram-scraper",
+      "title": "Telegram scraper",
+      "description": "Scrape group members from any telegram group. (⚠️ Warning: Auto adding feature is no longer available!)",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-06-22T17:19:50.782000+00:00",
+      "modified_at": "2025-07-27T10:15:54.318000+00:00",
+      "stats": {
+        "totalBuilds": 139,
+        "totalRuns": 70651,
+        "totalUsers": 7116,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 8,
+        "lastRunStartedAt": "2025-12-31T02:44:05.987000+00:00",
+        "totalMetamorphs": 4,
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 4,
+          "SUCCEEDED": 6,
+          "TIMED-OUT": 1,
+          "TOTAL": 16
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.165773661554053,
+        "bookmarkCount": 107
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "tri_angle/telegram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "tri_angle",
+      "name": "telegram-scraper",
+      "title": "Telegram Scraper",
+      "description": "Scrape profiles and messages in a couple of seconds.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-29T15:48:46.074000+00:00",
+      "modified_at": "2025-09-11T13:03:41.458000+00:00",
+      "stats": {
+        "totalBuilds": 17,
+        "totalRuns": 219663,
+        "totalUsers": 2147,
+        "totalUsers7Days": 23,
+        "totalUsers30Days": 72,
+        "totalUsers90Days": 217,
+        "lastRunStartedAt": "2026-01-11T07:00:15.762000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 2,
+          "SUCCEEDED": 17912,
+          "TIMED-OUT": 0,
+          "TOTAL": 17919
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 3.7041893972254374,
+        "bookmarkCount": 43
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dainty_screw/telegram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "dainty_screw",
+      "name": "telegram-scraper",
+      "title": "Telegram Scraper",
+      "description": "Seamlessly extract public messages from any Telegram public channel and gain valuable insights. Perfect for researchers, marketers, and data analysts.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-04-30T19:17:38.130000+00:00",
+      "modified_at": "2025-10-04T14:24:04.654000+00:00",
+      "stats": {
+        "totalBuilds": 46,
+        "totalRuns": 5332,
+        "totalUsers": 797,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 65,
+        "lastRunStartedAt": "2026-01-11T08:04:00.929000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 9,
+          "SUCCEEDED": 379,
+          "TIMED-OUT": 0,
+          "TOTAL": 399
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "clearpath/immoscout24-api-lite",
+      "error": null,
+      "exists": true,
+      "username": "clearpath",
+      "name": "immoscout24-api-lite",
+      "title": "🔥 ImmoScout24 Scraper (API) Lite",
+      "description": "ImmobilienScout24.de Scraper (API) for German real estate monitoring. Lightning-fast. Track new rental listings with real-time Telegram alerts. 90% cheaper than browser scrapers. Perfect ImmoScout24.de automation tool for apartment hunting and property data extraction.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-20T13:50:23.386000+00:00",
+      "modified_at": "2026-01-11T06:15:40.327000+00:00",
+      "stats": {
+        "totalBuilds": 158,
+        "totalRuns": 592604,
+        "totalUsers": 56,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 13,
+        "lastRunStartedAt": "2026-01-10T22:46:00.973000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 9807,
+          "TIMED-OUT": 0,
+          "TOTAL": 9807
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "REAL_ESTATE",
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/telegram-group-member-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "telegram-group-member-scraper",
+      "title": "Telegram Groups/Channel Member Scraper",
+      "description": "Telegram Groups/Channel Member Scraper - Scrap Telegram Groups/Channel- Scrap hidden member from chat history and member list.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-09T08:59:44.736000+00:00",
+      "modified_at": "2025-12-11T09:31:15.163000+00:00",
+      "stats": {
+        "totalBuilds": 183,
+        "totalRuns": 7250,
+        "totalUsers": 2452,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 66,
+        "lastRunStartedAt": "2026-01-10T22:39:35.429000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 13,
+          "FAILED": 0,
+          "SUCCEEDED": 35,
+          "TIMED-OUT": 28,
+          "TOTAL": 76
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 3.5221367870764184,
+        "bookmarkCount": 33
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "agentx/telegram-member-scraper",
+      "error": null,
+      "exists": true,
+      "username": "agentx",
+      "name": "telegram-member-scraper",
+      "title": "Telegram Member Scraper",
+      "description": "Transform your Telegram strategy with our advanced member discovery engine. Extract hidden and historical users effortlessly for superior lead generation and analytics.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-09T13:45:39.697000+00:00",
+      "modified_at": "2026-01-09T05:56:42.421000+00:00",
+      "stats": {
+        "totalBuilds": 196,
+        "totalRuns": 676,
+        "totalUsers": 210,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 23,
+        "totalUsers90Days": 61,
+        "lastRunStartedAt": "2026-01-10T22:13:24.071000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 22,
+          "FAILED": 1,
+          "SUCCEEDED": 144,
+          "TIMED-OUT": 0,
+          "TOTAL": 168
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.7602816358483615,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "clothefobia/telegram-channel-and-group-message-scraper",
+      "error": null,
+      "exists": true,
+      "username": "clothefobia",
+      "name": "telegram-channel-and-group-message-scraper",
+      "title": "Telegram channel and Group Message Scraper",
+      "description": "Telegram channel and Group Message Scraper- Scrap all messsage from Telegram Channel and Group with user information.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-13T06:37:16.355000+00:00",
+      "modified_at": "2025-09-26T12:01:19.895000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 7922,
+        "totalUsers": 260,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 16,
+        "lastRunStartedAt": "2026-01-09T03:47:47.205000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 18,
+          "FAILED": 0,
+          "SUCCEEDED": 92,
+          "TIMED-OUT": 7,
+          "TOTAL": 118
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "webfinity/telegram-channel-content-media-scraper-v2",
+      "error": null,
+      "exists": true,
+      "username": "webfinity",
+      "name": "telegram-channel-content-media-scraper-v2",
+      "title": "Telegram Channel Content & Media Scraper",
+      "description": "Extract Telegram posts with media — perfect for scraping & automation.\nCollect text, views, reactions, media links (photos, videos, files), channel name, bio, subscriber count, and post metadata.\nIdeal for creators, analysts, data engineers, and automation workflows.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-14T18:24:19.471000+00:00",
+      "modified_at": "2025-12-27T19:54:55.591000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 6900,
+        "totalUsers": 266,
+        "totalUsers7Days": 31,
+        "totalUsers30Days": 58,
+        "totalUsers90Days": 112,
+        "lastRunStartedAt": "2026-01-11T08:00:03.642000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 99,
+          "SUCCEEDED": 1536,
+          "TIMED-OUT": 5,
+          "TOTAL": 1642
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}
