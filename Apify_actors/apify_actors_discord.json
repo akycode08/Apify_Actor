@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "platform": "discord",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.931116",
+    "total_actors": 3,
+    "existing_actors": 3,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "curious_coder/discord-data-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "discord-data-scraper",
+      "title": "Discord Scraper (Members and Messages)",
+      "description": "Scrape discord server members and messages with attachments from any channel.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-20T20:57:11.552000+00:00",
+      "modified_at": "2025-11-09T18:19:44.527000+00:00",
+      "stats": {
+        "totalBuilds": 56,
+        "totalRuns": 517405,
+        "totalUsers": 1040,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 22,
+        "totalUsers90Days": 54,
+        "lastRunStartedAt": "2026-01-11T08:03:27.719000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 72,
+          "FAILED": 18642,
+          "SUCCEEDED": 40745,
+          "TIMED-OUT": 1,
+          "TOTAL": 59461
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.5557983500394155,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/discord-member-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "discord-member-scraper",
+      "title": "Discord Member Scraper",
+      "description": "Get a list of all members in a Discord server, with detailed profile information such as social media profiles, name, bio & avatar. Perfect for analytics, lead generation, and community insights. Efficient, reliable, and up-to-date.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-16T19:14:26.712000+00:00",
+      "modified_at": "2026-01-04T13:21:27.526000+00:00",
+      "stats": {
+        "totalBuilds": 4,
+        "totalRuns": 1362,
+        "totalUsers": 318,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 26,
+        "lastRunStartedAt": "2026-01-10T11:38:49.497000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 37,
+          "SUCCEEDED": 4,
+          "TIMED-OUT": 3,
+          "TOTAL": 46
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/discord-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "discord-scraper",
+      "title": "Discord Message Scraper",
+      "description": "Effortlessly extract and analyze complete message histories from channels and DMs. Gain insights into community engagement, track communication patterns, and export valuable content—all in a clean, structured JSON format. Unlock the full potential of your Discord data with our advanced scraper!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-14T14:30:11.080000+00:00",
+      "modified_at": "2025-12-08T06:57:16.091000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 48611,
+        "totalUsers": 128,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 14,
+        "lastRunStartedAt": "2026-01-11T08:00:06.862000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 35497,
+          "TIMED-OUT": 0,
+          "TOTAL": 35498
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

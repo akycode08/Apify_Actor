@@ -1,0 +1,2183 @@
+{
+  "metadata": {
+    "platform": "twitter",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.920140",
+    "total_actors": 46,
+    "existing_actors": 46,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "apidojo/tweet-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "tweet-scraper",
+      "title": "🏯 Tweet Scraper V2 - X / Twitter Scraper",
+      "description": "⚡️ Lightning-fast search, URL, list, and profile scraping, with customizable filters. At $0.40 per 1000 tweets, and 30-80 tweets per second, it is ideal for researchers, entrepreneurs, and businesses! Get comprehensive insights from Twitter (X) now!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-24T18:52:19.761000+00:00",
+      "modified_at": "2026-01-11T02:00:53.580000+00:00",
+      "stats": {
+        "totalBuilds": 1212,
+        "totalRuns": 125036576,
+        "totalUsers": 31936,
+        "totalUsers7Days": 1006,
+        "totalUsers30Days": 2151,
+        "totalUsers90Days": 4626,
+        "lastRunStartedAt": "2026-01-11T07:59:57.893000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 610,
+          "FAILED": 1,
+          "SUCCEEDED": 2863123,
+          "TIMED-OUT": 1193,
+          "TOTAL": 2864940
+        },
+        "actorReviewCount": 104,
+        "actorReviewRating": 3.7966555750865747,
+        "bookmarkCount": 922
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/twitter-scraper-lite",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "twitter-scraper-lite",
+      "title": "Twitter (X.com) Scraper Unlimited: No Limits",
+      "description": "Introducing Twitter Scraper Unlimited, the most comprehensive Twitter data extraction solution available. Our enterprise-grade scraper offers unmatched capabilities with a transparent event-based pricing model, making it perfect for both small-scale and large-scale data extraction needs.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-05-09T22:29:55.156000+00:00",
+      "modified_at": "2026-01-11T02:04:03.136000+00:00",
+      "stats": {
+        "totalBuilds": 725,
+        "totalRuns": 8509987,
+        "totalUsers": 15122,
+        "totalUsers7Days": 389,
+        "totalUsers30Days": 772,
+        "totalUsers90Days": 1878,
+        "lastRunStartedAt": "2026-01-11T08:00:05.996000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 87,
+          "FAILED": 0,
+          "SUCCEEDED": 871675,
+          "TIMED-OUT": 144,
+          "TOTAL": 871910
+        },
+        "actorReviewCount": 61,
+        "actorReviewRating": 2.885306667828057,
+        "bookmarkCount": 317
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "kaitoeasyapi/twitter-x-data-tweet-scraper-pay-per-result-cheapest",
+      "error": null,
+      "exists": true,
+      "username": "kaitoeasyapi",
+      "name": "twitter-x-data-tweet-scraper-pay-per-result-cheapest",
+      "title": "Tweet Scraper|$0.25/1K Tweets | Pay-Per Result | No Rate Limits",
+      "description": "Only $0.25/1000 tweets for Twitter scraping,  100% reliability, swift data retrieval.This incredible low price is almost too good to be true.Thanks to our large-scale operations and efficient servers, we can offer you rock-bottom prices that no competitors can match. Don't miss this opportunity !",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-14T16:20:36.738000+00:00",
+      "modified_at": "2025-12-13T09:34:47.163000+00:00",
+      "stats": {
+        "totalBuilds": 563,
+        "totalRuns": 29923506,
+        "totalUsers": 7328,
+        "totalUsers7Days": 532,
+        "totalUsers30Days": 1072,
+        "totalUsers90Days": 2142,
+        "lastRunStartedAt": "2026-01-11T08:00:14.620000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 299,
+          "FAILED": 27,
+          "SUCCEEDED": 1594574,
+          "TIMED-OUT": 576,
+          "TOTAL": 1595528
+        },
+        "actorReviewCount": 48,
+        "actorReviewRating": 4.2334338099354945,
+        "bookmarkCount": 291
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "web.harvester/twitter-scraper",
+      "error": null,
+      "exists": true,
+      "username": "web.harvester",
+      "name": "twitter-scraper",
+      "title": "Twitter (X.com) Tweets & Profiles Scraper",
+      "description": "Extract tweets and full profile data from any Twitter (X.com) account with our powerful scraper. Search profiles, scrape tweets with replies, or extract data via URL or username. Download in JSON, CSV, Excel, XML, or HTML—ideal for social media monitoring, content analysis, and competitive research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-10T13:43:40.898000+00:00",
+      "modified_at": "2025-12-23T01:43:49.870000+00:00",
+      "stats": {
+        "totalBuilds": 225,
+        "totalRuns": 598838,
+        "totalUsers": 6778,
+        "totalUsers7Days": 39,
+        "totalUsers30Days": 117,
+        "totalUsers90Days": 286,
+        "lastRunStartedAt": "2026-01-11T07:55:25.660000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 61,
+          "FAILED": 374,
+          "SUCCEEDED": 13801,
+          "TIMED-OUT": 745,
+          "TOTAL": 14990
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 2.97646985638354,
+        "bookmarkCount": 84
+      },
+      "categories": [
+        "NEWS",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "web.harvester/easy-twitter-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "web.harvester",
+      "name": "easy-twitter-search-scraper",
+      "title": "Twitter (X.com) Search Scraper",
+      "description": "Easily extract tweets from Twitter (X.com) search results with our powerful Twitter Search Scraper. Get full tweet data, including text, engagement, media, and user info. Export in JSON, CSV, Excel, or HTML—perfect for social media monitoring, market research, competitor analysis, and trend tracking",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-12T12:58:09.192000+00:00",
+      "modified_at": "2025-12-23T01:43:48.981000+00:00",
+      "stats": {
+        "totalBuilds": 178,
+        "totalRuns": 403816,
+        "totalUsers": 5796,
+        "totalUsers7Days": 25,
+        "totalUsers30Days": 57,
+        "totalUsers90Days": 173,
+        "lastRunStartedAt": "2026-01-11T08:00:11.991000+00:00",
+        "totalMetamorphs": 138,
+        "publicActorRunStats30Days": {
+          "ABORTED": 101,
+          "FAILED": 2,
+          "SUCCEEDED": 35820,
+          "TIMED-OUT": 22,
+          "TOTAL": 35953
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 3.6488953803043733,
+        "bookmarkCount": 85
+      },
+      "categories": [
+        "NEWS",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/twitter-user-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "twitter-user-scraper",
+      "title": "🏯 Twitter (X) User Scraper (Pay Per Result)",
+      "description": "Introducing Twitter (X) User Scraper, the ultimate solution for direct user extraction from Twitter (X). It offers blazing speed and comprehensiveness, delivering lightning-fast user extraction features.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-29T16:18:11.371000+00:00",
+      "modified_at": "2026-01-11T02:00:54.738000+00:00",
+      "stats": {
+        "totalBuilds": 878,
+        "totalRuns": 4065896,
+        "totalUsers": 3983,
+        "totalUsers7Days": 77,
+        "totalUsers30Days": 165,
+        "totalUsers90Days": 515,
+        "lastRunStartedAt": "2026-01-11T08:02:58.975000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 9,
+          "FAILED": 2094,
+          "SUCCEEDED": 71001,
+          "TIMED-OUT": 16,
+          "TOTAL": 73120
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 2.9291592900450087,
+        "bookmarkCount": 93
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "gentle_cloud/twitter-tweets-scraper",
+      "error": null,
+      "exists": true,
+      "username": "gentle_cloud",
+      "name": "twitter-tweets-scraper",
+      "title": "Twitter Tweets Scraper",
+      "description": "Enter the Twitter URL to quickly collect the latest tweet data. Based on the Twitter search interface, with countless quantity and time constraints, the tweet results are sorted in reverse chronological order.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-06T03:09:09.520000+00:00",
+      "modified_at": "2026-01-07T02:10:47.655000+00:00",
+      "stats": {
+        "totalBuilds": 528,
+        "totalRuns": 3660360,
+        "totalUsers": 2810,
+        "totalUsers7Days": 102,
+        "totalUsers30Days": 223,
+        "totalUsers90Days": 422,
+        "lastRunStartedAt": "2026-01-11T08:03:00.414000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 22,
+          "FAILED": 263,
+          "SUCCEEDED": 431773,
+          "TIMED-OUT": 22,
+          "TOTAL": 432083
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.8298143961807405,
+        "bookmarkCount": 94
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/twitter-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "twitter-profile-scraper",
+      "title": "Twitter Profile Scraper",
+      "description": "Scrape any Twitter profile of any user. Extract tweets, replies, favorites, retweets, conversation threads and many more without any limit. Gather user related information such as verification, location, profile image, friends, followers, following and much more! No limits on Twitter!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-07-14T17:02:10.525000+00:00",
+      "modified_at": "2026-01-11T00:02:00.681000+00:00",
+      "stats": {
+        "totalBuilds": 1707,
+        "totalRuns": 107741,
+        "totalUsers": 3201,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 53,
+        "totalUsers90Days": 151,
+        "lastRunStartedAt": "2026-01-11T08:02:36.308000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 60,
+          "FAILED": 19,
+          "SUCCEEDED": 6757,
+          "TIMED-OUT": 678,
+          "TOTAL": 7516
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 1.0210207109075955,
+        "bookmarkCount": 44
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/twitter-scraper-ppr",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "twitter-scraper-ppr",
+      "title": "Twitter Scraper PPR",
+      "description": "Scrap Twitter fast and easy. It is designed to be fast and efficient, so it can extract a large number of post for low price.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-03-28T15:16:08.383000+00:00",
+      "modified_at": "2026-01-08T12:27:32.074000+00:00",
+      "stats": {
+        "totalBuilds": 56,
+        "totalRuns": 11926447,
+        "totalUsers": 4387,
+        "totalUsers7Days": 126,
+        "totalUsers30Days": 243,
+        "totalUsers90Days": 711,
+        "lastRunStartedAt": "2026-01-11T08:03:35.177000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 43,
+          "FAILED": 172,
+          "SUCCEEDED": 4031550,
+          "TIMED-OUT": 1415,
+          "TOTAL": 4033207
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.763504377056199,
+        "bookmarkCount": 133
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/twitter-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "twitter-scraper",
+      "title": "Twitter followers scraper",
+      "description": "Scrape followers, following and subscriptions list of any twitter profile",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-06-21T11:55:10.691000+00:00",
+      "modified_at": "2025-08-21T17:10:25.374000+00:00",
+      "stats": {
+        "totalBuilds": 52,
+        "totalRuns": 728385,
+        "totalUsers": 2509,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-11T07:44:07.938000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 27,
+          "FAILED": 303,
+          "SUCCEEDED": 1075,
+          "TIMED-OUT": 78,
+          "TOTAL": 1491
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 39
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/twitter-profile",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "twitter-profile",
+      "title": "Twitter Profile",
+      "description": "Scrap all necessary data from Twitter profile in no-time. No need for a Twitter account.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-03-12T13:43:14.211000+00:00",
+      "modified_at": "2025-08-03T15:07:22.611000+00:00",
+      "stats": {
+        "totalBuilds": 26,
+        "totalRuns": 2821473,
+        "totalUsers": 1064,
+        "totalUsers7Days": 19,
+        "totalUsers30Days": 38,
+        "totalUsers90Days": 71,
+        "lastRunStartedAt": "2026-01-11T08:03:52.546000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 1,
+          "SUCCEEDED": 29375,
+          "TIMED-OUT": 223,
+          "TOTAL": 29601
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 29
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "web.harvester/twitter-users-scraper",
+      "error": null,
+      "exists": true,
+      "username": "web.harvester",
+      "name": "twitter-users-scraper",
+      "title": "Twitter (X.com) Users Scraper",
+      "description": "Effortlessly search for users and extract profile information, or scrape data by simply providing a URL or username. Download in multiple formats, including JSON and Excel, ensuring seamless integration with reports, databases, and various applications for enhanced data analysis and management.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-09-30T21:27:46.244000+00:00",
+      "modified_at": "2025-12-23T01:47:28.089000+00:00",
+      "stats": {
+        "totalBuilds": 80,
+        "totalRuns": 73292,
+        "totalUsers": 482,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 32,
+        "lastRunStartedAt": "2026-01-11T06:34:15.606000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 38529,
+          "TIMED-OUT": 0,
+          "TOTAL": 38530
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 17
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/twitter-x-list-tweets-scraper-0-35-1k-pay-per-result",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "twitter-x-list-tweets-scraper-0-35-1k-pay-per-result",
+      "title": "Twitter/X List Tweets Scraper |$0.35/1K| Pay-Per Result",
+      "description": "Scrape tweets from any Twitter/X List easily. Just $0.35 per 1K results — pay only for what you get. Ideal for tracking niche communities, curated lists, or influencer groups. Fast, scalable, and cost-efficient. Pay-per-result, no upfront commitment.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-26T14:21:04.474000+00:00",
+      "modified_at": "2025-12-16T13:42:38.299000+00:00",
+      "stats": {
+        "totalBuilds": 23,
+        "totalRuns": 251016,
+        "totalUsers": 38,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 14,
+        "lastRunStartedAt": "2026-01-11T03:53:45.290000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 60,
+          "TIMED-OUT": 0,
+          "TOTAL": 60
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 0
+      },
+      "categories": [
+        "AI",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "watcher.data/search-x-by-keywords",
+      "error": null,
+      "exists": true,
+      "username": "watcher.data",
+      "name": "search-x-by-keywords",
+      "title": "Search X By Keywords",
+      "description": "Fast and reliable scraper for searching tweets and users on X (Twitter). Supports multiple output formats (JSON, CSV, Excel), advanced filtering options, and real-time data extraction. Perfect for social media monitoring, research, and business intelligence.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-11T13:28:52.018000+00:00",
+      "modified_at": "2025-11-18T13:30:46.745000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 4691,
+        "totalUsers": 269,
+        "totalUsers7Days": 22,
+        "totalUsers30Days": 94,
+        "totalUsers90Days": 151,
+        "lastRunStartedAt": "2026-01-11T05:00:00.782000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 1595,
+          "TIMED-OUT": 0,
+          "TOTAL": 1603
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "INTEGRATIONS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/twitter-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "twitter-posts-scraper",
+      "title": "Twitter Posts Scraper",
+      "description": "The **Twitter Posts Scraper** extracts detailed information from any public Twitter post. Simply provide the URL, and the scraper will gather data like post text, user info, engagement metrics, and more. Perfect for analyzing trends and tracking social media interactions.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-30T05:14:35.312000+00:00",
+      "modified_at": "2025-09-29T04:15:41.995000+00:00",
+      "stats": {
+        "totalBuilds": 10,
+        "totalRuns": 339427,
+        "totalUsers": 549,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 25,
+        "totalUsers90Days": 69,
+        "lastRunStartedAt": "2026-01-11T08:04:44.131000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 461,
+          "SUCCEEDED": 32471,
+          "TIMED-OUT": 1,
+          "TOTAL": 32935
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrape.badger/twitter-tweets-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrape.badger",
+      "name": "twitter-tweets-scraper",
+      "title": "Twitter/X Tweets Scraper: Tweets,  Retweets, Lists & More!",
+      "description": "Unlock Twitter/X data with ScrapeBadger, a top Apify actor for scraping tweets, followers, lists & more. Get insights without an API key. Use advanced search for tweets, scrape Twitter followers, get Twitter retweets, and more. Ideal for market research, brand monitoring & analysis.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-05-17T19:02:58.615000+00:00",
+      "modified_at": "2026-01-08T23:05:56.490000+00:00",
+      "stats": {
+        "totalBuilds": 36,
+        "totalRuns": 219021,
+        "totalUsers": 359,
+        "totalUsers7Days": 21,
+        "totalUsers30Days": 59,
+        "totalUsers90Days": 115,
+        "lastRunStartedAt": "2026-01-11T08:06:10.689000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 64,
+          "FAILED": 940,
+          "SUCCEEDED": 24490,
+          "TIMED-OUT": 320,
+          "TOTAL": 25814
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.768496905195382,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "api-ninja/x-twitter-advanced-search",
+      "error": null,
+      "exists": true,
+      "username": "api-ninja",
+      "name": "x-twitter-advanced-search",
+      "title": "X (Twitter) Advanced Search Post Scraper 𝕏",
+      "description": "Advanced X (Twitter) post search with 50+ filters: content, users, geo, time, engagement, media. Dual modes: simple queries or structured filters. Enterprise-grade reliability for precise data extraction",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-02T09:58:32.586000+00:00",
+      "modified_at": "2026-01-06T15:08:05.091000+00:00",
+      "stats": {
+        "totalBuilds": 103,
+        "totalRuns": 200709,
+        "totalUsers": 376,
+        "totalUsers7Days": 38,
+        "totalUsers30Days": 78,
+        "totalUsers90Days": 137,
+        "lastRunStartedAt": "2026-01-11T08:01:37.960000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 143,
+          "SUCCEEDED": 50966,
+          "TIMED-OUT": 2,
+          "TOTAL": 51118
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.155948590874891,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/twitter-x-comment-scraper-no-cookies-required",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "twitter-x-comment-scraper-no-cookies-required",
+      "title": "Twitter(X) Comment Scraper:No cookies required",
+      "description": "Capture all Twitter replies, including hidden and nested ones that conversation ID methods often miss. With advanced sentiment and tone analysis, quickly sort replies by likes, relevance, or emotion. No cookies required. Fast, accurate, and ideal for complete conversation scraping.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-12T14:03:56.014000+00:00",
+      "modified_at": "2025-12-18T12:56:12.708000+00:00",
+      "stats": {
+        "totalBuilds": 169,
+        "totalRuns": 340168,
+        "totalUsers": 455,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 16,
+        "totalUsers90Days": 62,
+        "lastRunStartedAt": "2026-01-11T08:07:33.229000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 4148,
+          "TIMED-OUT": 0,
+          "TOTAL": 4149
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 5,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AI"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "jupri/twitter-scraper",
+      "error": null,
+      "exists": true,
+      "username": "jupri",
+      "name": "twitter-scraper",
+      "title": "Twitter X-Plorer 🦜",
+      "description": "💫 All-in-one Twitter X.com Scraper 🐦🐦‍⬛🐤",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-05-12T12:33:11.799000+00:00",
+      "modified_at": "2025-11-28T10:06:38.258000+00:00",
+      "stats": {
+        "totalBuilds": 254,
+        "totalRuns": 154918,
+        "totalUsers": 728,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 32,
+        "lastRunStartedAt": "2026-01-11T06:26:26.547000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 85,
+          "SUCCEEDED": 7694,
+          "TIMED-OUT": 0,
+          "TOTAL": 7779
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/twitter-user-profile-fast-cheapest-scraper-2025",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "twitter-user-profile-fast-cheapest-scraper-2025",
+      "title": "Twitter User Profile Fast&Cheapest Scraper 2025",
+      "description": "1000 results only cost $0.01. , this scraper allowing you to gather valuable data on any Twitter user in seconds. With Twitter User Fast Scraper, you can streamline your data collection process and obtain specific details about user profiles, including follower counts, bio descriptions.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-15T04:07:21.730000+00:00",
+      "modified_at": "2025-12-18T12:54:45.629000+00:00",
+      "stats": {
+        "totalBuilds": 71,
+        "totalRuns": 166590,
+        "totalUsers": 206,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 32,
+        "lastRunStartedAt": "2026-01-11T06:51:27.538000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 2,
+          "SUCCEEDED": 19675,
+          "TIMED-OUT": 0,
+          "TOTAL": 19677
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.041534056079378,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/x-twitter-trends-scraper-2025",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "x-twitter-trends-scraper-2025",
+      "title": "X/Twitter Trends Scraper｜ 2025",
+      "description": "1000 results only cost 0.01$. Monitor real-time X (Twitter) trends with this scraper. Ideal for social media analysis, content creation, and trend tracking. Provides topic and tweet volume data. no-code，online",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-07T14:51:34.938000+00:00",
+      "modified_at": "2025-12-18T12:59:34.944000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 24785,
+        "totalUsers": 182,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 26,
+        "lastRunStartedAt": "2026-01-11T05:10:41.631000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 428,
+          "TIMED-OUT": 0,
+          "TOTAL": 428
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "AI",
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/twitter-timeline",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "twitter-timeline",
+      "title": "Twitter Timeline",
+      "description": "Scrap Twitter timeline fast and easy. It is designed to be fast and efficient, so it can extract a large number of post for low price.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-03-08T09:27:46.066000+00:00",
+      "modified_at": "2025-10-02T07:21:28.727000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 1279329,
+        "totalUsers": 436,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 12,
+        "lastRunStartedAt": "2026-01-11T07:48:11.265000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 54596,
+          "TIMED-OUT": 0,
+          "TOTAL": 54597
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/twitter-replies-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "twitter-replies-scraper",
+      "title": "Twitter comments scraper",
+      "description": "Scrape twitter comments and users from given tweet url. Useful to DM to people who might be interested in your product or service.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-15T06:42:59.843000+00:00",
+      "modified_at": "2024-12-11T07:19:59.980000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 418014,
+        "totalUsers": 810,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 17,
+        "lastRunStartedAt": "2026-01-11T08:09:03.157000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1206,
+          "SUCCEEDED": 1948,
+          "TIMED-OUT": 0,
+          "TOTAL": 3154
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.9633675795206935,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "x_guru/twitter-x-com-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "x_guru",
+      "name": "twitter-x-com-email-scraper",
+      "title": "Twitter (X.com) Email Scraper | $2 / 1K | No Login Needed",
+      "description": "Extract verified emails from Twitter profiles — ultra-fast, no login or API keys required.\nPerfect for lead generation, B2B outreach, and marketing lists.\n\n⚡ Fast & reliable\n📧 Verified business emails only\n🧠 Works without login or auth\n📈 Up to 1,000,000 results per run\n💰 $2 per 1,000 results",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-24T06:10:44.121000+00:00",
+      "modified_at": "2025-11-23T08:19:53.331000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 7557,
+        "totalUsers": 157,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 38,
+        "lastRunStartedAt": "2026-01-10T15:47:49.010000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 650,
+          "TIMED-OUT": 0,
+          "TOTAL": 651
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "xtdata/twitter-x-scraper",
+      "error": null,
+      "exists": true,
+      "username": "xtdata",
+      "name": "twitter-x-scraper",
+      "title": "X.com Twitter API Scraper",
+      "description": "Scrape Twitter (X) data efficiently with this powerful Apify Actor. Real-time, authentic data. No pre-built databases. Extract tweets, user profiles, and more using keywords, hashtags, URLs, and advanced search filters. Fast, reliable, and cost-effective. #TwitterScraper",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-08T08:45:50.419000+00:00",
+      "modified_at": "2025-10-24T16:59:20.092000+00:00",
+      "stats": {
+        "totalBuilds": 63,
+        "totalRuns": 101311,
+        "totalUsers": 966,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 73,
+        "totalUsers90Days": 162,
+        "lastRunStartedAt": "2026-01-11T08:00:16.089000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 21,
+          "SUCCEEDED": 11508,
+          "TIMED-OUT": 12,
+          "TOTAL": 11544
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 25
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "twittapi/twitter-user-following-scraper",
+      "error": null,
+      "exists": true,
+      "username": "twittapi",
+      "name": "twitter-user-following-scraper",
+      "title": "Twitter User Following Scraper",
+      "description": "Twitter User Following Scraper",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-30T05:32:27.293000+00:00",
+      "modified_at": "2025-11-02T08:57:28.961000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 18592,
+        "totalUsers": 198,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 19,
+        "lastRunStartedAt": "2026-01-11T06:34:35.320000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 1891,
+          "SUCCEEDED": 1973,
+          "TIMED-OUT": 0,
+          "TOTAL": 3866
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1.0904551008687626,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraper_one/x-posts-search",
+      "error": null,
+      "exists": true,
+      "username": "scraper_one",
+      "name": "x-posts-search",
+      "title": "X (Twitter) Posts Search",
+      "description": "✨ Search for X (formerly Twitter) posts using keywords or hashtags. Retrieve post URLs, content, publication dates, author details, and engagement metrics. Ideal for monitoring brand mentions on X over time.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-26T20:43:57.041000+00:00",
+      "modified_at": "2025-12-28T09:02:31.367000+00:00",
+      "stats": {
+        "totalBuilds": 138,
+        "totalRuns": 90241,
+        "totalUsers": 548,
+        "totalUsers7Days": 30,
+        "totalUsers30Days": 66,
+        "totalUsers90Days": 138,
+        "lastRunStartedAt": "2026-01-11T08:00:22.786000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 8379,
+          "TIMED-OUT": 2,
+          "TOTAL": 8383
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/twitter-list-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "twitter-list-scraper",
+      "title": "🏯 Twitter (X) List Scraper (Pay Per Result)",
+      "description": "Discover the Twitter (X) List Scraper you've been looking for! Find the ultimate tool for extracting Tweets List from X / Twitter! It offers unparalleled speed and comprehensiveness, ensuring lightning-fast extraction of Tweets.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-28T11:02:08.460000+00:00",
+      "modified_at": "2026-01-11T02:00:54.977000+00:00",
+      "stats": {
+        "totalBuilds": 846,
+        "totalRuns": 465768,
+        "totalUsers": 705,
+        "totalUsers7Days": 27,
+        "totalUsers30Days": 41,
+        "totalUsers90Days": 112,
+        "lastRunStartedAt": "2026-01-11T08:05:30.511000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 79,
+          "SUCCEEDED": 15521,
+          "TIMED-OUT": 2,
+          "TOTAL": 15610
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 20
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "agentx/x-info-scraper",
+      "error": null,
+      "exists": true,
+      "username": "agentx",
+      "name": "x-info-scraper",
+      "title": "𝕏 (twitter) Info Scraper",
+      "description": "Extract X (Twitter) profiles with 35+ fields: verification, engagement metrics, pinned tweets & professional analytics. AI-ready JSON for lead gen & marketing.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-29T13:32:13.037000+00:00",
+      "modified_at": "2026-01-07T19:44:00.823000+00:00",
+      "stats": {
+        "totalBuilds": 236,
+        "totalRuns": 4282,
+        "totalUsers": 69,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-09T06:17:46.673000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 28,
+          "TIMED-OUT": 0,
+          "TOTAL": 29
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "lumen_limitless/x-crawler",
+      "error": null,
+      "exists": true,
+      "username": "lumen_limitless",
+      "name": "x-crawler",
+      "title": "X (Twitter) User Scraper",
+      "description": "This project is a web scraper designed to extract user data and tweets from X (formerly known as Twitter) using Crawlee and Playwright.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-16T19:52:54.709000+00:00",
+      "modified_at": "2025-11-25T15:25:36.298000+00:00",
+      "stats": {
+        "totalBuilds": 63,
+        "totalRuns": 2640,
+        "totalUsers": 266,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-11T05:23:48.678000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 24,
+          "TIMED-OUT": 0,
+          "TOTAL": 24
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/twitter-community-members-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "twitter-community-members-scraper",
+      "title": "Twitter community members scraper",
+      "description": "Scrape twitter community members to find your audience and convert them to leads",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-19T12:11:51.484000+00:00",
+      "modified_at": "2025-08-21T17:57:32.722000+00:00",
+      "stats": {
+        "totalBuilds": 14,
+        "totalRuns": 4087,
+        "totalUsers": 173,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 0,
+        "totalUsers90Days": 8,
+        "lastRunStartedAt": "2026-01-02T18:24:12.003000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 1,
+          "SUCCEEDED": 5,
+          "TIMED-OUT": 0,
+          "TOTAL": 7
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/twitter-following-follower-0-1-1k-ppr-no-rate-limits",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "twitter-following-follower-0-1-1k-ppr-no-rate-limits",
+      "title": "Twitter Following Follower |$0.1/1K | PPR| No Rate Limits",
+      "description": "Looking to grow your Twitter following,follower effortlessly? Our Twitter Following ,follower Booster delivers high-quality followers at an unbeatable rate of $0.1 per 1,000—pay only for results!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-02T11:10:28.196000+00:00",
+      "modified_at": "2025-11-07T11:22:51.243000+00:00",
+      "stats": {
+        "totalBuilds": 39,
+        "totalRuns": 10106,
+        "totalUsers": 133,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 28,
+        "lastRunStartedAt": "2026-01-11T02:05:49.121000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 55,
+          "TIMED-OUT": 0,
+          "TOTAL": 57
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/apify-twitter-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "apify-twitter-profile-scraper",
+      "title": "Twitter (X) Profiles and Tweets Scraper",
+      "description": "This actor allows you to scrape Twitter/X profiles, extract tweets, key metrics, metadata and gather insights such as tweet content, engagement metrics (likes, retweets, replies), and author details. It is handy for social media analysis, marketing research, and tracking public figures or brands.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-15T07:21:23.071000+00:00",
+      "modified_at": "2025-11-11T21:18:10.562000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 3396,
+        "totalUsers": 780,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-09T08:35:47.015000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 1,
+          "SUCCEEDED": 45,
+          "TIMED-OUT": 0,
+          "TOTAL": 48
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 4,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/post-reply-tweet-api-twitter-2025-10-m",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "post-reply-tweet-api-twitter-2025-10-m",
+      "title": "Post / Reply Tweet  API｜ Twitter | 2025 | $10/m",
+      "description": "Post / Reply Tweet lets you automate tweet posting without needing Twitter API access or a developer account. For just $10/month, enjoy unlimited usage with no restrictions.support delegated account",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-22T03:22:50.776000+00:00",
+      "modified_at": "2025-12-18T12:47:57.362000+00:00",
+      "stats": {
+        "totalBuilds": 114,
+        "totalRuns": 83054,
+        "totalUsers": 77,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 18,
+        "lastRunStartedAt": "2026-01-11T07:39:24.121000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 4520,
+          "TIMED-OUT": 4,
+          "TOTAL": 4525
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "AI",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "karamelo/twitter-trends-scraper",
+      "error": null,
+      "exists": true,
+      "username": "karamelo",
+      "name": "twitter-trends-scraper",
+      "title": "Twitter Trends Scraper",
+      "description": "Scrape the top trends for each data point spanning 8 time periods from live... to... 3 days about trending tweets and hashtags and topics on Twitter from any of the countries listed below. Including volume of tweets. Pricing up to $0.09 per 1000 results.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-09T12:02:39.799000+00:00",
+      "modified_at": "2025-11-16T09:47:56.477000+00:00",
+      "stats": {
+        "totalBuilds": 29,
+        "totalRuns": 94547,
+        "totalUsers": 782,
+        "totalUsers7Days": 39,
+        "totalUsers30Days": 74,
+        "totalUsers90Days": 134,
+        "lastRunStartedAt": "2026-01-11T08:00:35.573000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 62,
+          "SUCCEEDED": 5003,
+          "TIMED-OUT": 0,
+          "TOTAL": 5065
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "lexis-solutions/carfax-com",
+      "error": null,
+      "exists": true,
+      "username": "lexis-solutions",
+      "name": "carfax-com",
+      "title": "Carfax.com Scraper",
+      "description": "Scrape vehicle data by VIN or make and model from Carfax.com - including mileage, accident records, ownership history, and pricing. Ideal for automotive market research, pricing analysis, and lead generation. Fast, structured, and customizable extraction.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-14T12:13:50.655000+00:00",
+      "modified_at": "2025-12-09T08:36:46.929000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 1423,
+        "totalUsers": 83,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 12,
+        "lastRunStartedAt": "2026-01-10T20:29:47.667000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 35,
+          "SUCCEEDED": 480,
+          "TIMED-OUT": 0,
+          "TOTAL": 516
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "AUTOMATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "muhammetakkurtt/twitter-x-comment-scraper",
+      "error": null,
+      "exists": true,
+      "username": "muhammetakkurtt",
+      "name": "twitter-x-comment-scraper",
+      "title": "Twitter (X) Comment Scraper",
+      "description": "This Apify actor scrapes comments from a given tweet and collects detailed information such as user profiles, engagement metrics and media content. It includes data such as username, number of followers, tweet content, number of likes and retweets. Media types and durations are also included.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-27T15:27:53.420000+00:00",
+      "modified_at": "2025-12-20T10:23:37.730000+00:00",
+      "stats": {
+        "totalBuilds": 32,
+        "totalRuns": 7940,
+        "totalUsers": 362,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 17,
+        "lastRunStartedAt": "2026-01-10T03:46:00.907000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 101,
+          "TIMED-OUT": 0,
+          "TOTAL": 101
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/twitter-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "twitter-video-downloader",
+      "title": "Twitter Video Downloader",
+      "description": "Download Twitter.com videos without using the API and without any limits!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-09T18:48:32.587000+00:00",
+      "modified_at": "2026-01-11T00:15:07.663000+00:00",
+      "stats": {
+        "totalBuilds": 841,
+        "totalRuns": 3660,
+        "totalUsers": 183,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 19,
+        "lastRunStartedAt": "2026-01-11T01:00:12.106000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 36,
+          "TIMED-OUT": 0,
+          "TOTAL": 37
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/twitter-x-hashtag-scraper-support-sentiment-tone-analyzer-2025",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "twitter-x-hashtag-scraper-support-sentiment-tone-analyzer-2025",
+      "title": "Twitter/X Hashtag Scraper: Support Sentiment&Tone Analyzer 2025",
+      "description": "Get 1,000 results for just $0.01! Introducing the Twitter Hashtag Fast Scraper, your go-to solution for scraping Twitter hashtags. This powerful tool combines blazing-fast speed with advanced data extraction capabilities, making it perfect for social media analysts, marketers, and researchers.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-09T04:46:03.107000+00:00",
+      "modified_at": "2025-12-18T12:58:03.392000+00:00",
+      "stats": {
+        "totalBuilds": 155,
+        "totalRuns": 10078,
+        "totalUsers": 426,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 29,
+        "lastRunStartedAt": "2026-01-09T08:20:57.713000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 1161,
+          "TIMED-OUT": 0,
+          "TOTAL": 1161
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "AI",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/twitter-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "twitter-profile-scraper",
+      "title": "Twitter Profile Scraper",
+      "description": "The **Twitter Profile Scraper** collects detailed information from any public Twitter profile. Enter the profile URL to retrieve data such as follower count, post details, and profile information. Ideal for tracking and analyzing Twitter activity.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-08-10T07:48:36.710000+00:00",
+      "modified_at": "2025-09-29T04:11:51.296000+00:00",
+      "stats": {
+        "totalBuilds": 8,
+        "totalRuns": 32797,
+        "totalUsers": 375,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 36,
+        "lastRunStartedAt": "2026-01-09T18:55:44.651000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 16,
+          "SUCCEEDED": 930,
+          "TIMED-OUT": 1,
+          "TOTAL": 947
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrape.badger/twitter-user-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrape.badger",
+      "name": "twitter-user-scraper",
+      "title": "Twitter/X User Scraper: Metadata, Followers, Followings & More!",
+      "description": "ScrapeBadger's Twitter/X User Profile Scraper extracts public user data: IDs, profiles, followers, followings, & latest tweets. Perfect for market research, influencer ID, and building datasets. It's cost-effective, easy to use, and requires no API key. Get powerful user insights today!",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-05-28T19:29:37.921000+00:00",
+      "modified_at": "2026-01-08T23:06:26.250000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 24979,
+        "totalUsers": 184,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 18,
+        "lastRunStartedAt": "2026-01-10T16:38:44.465000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 1,
+          "SUCCEEDED": 140,
+          "TIMED-OUT": 0,
+          "TOTAL": 149
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.901715768216305,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/twitter-x-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "twitter-x-video-downloader",
+      "title": "Twitter/X Video Downloader",
+      "description": "Easily download high-quality videos from Twitter/X. With batch downloading capabilities and high-speed scraping, you can effortlessly enhance your video collection! 🐦",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-23T03:21:29.390000+00:00",
+      "modified_at": "2025-12-02T00:40:20.834000+00:00",
+      "stats": {
+        "totalBuilds": 11,
+        "totalRuns": 3489,
+        "totalUsers": 81,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 10,
+        "lastRunStartedAt": "2026-01-10T03:11:53.513000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 406,
+          "TIMED-OUT": 0,
+          "TOTAL": 406
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 3.942387799534263,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "powerai/twitter-list-members-scraper",
+      "error": null,
+      "exists": true,
+      "username": "powerai",
+      "name": "twitter-list-members-scraper",
+      "title": "Twitter List Members Scraper",
+      "description": "Fetch the members of any Twitter list, with auto-pagination and detailed user info. Supports up to your specified maxResults.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-30T04:07:33.693000+00:00",
+      "modified_at": "2025-11-19T07:47:15.836000+00:00",
+      "stats": {
+        "totalBuilds": 1,
+        "totalRuns": 393,
+        "totalUsers": 25,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 4,
+        "lastRunStartedAt": "2026-01-11T06:00:03.520000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 47,
+          "TIMED-OUT": 0,
+          "TOTAL": 48
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "ecomscrape/carfax-vehicle-details-scraper",
+      "error": null,
+      "exists": true,
+      "username": "ecomscrape",
+      "name": "carfax-vehicle-details-scraper",
+      "title": "Carfax Vehicle Details Scraper",
+      "description": "Advanced Carfax.com vehicle scraper for comprehensive automotive data extraction. Extract VIN details, pricing, history, dealer information, and complete vehicle specifications from Carfax listings with automated precision and reliability.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-04T08:31:18.340000+00:00",
+      "modified_at": "2025-09-04T08:52:07.167000+00:00",
+      "stats": {
+        "totalBuilds": 1,
+        "totalRuns": 373,
+        "totalUsers": 34,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 7,
+        "lastRunStartedAt": "2026-01-10T15:13:10.240000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 3,
+          "SUCCEEDED": 130,
+          "TIMED-OUT": 0,
+          "TOTAL": 136
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 0
+      },
+      "categories": [
+        "AUTOMATION",
+        "ECOMMERCE",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/post-tweets-to-twitter-communities-tweet-api-2025-10-m",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "post-tweets-to-twitter-communities-tweet-api-2025-10-m",
+      "title": "Post Tweets to Twitter Communities | Tweet  API | 2025 | $10/m",
+      "description": "Post to Twitter Communities without needing Twitter API access or a developer account. For just $10/month, enjoy unlimited usage and reach your audience inside niche Twitter Communities automatically.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-05T10:43:43.280000+00:00",
+      "modified_at": "2025-11-25T01:56:55.511000+00:00",
+      "stats": {
+        "totalBuilds": 11,
+        "totalRuns": 1331,
+        "totalUsers": 17,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 1,
+        "totalUsers90Days": 2,
+        "lastRunStartedAt": "2026-01-11T05:05:51.909000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 212,
+          "TIMED-OUT": 1,
+          "TOTAL": 213
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "AI",
+        "AGENTS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "canadesk/x-twitter",
+      "error": null,
+      "exists": true,
+      "username": "canadesk",
+      "name": "x-twitter",
+      "title": "X Twitter",
+      "description": "Collect Tweets and Usernames from X.com (Twitter). It's fast and costs little!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-29T20:11:16.920000+00:00",
+      "modified_at": "2025-08-09T22:35:35.793000+00:00",
+      "stats": {
+        "totalBuilds": 128,
+        "totalRuns": 11655,
+        "totalUsers": 1169,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 1,
+        "totalUsers90Days": 8,
+        "lastRunStartedAt": "2026-01-08T23:53:41.655000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 494,
+          "TIMED-OUT": 0,
+          "TOTAL": 494
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SEO_TOOLS",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

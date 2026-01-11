@@ -1,0 +1,3251 @@
+{
+  "metadata": {
+    "platform": "facebook",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.917596",
+    "total_actors": 69,
+    "existing_actors": 69,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "apify/facebook-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-posts-scraper",
+      "title": "Facebook Posts Scraper",
+      "description": "Extract data from hundreds of Facebook posts from one or multiple Facebook pages and profiles. Get post URL, post text, page or profile URL, timestamp, number of likes, shares, comments, and more. Download the data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-28T13:15:33.862000+00:00",
+      "modified_at": "2026-01-09T16:45:21.103000+00:00",
+      "stats": {
+        "totalBuilds": 936,
+        "totalRuns": 20123950,
+        "totalUsers": 42512,
+        "totalUsers7Days": 1528,
+        "totalUsers30Days": 3150,
+        "totalUsers90Days": 5829,
+        "lastRunStartedAt": "2026-01-11T07:59:49.991000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 755,
+          "FAILED": 171,
+          "SUCCEEDED": 1563988,
+          "TIMED-OUT": 1095,
+          "TOTAL": 1567151
+        },
+        "totalMetamorphs": 3,
+        "actorReviewCount": 105,
+        "actorReviewRating": 4.813413795861661,
+        "bookmarkCount": 666
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-comments-scraper",
+      "title": "Facebook Comments Scraper",
+      "description": "Extract data from hundreds of Facebook comments from one or multiple Facebook posts. Get comment text, timestamp, likes count and basic commenter info. Download the data in JSON, CSV, Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-28T13:16:40.407000+00:00",
+      "modified_at": "2026-01-09T16:45:21.061000+00:00",
+      "stats": {
+        "totalBuilds": 886,
+        "totalRuns": 4857451,
+        "totalUsers": 20433,
+        "totalUsers7Days": 449,
+        "totalUsers30Days": 1304,
+        "totalUsers90Days": 2619,
+        "lastRunStartedAt": "2026-01-11T08:00:02.671000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 285,
+          "FAILED": 43284,
+          "SUCCEEDED": 182786,
+          "TIMED-OUT": 20,
+          "TOTAL": 226384
+        },
+        "actorReviewCount": 49,
+        "actorReviewRating": 3.9926388208817913,
+        "bookmarkCount": 254
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/facebook-ads-library-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "facebook-ads-library-scraper",
+      "title": "Facebook Ad Library Scraper",
+      "description": "Scrape facebook ads search and ads run by facebook pages - Fast and  lightweight. $0.75 per 1000 results",
+      "readme": "",
+      "version": "2.0",
+      "created_at": "2023-08-28T06:38:44.604000+00:00",
+      "modified_at": "2025-12-05T20:15:31.698000+00:00",
+      "stats": {
+        "totalBuilds": 196,
+        "totalRuns": 8411325,
+        "totalUsers": 14933,
+        "totalUsers7Days": 637,
+        "totalUsers30Days": 1299,
+        "totalUsers90Days": 2860,
+        "lastRunStartedAt": "2026-01-11T08:00:09.151000+00:00",
+        "totalMetamorphs": 1,
+        "publicActorRunStats30Days": {
+          "ABORTED": 583,
+          "FAILED": 56,
+          "SUCCEEDED": 762354,
+          "TIMED-OUT": 785,
+          "TOTAL": 764202
+        },
+        "actorReviewCount": 48,
+        "actorReviewRating": 3.967075438605989,
+        "bookmarkCount": 476
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-groups-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-groups-scraper",
+      "title": "Facebook Groups Scraper",
+      "description": "Extract data from one or multiple public Facebook groups. Get group and post URLs, post text, comments, timestamp, likes and comments count, and basic commentator info. Download the data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-28T13:19:08.900000+00:00",
+      "modified_at": "2026-01-09T16:45:21.062000+00:00",
+      "stats": {
+        "totalBuilds": 919,
+        "totalRuns": 2406606,
+        "totalUsers": 18670,
+        "totalUsers7Days": 756,
+        "totalUsers30Days": 1925,
+        "totalUsers90Days": 2912,
+        "lastRunStartedAt": "2026-01-11T08:00:19.522000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 269,
+          "FAILED": 16925,
+          "SUCCEEDED": 112747,
+          "TIMED-OUT": 98,
+          "TOTAL": 130062
+        },
+        "actorReviewCount": 38,
+        "actorReviewRating": 4.362896312936811,
+        "bookmarkCount": 271
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-pages-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-pages-scraper",
+      "title": "Facebook Pages Scraper",
+      "description": "Extract basic data from multiple Facebook Pages or Profiles. Extract Facebook page details, website, email, address, messenger, likes, followers, rating, ad running status, and other public data. Export scraped data, schedule scraper via API, integrate with other tools or AI workflows.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2020-02-06T22:32:11.457000+00:00",
+      "modified_at": "2026-01-09T16:45:21.095000+00:00",
+      "stats": {
+        "totalBuilds": 1085,
+        "totalRuns": 15071195,
+        "totalUsers": 32591,
+        "totalUsers7Days": 725,
+        "totalUsers30Days": 1286,
+        "totalUsers90Days": 2484,
+        "lastRunStartedAt": "2026-01-11T08:00:10.606000+00:00",
+        "totalMetamorphs": 32152,
+        "publicActorRunStats30Days": {
+          "ABORTED": 207,
+          "FAILED": 35,
+          "SUCCEEDED": 1432555,
+          "TIMED-OUT": 3398,
+          "TOTAL": 1436198
+        },
+        "actorReviewCount": 29,
+        "actorReviewRating": 4.658403924440028,
+        "bookmarkCount": 324
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/facebook-marketplace",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "facebook-marketplace",
+      "title": "Facebook marketplace scraper",
+      "description": "Scrape facebook marketplace listings and export data to CSV, JSON or use as API",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2023-09-15T13:31:42.726000+00:00",
+      "modified_at": "2025-11-04T03:25:24.309000+00:00",
+      "stats": {
+        "totalBuilds": 90,
+        "totalRuns": 2749297,
+        "totalUsers": 2526,
+        "totalUsers7Days": 67,
+        "totalUsers30Days": 144,
+        "totalUsers90Days": 301,
+        "lastRunStartedAt": "2026-01-11T08:01:01.040000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 122,
+          "FAILED": 63,
+          "SUCCEEDED": 181065,
+          "TIMED-OUT": 54,
+          "TOTAL": 181304
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.302678816981962,
+        "bookmarkCount": 72
+      },
+      "categories": [
+        "ECOMMERCE",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-events-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-events-scraper",
+      "title": "Facebook Events Scraper",
+      "description": "Facebook Events Scraper extracts data such as event name, location, description or number of users who are interested. You can use URLs of specific events or come up with search queries and explore pretty much unlimited number of events. Search queries can be combined with various search filters.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-03-03T13:45:35.086000+00:00",
+      "modified_at": "2025-12-30T10:32:42.004000+00:00",
+      "stats": {
+        "totalBuilds": 351,
+        "totalRuns": 590751,
+        "totalUsers": 2065,
+        "totalUsers7Days": 82,
+        "totalUsers30Days": 148,
+        "totalUsers90Days": 276,
+        "lastRunStartedAt": "2026-01-11T07:48:12.242000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 42,
+          "FAILED": 105,
+          "SUCCEEDED": 82465,
+          "TIMED-OUT": 140,
+          "TOTAL": 82755
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 3.749219636944246,
+        "bookmarkCount": 57
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-reviews-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-reviews-scraper",
+      "title": "Facebook Reviews Scraper",
+      "description": "Extract data from hundreds of Facebook reviews from one or multiple Facebook pages. Get review text, timestamp, review URL, likes and comments count and basic reviewer info. Download the data in JSON, CSV, Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-28T13:18:10.078000+00:00",
+      "modified_at": "2026-01-09T16:45:21.107000+00:00",
+      "stats": {
+        "totalBuilds": 877,
+        "totalRuns": 5606311,
+        "totalUsers": 1571,
+        "totalUsers7Days": 63,
+        "totalUsers30Days": 126,
+        "totalUsers90Days": 221,
+        "lastRunStartedAt": "2026-01-11T08:00:58.250000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 27,
+          "SUCCEEDED": 311940,
+          "TIMED-OUT": 94,
+          "TOTAL": 312071
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.983681514491439,
+        "bookmarkCount": 44
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/facebook-search-ppr",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "facebook-search-ppr",
+      "title": "Facebook Search PPR",
+      "description": "Scrap Facebook search results fast and easy. It is designed to be fast and efficient, so it can extract a large number of results for low price. It is also less likely to be blocked by Facebook.",
+      "readme": "",
+      "version": "1.4",
+      "created_at": "2024-08-23T13:19:54.136000+00:00",
+      "modified_at": "2025-10-10T18:03:52.959000+00:00",
+      "stats": {
+        "totalBuilds": 40,
+        "totalRuns": 1440042,
+        "totalUsers": 2538,
+        "totalUsers7Days": 124,
+        "totalUsers30Days": 289,
+        "totalUsers90Days": 650,
+        "lastRunStartedAt": "2026-01-11T08:01:19.176000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 75,
+          "FAILED": 118,
+          "SUCCEEDED": 165006,
+          "TIMED-OUT": 507,
+          "TOTAL": 165707
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.946424853615617,
+        "bookmarkCount": 67
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/facebook-search-rental",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "facebook-search-rental",
+      "title": "Facebook Search",
+      "description": "Scrap Facebook search results fast and easy. It is designed to be fast and efficient, so it can extract a large number of results for low price. It is also less likely to be blocked by Facebook.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-04-02T06:47:38.833000+00:00",
+      "modified_at": "2025-10-11T05:13:48.818000+00:00",
+      "stats": {
+        "totalBuilds": 61,
+        "totalRuns": 1833327,
+        "totalUsers": 1481,
+        "totalUsers7Days": 18,
+        "totalUsers30Days": 37,
+        "totalUsers90Days": 106,
+        "lastRunStartedAt": "2026-01-11T08:00:16.265000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 2,
+          "SUCCEEDED": 93383,
+          "TIMED-OUT": 38,
+          "TOTAL": 93425
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.360500074426775,
+        "bookmarkCount": 36
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-reels-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-reels-scraper",
+      "title": "Facebook Reels Scraper",
+      "description": "Extract data from hundreds of Facebook reels from one or multiple Facebook pages and profiles. Get reel URL, text, page or profile URL, timestamp, number of plays and more. Download the data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-08-26T04:04:21.185000+00:00",
+      "modified_at": "2026-01-09T16:45:21.082000+00:00",
+      "stats": {
+        "totalBuilds": 625,
+        "totalRuns": 92779,
+        "totalUsers": 1677,
+        "totalUsers7Days": 54,
+        "totalUsers30Days": 174,
+        "totalUsers90Days": 358,
+        "lastRunStartedAt": "2026-01-11T08:02:04.209000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 557,
+          "FAILED": 8,
+          "SUCCEEDED": 34706,
+          "TIMED-OUT": 2,
+          "TOTAL": 35273
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 3.2756487864517654,
+        "bookmarkCount": 39
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/facebook-post-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "facebook-post-scraper",
+      "title": "Facebook group post scraper",
+      "description": "Scrape post from facebook groups you are member of and get details such as poster's name, id, url, and post text, reactions and comments count, time, etc",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-08-21T06:06:41.446000+00:00",
+      "modified_at": "2025-10-18T14:51:02.937000+00:00",
+      "stats": {
+        "totalBuilds": 68,
+        "totalRuns": 524734,
+        "totalUsers": 2063,
+        "totalUsers7Days": 31,
+        "totalUsers30Days": 77,
+        "totalUsers90Days": 215,
+        "lastRunStartedAt": "2026-01-11T07:40:51.004000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 478,
+          "FAILED": 2004,
+          "SUCCEEDED": 20362,
+          "TIMED-OUT": 33,
+          "TOTAL": 22948
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.876055602469646,
+        "bookmarkCount": 49
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/facebook-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "facebook-profile-scraper",
+      "title": "Facebook profile and page scraper",
+      "description": "Scrape facebook profiles and pages in bulk and get important details such as email, social media urls, website and contact info.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-16T14:33:44.295000+00:00",
+      "modified_at": "2025-10-19T17:24:29.226000+00:00",
+      "stats": {
+        "totalBuilds": 109,
+        "totalRuns": 1409042,
+        "totalUsers": 3376,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 55,
+        "totalUsers90Days": 188,
+        "lastRunStartedAt": "2026-01-11T07:40:02.315000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 13,
+          "FAILED": 21,
+          "SUCCEEDED": 16200,
+          "TIMED-OUT": 1,
+          "TOTAL": 16238
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 45
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "alien_force/facebook-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "alien_force",
+      "name": "facebook-search-scraper",
+      "title": "Facebook Search Scraper",
+      "description": "Powerful Facebook search that scrapes and searches posts, pages, and profiles by keyword. Get detailed info like author, engagement metrics, images, videos. Ideal for research, monitoring, and analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-31T04:51:06.435000+00:00",
+      "modified_at": "2026-01-06T15:28:43.470000+00:00",
+      "stats": {
+        "totalBuilds": 17,
+        "totalRuns": 387185,
+        "totalUsers": 732,
+        "totalUsers7Days": 37,
+        "totalUsers30Days": 83,
+        "totalUsers90Days": 194,
+        "lastRunStartedAt": "2026-01-11T07:34:37.550000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 19,
+          "FAILED": 1,
+          "SUCCEEDED": 157875,
+          "TIMED-OUT": 441,
+          "TOTAL": 158351
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/facebook-posts-fast",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "facebook-posts-fast",
+      "title": "Facebook Posts Scraper",
+      "description": "Scrap Facebook posts fast and easy. This actor is a lightweight version of the Facebook Posts actor. It is designed to be fast and efficient, so it can extract a large number of posts for low price. It is also less likely to be blocked by Facebook.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-03-28T14:04:02.317000+00:00",
+      "modified_at": "2026-01-08T07:29:57.662000+00:00",
+      "stats": {
+        "totalBuilds": 50,
+        "totalRuns": 473585,
+        "totalUsers": 1174,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 46,
+        "totalUsers90Days": 119,
+        "lastRunStartedAt": "2026-01-10T23:07:29.777000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 1,
+          "SUCCEEDED": 24215,
+          "TIMED-OUT": 8,
+          "TOTAL": 24228
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.700725050105263,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "caprolok/facebook-groups-scraper",
+      "error": null,
+      "exists": true,
+      "username": "caprolok",
+      "name": "facebook-groups-scraper",
+      "title": "Facebook Groups Scraper",
+      "description": "Efficiently extract data from public Facebook groups: access group and post URLs, post texts, timestamps, likes, comments count, and basic user info and much more. Download in JSON, CSV, Excel for easy analysis and integration in apps, spreadsheets, or reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-02-29T13:26:13.065000+00:00",
+      "modified_at": "2025-12-29T13:56:46.747000+00:00",
+      "stats": {
+        "totalBuilds": 70,
+        "totalRuns": 95099,
+        "totalUsers": 884,
+        "totalUsers7Days": 9,
+        "totalUsers30Days": 19,
+        "totalUsers90Days": 51,
+        "lastRunStartedAt": "2026-01-11T08:02:33.625000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 1,
+          "SUCCEEDED": 5412,
+          "TIMED-OUT": 97,
+          "TOTAL": 5538
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-followers-following-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-followers-following-scraper",
+      "title": "Facebook Followers & Following Scraper",
+      "description": "Extract data from Facebook pages and profiles about its followers and profiles it follows. Just enter the URL, and you'll get data such as follow type, profile's URL, image, title, and subtitle. You can integrate your workflow with tools such as Google Drive, Zapier, Make and much more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-05-30T06:50:15.761000+00:00",
+      "modified_at": "2026-01-09T16:45:21.067000+00:00",
+      "stats": {
+        "totalBuilds": 676,
+        "totalRuns": 34253,
+        "totalUsers": 6635,
+        "totalUsers7Days": 45,
+        "totalUsers30Days": 190,
+        "totalUsers90Days": 398,
+        "lastRunStartedAt": "2026-01-11T08:02:39.848000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 37,
+          "FAILED": 19,
+          "SUCCEEDED": 4623,
+          "TIMED-OUT": 8,
+          "TOTAL": 4692
+        },
+        "actorReviewCount": 25,
+        "actorReviewRating": 4.614504823924905,
+        "bookmarkCount": 38
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datavoyantlab/facebook-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datavoyantlab",
+      "name": "facebook-comments-scraper",
+      "title": "Facebook Comments Scraper",
+      "description": "Extract Facebook comments from any post, page, or group. Download hundreds of comments with user data and engagement metrics in JSON, CSV, or Excel format.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2024-10-25T21:38:19.634000+00:00",
+      "modified_at": "2025-08-18T21:41:53.188000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 79174,
+        "totalUsers": 444,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 50,
+        "lastRunStartedAt": "2026-01-10T08:42:26.174000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 250,
+          "SUCCEEDED": 14031,
+          "TIMED-OUT": 20,
+          "TOTAL": 14313
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "powerai/facebook-post-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "powerai",
+      "name": "facebook-post-search-scraper",
+      "title": "Facebook Post Search Scraper",
+      "description": "Extract Facebook posts by keyword with advanced filters, supporting auto-pagination and up to 5000 results per run. Ideal for social media research and content analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-27T09:00:01.607000+00:00",
+      "modified_at": "2025-11-19T07:45:34.812000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 68248,
+        "totalUsers": 504,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 82,
+        "totalUsers90Days": 164,
+        "lastRunStartedAt": "2026-01-11T07:30:05.940000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 11,
+          "FAILED": 152,
+          "SUCCEEDED": 8800,
+          "TIMED-OUT": 4,
+          "TOTAL": 8971
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 3.936131346800759,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "alien_force/facebook-scraper-pro",
+      "error": null,
+      "exists": true,
+      "username": "alien_force",
+      "name": "facebook-scraper-pro",
+      "title": "Facebook Scraper Pro",
+      "description": "Facebook Scraper Pro is a powerful Apify actor for extracting Facebook data. It includes: Search Scraper (finds posts by keyword), Profiles Scraper (scrapes profile info & posts), Posts Scraper (extracts posts by URL), and Comments Scraper (collects comments from posts). 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-20T15:13:02.456000+00:00",
+      "modified_at": "2026-01-06T15:25:03.123000+00:00",
+      "stats": {
+        "totalBuilds": 71,
+        "totalRuns": 119646,
+        "totalUsers": 450,
+        "totalUsers7Days": 26,
+        "totalUsers30Days": 69,
+        "totalUsers90Days": 130,
+        "lastRunStartedAt": "2026-01-11T07:37:14.398000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 36,
+          "FAILED": 0,
+          "SUCCEEDED": 40366,
+          "TIMED-OUT": 44,
+          "TOTAL": 40447
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "cleansyntax/facebook-pages-scraper",
+      "error": null,
+      "exists": true,
+      "username": "cleansyntax",
+      "name": "facebook-pages-scraper",
+      "title": "Facebook Pages Scraper",
+      "description": "Facebook Pages Scraper extracts comprehensive details from Facebook Pages. It gathers valuable info - such as page_names, addresses, emails, phone numbers, etc - making it ideal for building high-quality leads and fueling your marketing or sales strategies.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-06T14:09:51.833000+00:00",
+      "modified_at": "2025-12-30T17:08:13.179000+00:00",
+      "stats": {
+        "totalBuilds": 86,
+        "totalRuns": 700046,
+        "totalUsers": 671,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 87,
+        "totalUsers90Days": 184,
+        "lastRunStartedAt": "2026-01-11T07:20:04.345000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 300,
+          "SUCCEEDED": 200118,
+          "TIMED-OUT": 84,
+          "TOTAL": 200503
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 3.6798958406698246,
+        "bookmarkCount": 25
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-marketplace-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-marketplace-scraper",
+      "title": "Facebook Marketplace Scraper",
+      "description": "Extract data from one or multiple Facebook Marketplace listings. Scrape data on apartments, whole categories, items for sale, prices, location and sellers. Export scraped data in JSON, CSV, and Excel, run the scraper via API, schedule and monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-05-07T07:30:16.449000+00:00",
+      "modified_at": "2026-01-09T16:45:21.089000+00:00",
+      "stats": {
+        "totalBuilds": 689,
+        "totalRuns": 69797,
+        "totalUsers": 2765,
+        "totalUsers7Days": 54,
+        "totalUsers30Days": 145,
+        "totalUsers90Days": 333,
+        "lastRunStartedAt": "2026-01-11T08:02:45.156000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 36,
+          "FAILED": 24,
+          "SUCCEEDED": 9901,
+          "TIMED-OUT": 94,
+          "TOTAL": 10056
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 4.034954068692472,
+        "bookmarkCount": 84
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "ECOMMERCE",
+        "REAL_ESTATE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datavoyantlab/Facebook-marketplace-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datavoyantlab",
+      "name": "Facebook-marketplace-scraper",
+      "title": "Facebook Marketplace Scraper",
+      "description": "Extract data from Facebook Marketplace listings and export to CSV, JSON, or use through a powerful API.",
+      "readme": "",
+      "version": "2.0",
+      "created_at": "2024-09-19T21:50:28.412000+00:00",
+      "modified_at": "2025-11-13T09:16:32.575000+00:00",
+      "stats": {
+        "totalBuilds": 69,
+        "totalRuns": 436580,
+        "totalUsers": 524,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 51,
+        "lastRunStartedAt": "2026-01-11T06:36:01.617000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 27817,
+          "TIMED-OUT": 347,
+          "TOTAL": 28170
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 1.500989003921883,
+        "bookmarkCount": 23
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "ECOMMERCE",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "alien_force/facebook-scraper-pro-rental",
+      "error": null,
+      "exists": true,
+      "username": "alien_force",
+      "name": "facebook-scraper-pro-rental",
+      "title": "Facebook Scraper Pro (Rental)",
+      "description": "Facebook Scraper Pro is a powerful Apify actor for extracting Facebook data. It includes: Search Scraper (finds posts by keyword), Profiles Scraper (scrapes profile info & posts), Posts Scraper (extracts posts by URL), and Comments Scraper (collects comments from posts). 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-17T01:51:16.160000+00:00",
+      "modified_at": "2026-01-06T15:27:51.851000+00:00",
+      "stats": {
+        "totalBuilds": 46,
+        "totalRuns": 3303596,
+        "totalUsers": 141,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 29,
+        "lastRunStartedAt": "2026-01-11T08:04:44.165000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 34,
+          "SUCCEEDED": 363454,
+          "TIMED-OUT": 239269,
+          "TOTAL": 602758
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/facebook-ads-library-scraper-cheerio",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "facebook-ads-library-scraper-cheerio",
+      "title": "Facebook Ads Library Scraper [Reach Included] (Richest output)",
+      "description": "Stealthily decode competitors' Facebook ad strategies in real-time—scrape active campaigns, creatives, and audience targeting data with residential proxies. Gain actionable insights, track trends, and optimize your ads using their winning tactics, undetected.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-17T10:03:11.818000+00:00",
+      "modified_at": "2025-12-30T09:35:24.100000+00:00",
+      "stats": {
+        "totalBuilds": 48,
+        "totalRuns": 85161,
+        "totalUsers": 447,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 41,
+        "totalUsers90Days": 110,
+        "lastRunStartedAt": "2026-01-11T04:18:51.626000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 50,
+          "FAILED": 66,
+          "SUCCEEDED": 9736,
+          "TIMED-OUT": 358,
+          "TOTAL": 10211
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.674673883799791,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/facebook-group-member-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "facebook-group-member-scraper",
+      "title": "Facebook group member scraper",
+      "description": "Scrape facebook group members of any group with all available information",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-06-26T15:33:25.343000+00:00",
+      "modified_at": "2025-10-18T14:57:31.555000+00:00",
+      "stats": {
+        "totalBuilds": 92,
+        "totalRuns": 9403,
+        "totalUsers": 1785,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 24,
+        "totalUsers90Days": 117,
+        "lastRunStartedAt": "2026-01-11T05:00:00.606000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 18,
+          "FAILED": 60,
+          "SUCCEEDED": 1005,
+          "TIMED-OUT": 14,
+          "TOTAL": 1104
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 4.47084547312713,
+        "bookmarkCount": 52
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/facebook-comments-ppr",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "facebook-comments-ppr",
+      "title": "Facebook Comments PPR",
+      "description": "Scrap Facebook comments fast and easy. It is designed to be fast and efficient, so it can extract a large number of comments for low price. It is also less likely to be blocked by Facebook.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2024-08-20T09:00:32.138000+00:00",
+      "modified_at": "2025-09-12T07:29:48.633000+00:00",
+      "stats": {
+        "totalBuilds": 42,
+        "totalRuns": 157351,
+        "totalUsers": 491,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 32,
+        "totalUsers90Days": 64,
+        "lastRunStartedAt": "2026-01-11T06:02:34.656000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 2092,
+          "TIMED-OUT": 0,
+          "TOTAL": 2092
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 3.4833990735751503,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-hashtag-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-hashtag-search-scraper",
+      "title": "Facebook Hashtag Search Scraper",
+      "description": "Scrape Facebook hashtag posts with ease! Extract post content, user info, reactions, comments count and more from any public Facebook hashtag search results. Perfect for social media monitoring and trend analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-31T02:12:47.977000+00:00",
+      "modified_at": "2025-11-19T07:42:37.791000+00:00",
+      "stats": {
+        "totalBuilds": 39,
+        "totalRuns": 45667,
+        "totalUsers": 568,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 63,
+        "lastRunStartedAt": "2026-01-11T07:35:03.723000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 2006,
+          "TIMED-OUT": 0,
+          "TOTAL": 2009
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 1.7641217990254145,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "caprolok/facebook-pages-scraper",
+      "error": null,
+      "exists": true,
+      "username": "caprolok",
+      "name": "facebook-pages-scraper",
+      "title": "Facebook Pages Scraper",
+      "description": "📘 Unlock the power of social media with Facebook Post Scraper! Extract detailed insights from posts, including likes 👍, comments 💬, shares 🔁, and more. Download in JSON, CSV, Excel. Perfect for market research, trend analysis, and competitive monitoring. 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-01-30T03:05:10.633000+00:00",
+      "modified_at": "2025-12-30T06:01:40.118000+00:00",
+      "stats": {
+        "totalBuilds": 102,
+        "totalRuns": 36430,
+        "totalUsers": 921,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 18,
+        "totalUsers90Days": 48,
+        "lastRunStartedAt": "2026-01-10T12:02:47.584000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 35,
+          "FAILED": 0,
+          "SUCCEEDED": 527,
+          "TIMED-OUT": 108,
+          "TOTAL": 677
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 2.0376364946504344,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-ads-library-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-ads-library-scraper",
+      "title": "Facebook Ads Library Scraper",
+      "description": "Extract detailed information about active Facebook ads including content, images, targeting data and more. Perfect for market research, competitor analysis and ad intelligence. Supports all countries and ad categories with anti-detection measures.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-31T04:51:04.805000+00:00",
+      "modified_at": "2025-11-19T07:46:30.859000+00:00",
+      "stats": {
+        "totalBuilds": 17,
+        "totalRuns": 26508,
+        "totalUsers": 1214,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 41,
+        "totalUsers90Days": 140,
+        "lastRunStartedAt": "2026-01-10T17:43:12.708000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 0,
+          "SUCCEEDED": 445,
+          "TIMED-OUT": 0,
+          "TOTAL": 449
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 1.9035945749175316,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-posts-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-posts-search-scraper",
+      "title": "Facebook Posts Search Scraper",
+      "description": "Effortlessly extract posts from Facebook search results. This actor automates the collection of posts based on custom queries, providing detailed information such as post content, engagement metrics, and author details. Ideal for social media monitoring, market research, and trend analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-09T03:26:19.151000+00:00",
+      "modified_at": "2025-11-19T07:47:39.791000+00:00",
+      "stats": {
+        "totalBuilds": 55,
+        "totalRuns": 22842,
+        "totalUsers": 933,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 96,
+        "lastRunStartedAt": "2026-01-11T03:27:17.149000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 281,
+          "TIMED-OUT": 0,
+          "TOTAL": 283
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 1.9406032525205728,
+        "bookmarkCount": 21
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-post-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-post-comments-scraper",
+      "title": "Facebook Post Comments Scraper",
+      "description": "Effortlessly extract comments from public Facebook posts. This actor automates comment collection, providing detailed information such as author details, comment text, and timestamps. Ideal for social media analysis, sentiment analysis, and market research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-07T12:34:55.892000+00:00",
+      "modified_at": "2025-11-25T00:24:15.522000+00:00",
+      "stats": {
+        "totalBuilds": 37,
+        "totalRuns": 12888,
+        "totalUsers": 787,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 27,
+        "totalUsers90Days": 63,
+        "lastRunStartedAt": "2026-01-10T17:54:16.114000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 963,
+          "TIMED-OUT": 0,
+          "TOTAL": 965
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 2.535081172459798,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "alien_force/facebook-posts-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "alien_force",
+      "name": "facebook-posts-comments-scraper",
+      "title": "Facebook Posts/Comments Scraper",
+      "description": "Facebook Post Scraper with Comments extracts Facebook post details, including text, author info, likes, shares, and media. It also scrapes comments with user details, engagement metrics, and timestamps. Ideal for social media monitoring, sentiment analysis, and audience insights.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-17T03:28:05.557000+00:00",
+      "modified_at": "2026-01-06T15:27:56.983000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 6395,
+        "totalUsers": 426,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 36,
+        "totalUsers90Days": 76,
+        "lastRunStartedAt": "2026-01-11T02:30:23.443000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 8,
+          "SUCCEEDED": 1624,
+          "TIMED-OUT": 8,
+          "TOTAL": 1644
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 17
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/facebook-pages-details-rental",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "facebook-pages-details-rental",
+      "title": "Facebook Pages Details",
+      "description": "Scrap Facebook pages fast and easy. Extract all contact information and other details in no-time!",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-04-05T09:58:00.647000+00:00",
+      "modified_at": "2025-11-13T09:06:16.603000+00:00",
+      "stats": {
+        "totalBuilds": 30,
+        "totalRuns": 1371571,
+        "totalUsers": 463,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 56,
+        "lastRunStartedAt": "2026-01-11T08:03:15.844000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 25,
+          "SUCCEEDED": 94097,
+          "TIMED-OUT": 1,
+          "TOTAL": 94130
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-photos-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-photos-scraper",
+      "title": "Facebook Photos Scraper",
+      "description": "Extract data from one or multiple Facebook images. Get image ID, Facebook photo URL, image URL, OCR text, and more. Download the data in JSON, CSV, and Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-28T13:19:38.920000+00:00",
+      "modified_at": "2026-01-09T16:45:21.088000+00:00",
+      "stats": {
+        "totalBuilds": 845,
+        "totalRuns": 787598,
+        "totalUsers": 2252,
+        "totalUsers7Days": 33,
+        "totalUsers30Days": 78,
+        "totalUsers90Days": 169,
+        "lastRunStartedAt": "2026-01-11T08:07:06.430000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 42,
+          "FAILED": 20,
+          "SUCCEEDED": 15343,
+          "TIMED-OUT": 3,
+          "TOTAL": 15409
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 3.7726803304681495,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/facebook-ads-library-scraper---fast-cheap",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "facebook-ads-library-scraper---fast-cheap",
+      "title": "Facebook Ads Library Scraper 🎯📈 - Fast & cheap 💬⭐",
+      "description": "🚀 Extract Facebook (Meta) Ads Data 📊 from one or multiple Pages! Gather page details, reach estimates, impressions, ad IDs, and more 📅. Download in JSON, CSV, or Excel formats 🔽 for seamless integration into apps, spreadsheets, and reports. Perfect for analysis and insights 📈💻.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-22T22:00:30.237000+00:00",
+      "modified_at": "2025-12-25T21:37:19.904000+00:00",
+      "stats": {
+        "totalBuilds": 72,
+        "totalRuns": 3390,
+        "totalUsers": 803,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 23,
+        "totalUsers90Days": 101,
+        "lastRunStartedAt": "2026-01-11T07:52:35.887000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 139,
+          "TIMED-OUT": 0,
+          "TOTAL": 145
+        },
+        "actorReviewCount": 35,
+        "actorReviewRating": 4.326940901853303,
+        "bookmarkCount": 59
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "ECOMMERCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/facebook-comment-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "facebook-comment-scraper",
+      "title": "Facebook comment scraper",
+      "description": "Scrape comments from facebook posts from a user, page, group member etc.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-08-22T07:30:40.922000+00:00",
+      "modified_at": "2025-10-20T13:53:56.929000+00:00",
+      "stats": {
+        "totalBuilds": 49,
+        "totalRuns": 122681,
+        "totalUsers": 873,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 12,
+        "totalUsers90Days": 50,
+        "lastRunStartedAt": "2026-01-09T18:48:44.497000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 25,
+          "SUCCEEDED": 289,
+          "TIMED-OUT": 6,
+          "TOTAL": 322
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.835147113625541,
+        "bookmarkCount": 20
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/apify-facebook-group-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "apify-facebook-group-scraper",
+      "title": "Facebook Group Posts and Details Scraper",
+      "description": "Scrape detailed information from Facebook groups, including posts, author details, and engagement metrics. This scraper allows you to gather insights from public and private Facebook groups, ideal for social listening, trend analysis, and competitor research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-16T10:13:01.656000+00:00",
+      "modified_at": "2025-10-07T07:08:47.927000+00:00",
+      "stats": {
+        "totalBuilds": 71,
+        "totalRuns": 1996,
+        "totalUsers": 316,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 41,
+        "lastRunStartedAt": "2026-01-09T11:51:16.303000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 41,
+          "FAILED": 0,
+          "SUCCEEDED": 56,
+          "TIMED-OUT": 0,
+          "TOTAL": 97
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 17
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "JOBS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-url-to-id",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-url-to-id",
+      "title": "Facebook URL to ID",
+      "description": "Scraping any Facebook URL as data object with internal Facebook ID and metadata if-when available.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-12-07T08:54:47.161000+00:00",
+      "modified_at": "2026-01-09T16:45:21.107000+00:00",
+      "stats": {
+        "totalBuilds": 808,
+        "totalRuns": 7632170,
+        "totalUsers": 4341,
+        "totalUsers7Days": 298,
+        "totalUsers30Days": 543,
+        "totalUsers90Days": 806,
+        "lastRunStartedAt": "2026-01-11T08:07:44.997000+00:00",
+        "totalMetamorphs": 26084,
+        "publicActorRunStats30Days": {
+          "ABORTED": 18,
+          "FAILED": 15,
+          "SUCCEEDED": 387189,
+          "TIMED-OUT": 6348,
+          "TOTAL": 393571
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.969289353701945,
+        "bookmarkCount": 26
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "lexis-solutions/facebook-user-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "lexis-solutions",
+      "name": "facebook-user-search-scraper",
+      "title": "Facebook User Search Scraper",
+      "description": "The Facebook User Search Scraper can obtain public data of profiles given a profile URL or a name to search. You can use it as a Facebook user matcher, user finder, or user enricher to connect your apps.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-10-02T07:08:09.792000+00:00",
+      "modified_at": "2025-03-27T15:05:21.597000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 11638,
+        "totalUsers": 752,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 15,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-11T06:17:10.456000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 2,
+          "SUCCEEDED": 247,
+          "TIMED-OUT": 85,
+          "TOTAL": 335
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 38
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "igolaizola/facebook-ad-library-scraper",
+      "error": null,
+      "exists": true,
+      "username": "igolaizola",
+      "name": "facebook-ad-library-scraper",
+      "title": "Facebook (Meta) Ad Library Scraper",
+      "description": "Extract powerful ad insights from Meta's Facebook Ad Library. Scrape comprehensive data including IDs, ad text, images, links, and page details to fuel digital marketing strategies and competitive research. Optimize and boost campaigns with current, actionable ad data for maximum impact.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-09T20:00:50.407000+00:00",
+      "modified_at": "2025-12-19T23:10:14.409000+00:00",
+      "stats": {
+        "totalBuilds": 33,
+        "totalRuns": 44311,
+        "totalUsers": 669,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 34,
+        "totalUsers90Days": 112,
+        "lastRunStartedAt": "2026-01-11T07:56:36.678000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 42,
+          "FAILED": 10,
+          "SUCCEEDED": 2430,
+          "TIMED-OUT": 111,
+          "TOTAL": 2595
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 21
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "lexis-solutions/facebook-videos-watch-scraper",
+      "error": null,
+      "exists": true,
+      "username": "lexis-solutions",
+      "name": "facebook-videos-watch-scraper",
+      "title": "Facebook Videos (Watch) Scraper",
+      "description": "The Facebook Videos (Facebook Watch) Scraper can obtain public data for videos on Meta's Facebook given an exact URL or a query to search. It provides data like views, reactions, comments and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-04-08T06:48:04.740000+00:00",
+      "modified_at": "2025-10-03T11:36:19.922000+00:00",
+      "stats": {
+        "totalBuilds": 16,
+        "totalRuns": 2932,
+        "totalUsers": 326,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-10T13:23:03.454000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 1,
+          "SUCCEEDED": 33,
+          "TIMED-OUT": 9,
+          "TOTAL": 55
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 5.000000000000001,
+        "bookmarkCount": 18
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-groups-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-groups-search-scraper",
+      "title": "Facebook Groups Search Scraper",
+      "description": "Effortlessly search and extract data from Facebook groups. This actor automates group discovery based on keywords, collecting detailed information such as group name, URL, member count, and post frequency. Ideal for market research, community engagement, and trend analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-06T06:41:41.769000+00:00",
+      "modified_at": "2025-11-25T00:26:12.969000+00:00",
+      "stats": {
+        "totalBuilds": 47,
+        "totalRuns": 11728,
+        "totalUsers": 502,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 47,
+        "lastRunStartedAt": "2026-01-11T05:53:53.292000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 343,
+          "TIMED-OUT": 0,
+          "TOTAL": 343
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.953015744089006,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "lazyscraper/facebook-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "lazyscraper",
+      "name": "facebook-profile-scraper",
+      "title": "Facebook Profile Scraper",
+      "description": "This tool efficiently extracts public profile data from specified Facebook accounts, including: \nEmail addresses (if publicly listed) 、Bio、User ID、Profile URL.\nKey Advantage: For public profiles, it delivers accurate follower/fan counts – a critical metric most competitors fail to provide reliably.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-15T14:54:06.608000+00:00",
+      "modified_at": "2025-12-20T09:19:28.026000+00:00",
+      "stats": {
+        "totalBuilds": 65,
+        "totalRuns": 178098,
+        "totalUsers": 387,
+        "totalUsers7Days": 17,
+        "totalUsers30Days": 37,
+        "totalUsers90Days": 90,
+        "lastRunStartedAt": "2026-01-11T08:09:02.246000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 7,
+          "SUCCEEDED": 32470,
+          "TIMED-OUT": 0,
+          "TOTAL": 32480
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/facebook-marketplace-cheerio",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "facebook-marketplace-cheerio",
+      "title": "Facebook Marketplace | Search | Detail Pages | Scraper",
+      "description": "Unlock valuable insights from Facebook Marketplace effortlessly – perfect for market research, price tracking, and competitor analysis, all while staying anonymous.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-24T12:29:57.403000+00:00",
+      "modified_at": "2025-12-31T20:55:07.654000+00:00",
+      "stats": {
+        "totalBuilds": 55,
+        "totalRuns": 27774,
+        "totalUsers": 165,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 31,
+        "lastRunStartedAt": "2026-01-11T08:06:19.503000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 15,
+          "FAILED": 1,
+          "SUCCEEDED": 20283,
+          "TIMED-OUT": 207,
+          "TOTAL": 20506
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "ECOMMERCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/facebook-followers-following-scraper---fast-cheap",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "facebook-followers-following-scraper---fast-cheap",
+      "title": "Facebook Followers & Following Scraper 📊👥 - Fast & cheap 💬⭐",
+      "description": "Easily gather data about followers/following from Facebook pages and profiles 🌐📊. Enter the URL to retrieve key info like follow type, name, profile URL, and image 🔍. Seamlessly integrate with tools like Google Drive, Zapier, and more 🔗 to streamline your workflow and boost productivity! ⚡📈",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-03T19:43:58.792000+00:00",
+      "modified_at": "2026-01-11T06:26:01.381000+00:00",
+      "stats": {
+        "totalBuilds": 122,
+        "totalRuns": 1849,
+        "totalUsers": 606,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 62,
+        "lastRunStartedAt": "2026-01-10T18:13:42.535000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 7,
+          "SUCCEEDED": 64,
+          "TIMED-OUT": 1,
+          "TOTAL": 76
+        },
+        "actorReviewCount": 32,
+        "actorReviewRating": 4.888900087409304,
+        "bookmarkCount": 25
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/facebook-pages-posts-ppr",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "facebook-pages-posts-ppr",
+      "title": "Facebook Pages Posts PPR",
+      "description": "Scrap Facebook pages posts fast and easy. It is designed to be fast and efficient, so it can extract a large number of results for low price. It is also less likely to be blocked by Facebook.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2024-10-26T12:06:24.564000+00:00",
+      "modified_at": "2026-01-09T18:31:49.759000+00:00",
+      "stats": {
+        "totalBuilds": 28,
+        "totalRuns": 77098,
+        "totalUsers": 705,
+        "totalUsers7Days": 33,
+        "totalUsers30Days": 59,
+        "totalUsers90Days": 126,
+        "lastRunStartedAt": "2026-01-11T07:35:50.625000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 1171,
+          "SUCCEEDED": 3828,
+          "TIMED-OUT": 0,
+          "TOTAL": 8785
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.027473520824936,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-likes-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-likes-scraper",
+      "title": "Facebook Likes and Reactions Scraper",
+      "description": "Extract Facebook likes data from one or multiple Facebook posts. Get post URL, reaction type (like, love, care, sad, angry, laugh), and basic liker info such as Facebook name and profile URL. Download the data in JSON, CSV Excel and use it in apps, spreadsheets, and reports.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-04-21T12:25:12.410000+00:00",
+      "modified_at": "2026-01-09T16:45:21.097000+00:00",
+      "stats": {
+        "totalBuilds": 871,
+        "totalRuns": 29806,
+        "totalUsers": 3895,
+        "totalUsers7Days": 17,
+        "totalUsers30Days": 60,
+        "totalUsers90Days": 161,
+        "lastRunStartedAt": "2026-01-11T08:02:39.964000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 26,
+          "SUCCEEDED": 1992,
+          "TIMED-OUT": 2,
+          "TOTAL": 2025
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 4.244313083921443,
+        "bookmarkCount": 34
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-followers-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-followers-scraper",
+      "title": "Facebook Followers Scraper",
+      "description": "Extract Facebook followers data including profile details, friendship status, and basic information. Perfect for social media analysis, lead generation, and audience research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-31T07:18:06.182000+00:00",
+      "modified_at": "2025-11-25T00:34:50.525000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 1962,
+        "totalUsers": 718,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 73,
+        "lastRunStartedAt": "2026-01-10T04:11:47.617000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 0,
+          "SUCCEEDED": 86,
+          "TIMED-OUT": 0,
+          "TOTAL": 93
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 1.9746431598552214,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/facebook-search-groups-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "facebook-search-groups-scraper",
+      "title": "Facebook Search Groups Results Scraper",
+      "description": "Scrape facebook groups from search results and get important details such as group name, description, is group public or private, group members count, activity and group URL.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-02-15T16:01:14.905000+00:00",
+      "modified_at": "2025-09-29T19:44:26.674000+00:00",
+      "stats": {
+        "totalBuilds": 93,
+        "totalRuns": 763,
+        "totalUsers": 187,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 12,
+        "lastRunStartedAt": "2026-01-10T14:25:18.471000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 0,
+          "SUCCEEDED": 36,
+          "TIMED-OUT": 0,
+          "TOTAL": 45
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/all-in-one-social-media-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "all-in-one-social-media-email-scraper",
+      "title": "All-in-One Social Media Email Scraper",
+      "description": "🌐📧 Discover emails across 30+ social platforms! Extract contact info from Facebook, Twitter, LinkedIn, and more. Perfect for lead gen, influencer outreach, and market research. Fast, efficient, and proxy-enabled. Boost your networking and marketing efforts today! 🚀🔍",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-14T07:09:40.190000+00:00",
+      "modified_at": "2025-11-25T00:23:07.146000+00:00",
+      "stats": {
+        "totalBuilds": 11,
+        "totalRuns": 4057,
+        "totalUsers": 675,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 46,
+        "lastRunStartedAt": "2026-01-11T03:00:03.807000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 102,
+          "TIMED-OUT": 0,
+          "TOTAL": 103
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 2.1427154528532872,
+        "bookmarkCount": 25
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-page-contact-information",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-page-contact-information",
+      "title": "Facebook page contact info Scraper",
+      "description": "Get Facebook pages addresses, email, likes, website, check-ins, and phone information",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-03-17T02:02:14.593000+00:00",
+      "modified_at": "2026-01-09T16:45:21.098000+00:00",
+      "stats": {
+        "totalBuilds": 844,
+        "totalRuns": 434777,
+        "totalUsers": 4513,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 80,
+        "totalUsers90Days": 260,
+        "lastRunStartedAt": "2026-01-11T08:02:39.970000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 129,
+          "SUCCEEDED": 10583,
+          "TIMED-OUT": 8,
+          "TOTAL": 10728
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 3.466818316035215,
+        "bookmarkCount": 60
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-video-download",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-video-download",
+      "title": "Facebook Video Download",
+      "description": "Our Facebook Video Downloader is the ultimate tool for effortlessly downloading high-quality videos from Facebook. Full HD, 1080p, 2K, and 4K resolutions, you can save your favorite content with ease. Plus, you can convert videos to MP3 format at a quality of 320kbps.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-10T06:32:09.716000+00:00",
+      "modified_at": "2025-12-02T00:24:36.968000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 169891,
+        "totalUsers": 131,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 12,
+        "totalUsers90Days": 22,
+        "lastRunStartedAt": "2026-01-11T08:05:48.452000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 14518,
+          "TIMED-OUT": 7,
+          "TOTAL": 14525
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.940138758613269,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "INTEGRATIONS",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "mina_safwat/facebook-video-data",
+      "error": null,
+      "exists": true,
+      "username": "mina_safwat",
+      "name": "facebook-video-data",
+      "title": "Facebook post scraper (No Cookies)",
+      "description": "This actor will scrape post info from facebook like caption, like , shares and comments and more quickly",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-03-20T13:08:31.648000+00:00",
+      "modified_at": "2025-12-07T16:21:24.906000+00:00",
+      "stats": {
+        "totalBuilds": 163,
+        "totalRuns": 316359,
+        "totalUsers": 400,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-09T11:05:46.779000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 31,
+          "TIMED-OUT": 0,
+          "TOTAL": 32
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "igolaizola/facebook-ad-leads",
+      "error": null,
+      "exists": true,
+      "username": "igolaizola",
+      "name": "facebook-ad-leads",
+      "title": "Facebook Ad Leads (email, phone & more)",
+      "description": "Scrape business details from Facebook Ad Library to create comprehensive company profiles featuring email, phone, address, website, and social media links. Perfect for competitive analysis, market research, and lead generation.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-16T21:44:23.715000+00:00",
+      "modified_at": "2025-11-24T15:25:08.564000+00:00",
+      "stats": {
+        "totalBuilds": 32,
+        "totalRuns": 1187,
+        "totalUsers": 281,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 29,
+        "lastRunStartedAt": "2026-01-11T08:06:03.063000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 1,
+          "SUCCEEDED": 61,
+          "TIMED-OUT": 5,
+          "TOTAL": 82
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-group-members-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-group-members-scraper",
+      "title": "Facebook Group Members Scraper 📊",
+      "description": "Extract Facebook group members' data including profile information, contribution scores, and membership details. Perfect for social media analysis, community insights, and member engagement tracking.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-23T07:48:59.249000+00:00",
+      "modified_at": "2025-11-25T01:10:34.818000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 1902,
+        "totalUsers": 347,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 45,
+        "lastRunStartedAt": "2026-01-11T07:11:50.239000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 52,
+          "TIMED-OUT": 0,
+          "TOTAL": 58
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 2.303306446553991,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-pages-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-pages-scraper",
+      "title": "Facebook Pages Scraper",
+      "description": "Effortlessly extract comprehensive data from Facebook Pages, including likes, followers, contact info, and more. This powerful scraper navigates through various page sections to provide valuable insights for businesses, marketers, and researchers. 📘🔍💼",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-18T17:55:54.601000+00:00",
+      "modified_at": "2025-11-25T00:28:57.376000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 704,
+        "totalUsers": 207,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 13,
+        "lastRunStartedAt": "2026-01-09T06:35:50.704000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 18,
+          "TIMED-OUT": 0,
+          "TOTAL": 18
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraping_solutions/facebook-hashtag-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scraping_solutions",
+      "name": "facebook-hashtag-scraper",
+      "title": "Facebook Hashtag Scraper",
+      "description": "Scrape public Facebook posts by hashtag using this API. Input the hashtag and number of pages to explore. Fast and simple way to gather hashtag-related content.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-18T05:17:18.985000+00:00",
+      "modified_at": "2025-05-14T23:58:07.943000+00:00",
+      "stats": {
+        "totalBuilds": 21,
+        "totalRuns": 4316,
+        "totalUsers": 139,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 23,
+        "lastRunStartedAt": "2026-01-10T13:41:54.215000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 23,
+          "TIMED-OUT": 0,
+          "TOTAL": 23
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 2.0026862754063446,
+        "bookmarkCount": 0
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/my-actor-1",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "my-actor-1",
+      "title": "Facebook Group Members Scraper 📊👥 - Fast & cheap 💬⭐",
+      "description": "Easily gather data about members from Facebook groups 📘👥. Enter the group URL to retrieve key info like member name, profile URL, join time, profile picture & more 🔍. Seamlessly integrate with tools like Google Drive, Zapier, and others 🔗 to streamline your workflow and boost productivity! ⚡📈",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-17T18:05:52.670000+00:00",
+      "modified_at": "2026-01-04T08:38:21.360000+00:00",
+      "stats": {
+        "totalBuilds": 42,
+        "totalRuns": 659,
+        "totalUsers": 198,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 33,
+        "lastRunStartedAt": "2026-01-10T13:26:24.521000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 2,
+          "SUCCEEDED": 31,
+          "TIMED-OUT": 0,
+          "TOTAL": 34
+        },
+        "actorReviewCount": 25,
+        "actorReviewRating": 4.007197203757428,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "mina_safwat/facebook-search-actor",
+      "error": null,
+      "exists": true,
+      "username": "mina_safwat",
+      "name": "facebook-search-actor",
+      "title": "Facebook Search Actor (No Cookies)",
+      "description": "If you want to search on Facebook at a large scale, this is the best tool available, offering the best accuracy and price.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-23T23:24:25.045000+00:00",
+      "modified_at": "2025-12-13T12:40:36.287000+00:00",
+      "stats": {
+        "totalBuilds": 53,
+        "totalRuns": 6018,
+        "totalUsers": 98,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 19,
+        "lastRunStartedAt": "2026-01-11T08:01:12.917000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 16,
+          "SUCCEEDED": 134,
+          "TIMED-OUT": 0,
+          "TOTAL": 150
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraper_one/facebook-posts-search",
+      "error": null,
+      "exists": true,
+      "username": "scraper_one",
+      "name": "facebook-posts-search",
+      "title": "Facebook Posts Search",
+      "description": "✨ Search for Facebook posts using keywords or hashtags. Retrieve post URLs, content, publication dates, author details, and engagement metrics. Ideal for monitoring brand mentions on Facebook over time.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-06T20:16:36.543000+00:00",
+      "modified_at": "2025-11-24T21:22:18.704000+00:00",
+      "stats": {
+        "totalBuilds": 518,
+        "totalRuns": 49227,
+        "totalUsers": 644,
+        "totalUsers7Days": 32,
+        "totalUsers30Days": 81,
+        "totalUsers90Days": 200,
+        "lastRunStartedAt": "2026-01-11T08:17:00.048000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 19308,
+          "TIMED-OUT": 7,
+          "TOTAL": 19317
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.411897994522329,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "NEWS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/facebook-post-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "facebook-post-scraper",
+      "title": "Facebook Post Scraper",
+      "description": "The Facebook Post Scraper Actor is a powerful tool designed to extract detailed information from Facebook posts using valid Facebook Post URLs. It provides comprehensive data about posts, including user information, engagement metrics, media attachments, and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-20T09:16:14.609000+00:00",
+      "modified_at": "2025-02-05T13:20:17.567000+00:00",
+      "stats": {
+        "totalBuilds": 4,
+        "totalRuns": 32707,
+        "totalUsers": 368,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 19,
+        "totalUsers90Days": 49,
+        "lastRunStartedAt": "2026-01-11T08:06:32.703000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 106,
+          "SUCCEEDED": 6390,
+          "TIMED-OUT": 1,
+          "TOTAL": 6500
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "jeremy_frost/facebook-reel-scraper",
+      "error": null,
+      "exists": true,
+      "username": "jeremy_frost",
+      "name": "facebook-reel-scraper",
+      "title": "Facebook Reel Scraper",
+      "description": "This scraper will get Reel details from Facebook pages of your choice.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-09-21T10:34:55.858000+00:00",
+      "modified_at": "2025-08-26T21:45:37.561000+00:00",
+      "stats": {
+        "totalBuilds": 170,
+        "totalRuns": 9050,
+        "totalUsers": 491,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 19,
+        "totalUsers90Days": 47,
+        "lastRunStartedAt": "2026-01-11T06:50:59.591000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 7,
+          "SUCCEEDED": 159,
+          "TIMED-OUT": 0,
+          "TOTAL": 172
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "oussemafr/lightweight-facebook-pages-scraper",
+      "error": null,
+      "exists": true,
+      "username": "oussemafr",
+      "name": "lightweight-facebook-pages-scraper",
+      "title": "Lightweight Facebook Pages Scraper",
+      "description": "Scrape detailed Facebook page information efficiently and cost-effectively with our best scraper. Extract valuable data like page names, URLs, contact details, addresses, likes, and followers for competitive analysis, market research, trend monitoring, and social media analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-05-12T21:43:43.245000+00:00",
+      "modified_at": "2025-08-26T12:05:37.674000+00:00",
+      "stats": {
+        "totalBuilds": 153,
+        "totalRuns": 26282,
+        "totalUsers": 302,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 17,
+        "lastRunStartedAt": "2026-01-10T08:15:25.083000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 26,
+          "TIMED-OUT": 0,
+          "TOTAL": 26
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.730328007738514,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/facebook-profiles-people-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "facebook-profiles-people-search-scraper",
+      "title": "Facebook Profiles & People Search Scraper 📘🕵️‍♂️",
+      "description": "🚀 Extract Public Facebook Profile Data 📘 using usernames / keywords! Collect names, profile pictures, and URLs 🔗 easily. Download results in JSON, CSV, or Excel 🔽 for smooth use in apps, reports, or spreadsheets. Ideal for research, outreach, lead generation, and analysis 📈.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-09T22:52:52.972000+00:00",
+      "modified_at": "2025-11-25T13:44:40.023000+00:00",
+      "stats": {
+        "totalBuilds": 5,
+        "totalRuns": 1425,
+        "totalUsers": 157,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 37,
+        "lastRunStartedAt": "2026-01-11T08:19:48.883000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 49,
+          "SUCCEEDED": 847,
+          "TIMED-OUT": 0,
+          "TOTAL": 898
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/facebook-following-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "facebook-following-scraper",
+      "title": "Facebook Following Scraper",
+      "description": "Scrape Facebook following list data including profile details, friendship status, and profile images. Perfect for social media analysis and relationship mapping.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-31T07:29:58.951000+00:00",
+      "modified_at": "2025-11-25T01:20:49.241000+00:00",
+      "stats": {
+        "totalBuilds": 19,
+        "totalRuns": 1064,
+        "totalUsers": 140,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 0,
+        "totalUsers90Days": 6,
+        "lastRunStartedAt": "2026-01-10T04:47:47.348000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 20,
+          "TIMED-OUT": 0,
+          "TOTAL": 20
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 3.3583646160880116,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "getdataforme/facebook-marketplace-scraper",
+      "error": null,
+      "exists": true,
+      "username": "getdataforme",
+      "name": "facebook-marketplace-scraper",
+      "title": "Facebook Marketplace Scraper",
+      "description": "Scrape Facebook marketplace, our advanced scraper is designed to collect comprehensive details of products and listings from Facebook Marketplace. It effortlessly extract all relevant information about items listed for sale, including product descriptions, prices, seller details, and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-01T09:04:55.116000+00:00",
+      "modified_at": "2025-08-12T07:27:17.551000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 374,
+        "totalUsers": 105,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 10,
+        "lastRunStartedAt": "2026-01-10T22:20:05.475000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 11,
+          "TIMED-OUT": 0,
+          "TOTAL": 11
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "ECOMMERCE",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/facebook-friends-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "facebook-friends-scraper",
+      "title": "Facebook Friends Scraper 📊👥",
+      "description": "Easily gather data about friends from Facebook profiles 🌐📊. Enter the URL to retrieve key info like name, profile URL, and image 🔍. Seamlessly integrate with tools like Google Drive, Zapier, and more 🔗 to streamline your workflow and boost productivity! ⚡📈",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-26T20:32:34.682000+00:00",
+      "modified_at": "2026-01-04T08:52:17.537000+00:00",
+      "stats": {
+        "totalBuilds": 60,
+        "totalRuns": 789,
+        "totalUsers": 275,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 19,
+        "totalUsers90Days": 47,
+        "lastRunStartedAt": "2026-01-09T21:35:53.812000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 8,
+          "SUCCEEDED": 60,
+          "TIMED-OUT": 0,
+          "TOTAL": 71
+        },
+        "actorReviewCount": 16,
+        "actorReviewRating": 4.69584818103707,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "insight_api_labs/facebook-ad-library-rental",
+      "error": null,
+      "exists": true,
+      "username": "insight_api_labs",
+      "name": "facebook-ad-library-rental",
+      "title": "Facebook Ad Library - 5$/month",
+      "description": "Scrape Facebook ads library reliably and efficiently!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-19T18:57:28.943000+00:00",
+      "modified_at": "2025-08-03T15:11:00.665000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 15838,
+        "totalUsers": 334,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 33,
+        "lastRunStartedAt": "2026-01-11T07:45:42.135000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 1,
+          "SUCCEEDED": 2788,
+          "TIMED-OUT": 0,
+          "TOTAL": 2799
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "ECOMMERCE",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

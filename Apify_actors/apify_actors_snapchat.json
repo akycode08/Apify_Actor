@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "platform": "snapchat",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.931729",
+    "total_actors": 3,
+    "existing_actors": 3,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "argusapi/snapchat-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "argusapi",
+      "name": "snapchat-profile-scraper",
+      "title": "Snapchat Profile Scraper",
+      "description": "Scrape profile data of snapchat accounts, supports scraping private (normal) / public (influencer) / banned / no existing accounts.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-01-12T21:03:32.245000+00:00",
+      "modified_at": "2023-02-09T12:44:15.521000+00:00",
+      "stats": {
+        "totalBuilds": 33,
+        "totalRuns": 244349,
+        "totalUsers": 4488,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 37,
+        "totalUsers90Days": 103,
+        "lastRunStartedAt": "2026-01-11T08:05:14.744000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 487,
+          "TIMED-OUT": 3,
+          "TOTAL": 492
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 1.0500920068273634,
+        "bookmarkCount": 25
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/snapchat-user-stories-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "snapchat-user-stories-scraper",
+      "title": "Snapchat User Stories Scraper",
+      "description": "Scrape Snapchat user stories effortlessly. Extract story details including media URLs, creation time, and preview images from any public Snapchat profile. Perfect for social media monitoring and content analysis.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-05T08:05:07.593000+00:00",
+      "modified_at": "2025-11-25T00:34:30.398000+00:00",
+      "stats": {
+        "totalBuilds": 3,
+        "totalRuns": 688,
+        "totalUsers": 179,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-11T05:43:13.172000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 63,
+          "TIMED-OUT": 0,
+          "TOTAL": 64
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "alien_force/snapchat-explorer",
+      "error": null,
+      "exists": true,
+      "username": "alien_force",
+      "name": "snapchat-explorer",
+      "title": "Snapchat Explorer",
+      "description": "Snapchat Explorer Pro is a Snapchat scarper designed to explore Snapchat content based on a specific keyword. With this actor, you can search for Spotlights, Lenses, Users, and Popular Accounts, making it a one-stop solution for discovering everything related to your keyword on Snapchat.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-25T21:39:09.128000+00:00",
+      "modified_at": "2026-01-05T15:06:38.580000+00:00",
+      "stats": {
+        "totalBuilds": 7,
+        "totalRuns": 459,
+        "totalUsers": 77,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 14,
+        "lastRunStartedAt": "2026-01-10T11:53:49.954000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 32,
+          "TIMED-OUT": 0,
+          "TOTAL": 33
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}

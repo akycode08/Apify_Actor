@@ -1,0 +1,5467 @@
+{
+  "metadata": {
+    "platform": "instagram",
+    "scraped_at": "2026-01-11T02:21:43.993679",
+    "split_at": "2026-01-11T02:58:32.921686",
+    "total_actors": 115,
+    "existing_actors": 115,
+    "non_existing_actors": 0
+  },
+  "actors": [
+    {
+      "actor_id": "apify/instagram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-scraper",
+      "title": "Instagram Scraper",
+      "description": "Scrape and download Instagram posts, profiles, places, hashtags, photos, and comments. Get data from Instagram using one or more Instagram URLs or search queries. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2019-04-30T13:43:08.975000+00:00",
+      "modified_at": "2026-01-11T04:39:42.687000+00:00",
+      "stats": {
+        "totalBuilds": 1949,
+        "totalRuns": 83572196,
+        "totalUsers": 164821,
+        "lastRunStartedAt": "2026-01-11T07:59:59.965000+00:00",
+        "totalMetamorphs": 228187,
+        "totalUsers30Days": 8708,
+        "totalUsers7Days": 4352,
+        "totalUsers90Days": 16669,
+        "publicActorRunStats30Days": {
+          "ABORTED": 1907,
+          "FAILED": 10070,
+          "SUCCEEDED": 6285013,
+          "TIMED-OUT": 5302,
+          "TOTAL": 6302455
+        },
+        "actorReviewCount": 258,
+        "actorReviewRating": 4.680569827301593,
+        "bookmarkCount": 2803
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-comment-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-comment-scraper",
+      "title": "Instagram Comments Scraper",
+      "description": "Scrape Instagram comments from posts or reels. Just add one or more Instagram post URLs to get comment text, post and comment IDs, replies, timestamp, owner IDs, usernames, profile pics. Export scraped datasets, run the scraper via API, schedule and monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2021-11-25T08:19:09.084000+00:00",
+      "modified_at": "2026-01-11T04:39:42.711000+00:00",
+      "stats": {
+        "totalBuilds": 1608,
+        "totalRuns": 3642784,
+        "totalUsers": 22435,
+        "totalUsers7Days": 408,
+        "totalUsers30Days": 1059,
+        "totalUsers90Days": 2273,
+        "lastRunStartedAt": "2026-01-11T07:59:58.155000+00:00",
+        "totalMetamorphs": 14,
+        "publicActorRunStats30Days": {
+          "ABORTED": 355,
+          "FAILED": 593,
+          "SUCCEEDED": 371143,
+          "TIMED-OUT": 698,
+          "TOTAL": 372794
+        },
+        "actorReviewCount": 27,
+        "actorReviewRating": 2.154202323702413,
+        "bookmarkCount": 272
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/facebook-ads-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "facebook-ads-scraper",
+      "title": "Facebook Ads Scraper",
+      "description": "Extract advertising data from Facebook, Instagram, WhatsApp, Threads, Messenger. Get ad details, publishers, prices, reach estimates, impressions, links, images, ad IDs, timestamps, and more from Meta Ad Library. Export ad data, schedule runs via API, and integrate with other tools or AI workflows.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-04-20T13:32:36.605000+00:00",
+      "modified_at": "2026-01-09T16:45:21.069000+00:00",
+      "stats": {
+        "totalBuilds": 929,
+        "totalRuns": 4610477,
+        "totalUsers": 12286,
+        "totalUsers7Days": 259,
+        "totalUsers30Days": 572,
+        "totalUsers90Days": 1329,
+        "lastRunStartedAt": "2026-01-11T08:00:01.332000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 155,
+          "FAILED": 22,
+          "SUCCEEDED": 196344,
+          "TIMED-OUT": 278,
+          "TOTAL": 196862
+        },
+        "actorReviewCount": 19,
+        "actorReviewRating": 3.168312898449173,
+        "bookmarkCount": 288
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "ECOMMERCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-profile-scraper",
+      "title": "Instagram Profile Scraper",
+      "description": "Scrape all Instagram profile info. Just add Instagram usernames, IDs or URLs and extract name, join date, number of followers,  location, bio, website, related profiles, video&post count, latest posts. Export scraped data, schedule scraper via API, and integrate with other tools or AI workflows.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2021-11-15T08:44:42.068000+00:00",
+      "modified_at": "2026-01-11T04:39:42.700000+00:00",
+      "stats": {
+        "totalBuilds": 1626,
+        "totalRuns": 53351095,
+        "totalUsers": 80131,
+        "totalUsers7Days": 2510,
+        "totalUsers30Days": 5376,
+        "totalUsers90Days": 9234,
+        "lastRunStartedAt": "2026-01-11T08:00:04.481000+00:00",
+        "totalMetamorphs": 170,
+        "publicActorRunStats30Days": {
+          "ABORTED": 4332,
+          "FAILED": 1355,
+          "SUCCEEDED": 4130195,
+          "TIMED-OUT": 3866,
+          "TOTAL": 4139762
+        },
+        "actorReviewCount": 82,
+        "actorReviewRating": 4.431507078222648,
+        "bookmarkCount": 908
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-post-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-post-scraper",
+      "title": "Instagram Post Scraper",
+      "description": "Scrape Instagram posts. Just add one or more Instagram usernames and get your data in seconds including caption, metrics, images, mentions, coauthors, recent comments, sponsored status, video duration, views. Export scraped data, schedule scraper via API, integrate with other tools or AI workflows.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2021-11-24T13:35:27.668000+00:00",
+      "modified_at": "2026-01-11T04:39:42.689000+00:00",
+      "stats": {
+        "totalBuilds": 1611,
+        "totalRuns": 16787182,
+        "totalUsers": 63188,
+        "totalUsers7Days": 1534,
+        "totalUsers30Days": 2963,
+        "totalUsers90Days": 5704,
+        "lastRunStartedAt": "2026-01-11T08:00:07.828000+00:00",
+        "totalMetamorphs": 1,
+        "publicActorRunStats30Days": {
+          "ABORTED": 558,
+          "FAILED": 87,
+          "SUCCEEDED": 1994127,
+          "TIMED-OUT": 900,
+          "TOTAL": 1995713
+        },
+        "actorReviewCount": 79,
+        "actorReviewRating": 4.464152784058214,
+        "bookmarkCount": 779
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-hashtag-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-hashtag-scraper",
+      "title": "Instagram Hashtag Scraper",
+      "description": "Scrape Instagram posts and reels by hashtags. Just add one or more hashtags and extract captions, locations, likes, plays, shares, comments count, images, timestamps, audio, and other hashtags. Export scraped hashtags, run the scraper via API, schedule and monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2021-11-16T09:08:08.244000+00:00",
+      "modified_at": "2026-01-11T04:39:42.678000+00:00",
+      "stats": {
+        "totalBuilds": 1664,
+        "totalRuns": 1844362,
+        "totalUsers": 34377,
+        "totalUsers7Days": 741,
+        "totalUsers30Days": 1734,
+        "totalUsers90Days": 3794,
+        "lastRunStartedAt": "2026-01-11T08:00:13.357000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 195,
+          "FAILED": 28,
+          "SUCCEEDED": 134552,
+          "TIMED-OUT": 689,
+          "TOTAL": 135472
+        },
+        "actorReviewCount": 51,
+        "actorReviewRating": 4.256398578200476,
+        "bookmarkCount": 432
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-api-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-api-scraper",
+      "title": "Instagram API Scraper",
+      "description": "Scrape and download Instagram posts, profiles, places, hashtags, photos without login. Supports search keywords and URL lists. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2022-05-06T05:59:47.242000+00:00",
+      "modified_at": "2026-01-11T04:39:42.817000+00:00",
+      "stats": {
+        "totalBuilds": 1712,
+        "totalRuns": 5805034,
+        "totalUsers": 9979,
+        "totalUsers7Days": 288,
+        "totalUsers30Days": 701,
+        "totalUsers90Days": 1597,
+        "lastRunStartedAt": "2026-01-11T08:00:16.713000+00:00",
+        "totalMetamorphs": 12,
+        "publicActorRunStats30Days": {
+          "ABORTED": 65,
+          "FAILED": 82,
+          "SUCCEEDED": 331838,
+          "TIMED-OUT": 2556,
+          "TOTAL": 334543
+        },
+        "actorReviewCount": 21,
+        "actorReviewRating": 4.979645573806645,
+        "bookmarkCount": 203
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-reel-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-reel-scraper",
+      "title": "Instagram Reel Scraper",
+      "description": "Scrape or download Instagram reels. Just add Instagram profile or reel URL, and get caption, timestamp, transcript, hashtags, mentions, tagged users, comments, likes, shares, views, duration, and downloaded video. Export scraped data, schedule via API, and integrate with other tools or AI workflows.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-23T00:03:42.646000+00:00",
+      "modified_at": "2026-01-11T04:39:42.720000+00:00",
+      "stats": {
+        "totalBuilds": 1544,
+        "totalRuns": 3539736,
+        "totalUsers": 67357,
+        "totalUsers7Days": 2361,
+        "totalUsers30Days": 3865,
+        "totalUsers90Days": 6760,
+        "lastRunStartedAt": "2026-01-11T08:00:30.230000+00:00",
+        "totalMetamorphs": 485,
+        "publicActorRunStats30Days": {
+          "ABORTED": 1317,
+          "FAILED": 214,
+          "SUCCEEDED": 328226,
+          "TIMED-OUT": 1564,
+          "TOTAL": 331426
+        },
+        "actorReviewCount": 60,
+        "actorReviewRating": 4.819711859708177,
+        "bookmarkCount": 1214
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "vdrmota/contact-info-scraper",
+      "error": null,
+      "exists": true,
+      "username": "vdrmota",
+      "name": "contact-info-scraper",
+      "title": "Contact Details Scraper",
+      "description": "Free email extractor and lead scraper to extract and download emails, phone numbers, Facebook, Twitter, LinkedIn, Instagram, Threads, Snapchat, and Telegram profiles from any website. Extract contact information at scale from lists of URLs and download the data as Excel, CSV, JSON, HTML, and XML.",
+      "readme": "",
+      "version": "0.2",
+      "created_at": "2019-05-29T14:48:49.612000+00:00",
+      "modified_at": "2026-01-07T17:21:12.569000+00:00",
+      "stats": {
+        "totalBuilds": 780,
+        "totalRuns": 11230849,
+        "totalUsers": 41445,
+        "lastRunStartedAt": "2026-01-11T08:00:32.990000+00:00",
+        "totalUsers30Days": 736,
+        "totalUsers7Days": 237,
+        "totalUsers90Days": 1997,
+        "totalMetamorphs": 17,
+        "publicActorRunStats30Days": {
+          "ABORTED": 204,
+          "FAILED": 163,
+          "SUCCEEDED": 174917,
+          "TIMED-OUT": 233,
+          "TOTAL": 175528
+        },
+        "actorReviewCount": 65,
+        "actorReviewRating": 4.600899997938633,
+        "bookmarkCount": 645
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/instagram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "instagram-scraper",
+      "title": "🏯 Instagram Scraper (Pay Per Result)",
+      "description": "Famous for its blazing-fast speed and completeness, it offers rapid and efficient scraping of many URLs such as; location, audio, tag, and profile.  It's incredibly cost-effective at only $0.50 for every 1000 posts, capable of scraping 100-200 posts each second!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-12-23T20:09:12.599000+00:00",
+      "modified_at": "2026-01-11T02:01:37.261000+00:00",
+      "stats": {
+        "totalBuilds": 785,
+        "totalRuns": 6427123,
+        "totalUsers": 3988,
+        "totalUsers7Days": 157,
+        "totalUsers30Days": 330,
+        "totalUsers90Days": 785,
+        "lastRunStartedAt": "2026-01-11T08:00:44.248000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 12696,
+          "FAILED": 1978,
+          "SUCCEEDED": 353184,
+          "TIMED-OUT": 552,
+          "TOTAL": 368411
+        },
+        "actorReviewCount": 25,
+        "actorReviewRating": 4.944316676824202,
+        "bookmarkCount": 153
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-tagged-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-tagged-scraper",
+      "title": "Instagram Mentions Scraper",
+      "description": "Extract data from tagged posts and mentions on Instagram. Just add one or more Instagram usernames and get post text, hashtags, mentions, comments, images, likes, locations, and metadata. Export scraped data, run the scraper via API, schedule and monitor runs, or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-11-23T00:15:40.781000+00:00",
+      "modified_at": "2026-01-11T04:39:42.714000+00:00",
+      "stats": {
+        "totalBuilds": 1514,
+        "totalRuns": 295495,
+        "totalUsers": 5618,
+        "totalUsers7Days": 92,
+        "totalUsers30Days": 218,
+        "totalUsers90Days": 476,
+        "lastRunStartedAt": "2026-01-11T08:00:10.016000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 19,
+          "FAILED": 1,
+          "SUCCEEDED": 25678,
+          "TIMED-OUT": 106,
+          "TOTAL": 25806
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.974013200746761,
+        "bookmarkCount": 61
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/instagram-following-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "instagram-following-scraper",
+      "title": "🔔 Instagram Following Scraper",
+      "description": "🚀 Instantly scrape who any Instagram user follows — no login needed. Just drop a profile URL, get thousands of “Following” users in seconds. Perfect for growth hacking, competitor research, and lead gen. Fast, cheap, reliable. Built by a top 1% Apify dev.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-26T10:27:53.688000+00:00",
+      "modified_at": "2025-12-17T06:22:09.024000+00:00",
+      "stats": {
+        "totalBuilds": 12,
+        "totalRuns": 10852,
+        "totalUsers": 1945,
+        "totalUsers7Days": 64,
+        "totalUsers30Days": 210,
+        "totalUsers90Days": 535,
+        "lastRunStartedAt": "2026-01-11T07:40:27.979000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 25,
+          "FAILED": 3,
+          "SUCCEEDED": 1510,
+          "TIMED-OUT": 2,
+          "TOTAL": 1545
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.372596520067471,
+        "bookmarkCount": 40
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "kaitoeasyapi/premium-x-follower-scraper-following-data",
+      "error": null,
+      "exists": true,
+      "username": "kaitoeasyapi",
+      "name": "premium-x-follower-scraper-following-data",
+      "title": "Twitter (X) Follower Scraper | $0.1 / 1K | Email| No Rate Limit",
+      "description": "$0.1 per 1000 twitter followers/following! The most affordable X data scraper. Get instant access to follower & following lists. Trusted by marketing pros for accurate social data. Lightning - fast extraction, 99.9% success rate. Start collecting valuable twitter(X) data today!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-16T17:13:28.919000+00:00",
+      "modified_at": "2025-10-24T13:09:36.839000+00:00",
+      "stats": {
+        "totalBuilds": 234,
+        "totalRuns": 342218,
+        "totalUsers": 2871,
+        "totalUsers7Days": 63,
+        "totalUsers30Days": 173,
+        "totalUsers90Days": 423,
+        "lastRunStartedAt": "2026-01-11T08:00:54.818000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 702,
+          "FAILED": 0,
+          "SUCCEEDED": 42183,
+          "TIMED-OUT": 8,
+          "TOTAL": 42896
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 2.887029700903173,
+        "bookmarkCount": 63
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/instagram-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "instagram-comments-scraper",
+      "title": "💬 Instagram Comments Scraper (No Login)",
+      "description": "Scrape all comments from any Instagram post in seconds. No login required. Get text, likes, timestamps, and usernames — even from large posts. Fast, affordable, and easy to use. Ideal for lead gen, research, and trend spotting. Just paste the URL and go.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-25T18:55:33.866000+00:00",
+      "modified_at": "2025-12-31T06:15:58.620000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 53865,
+        "totalUsers": 884,
+        "totalUsers7Days": 40,
+        "totalUsers30Days": 141,
+        "totalUsers90Days": 267,
+        "lastRunStartedAt": "2026-01-11T08:00:51.813000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 27,
+          "FAILED": 14,
+          "SUCCEEDED": 3754,
+          "TIMED-OUT": 3,
+          "TOTAL": 3802
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 4.847012592222641,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-followers-count-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-followers-count-scraper",
+      "title": "Instagram Followers Count Scraper",
+      "description": "Scrape the number of followers & follows from any Instagram profile. Schedule the scraper to run regularly to monitor how the numbers change. You can also export scraped data, run the scraper via API, monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2022-03-29T18:22:57.628000+00:00",
+      "modified_at": "2026-01-11T04:39:42.692000+00:00",
+      "stats": {
+        "totalBuilds": 1588,
+        "totalRuns": 6154058,
+        "totalUsers": 6853,
+        "totalUsers7Days": 153,
+        "totalUsers30Days": 303,
+        "totalUsers90Days": 643,
+        "lastRunStartedAt": "2026-01-11T08:01:15.262000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 13,
+          "FAILED": 27,
+          "SUCCEEDED": 52023,
+          "TIMED-OUT": 1,
+          "TOTAL": 52070
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 4.314225577413721,
+        "bookmarkCount": 78
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "danek/instagram-profiles-scraper-ppr",
+      "error": null,
+      "exists": true,
+      "username": "danek",
+      "name": "instagram-profiles-scraper-ppr",
+      "title": "Instagram Profiles Scraper PPR",
+      "description": "Scrap all necessary data from Instagram Profile in no-time.  No need for a Instagram account.",
+      "readme": "",
+      "version": "1.1",
+      "created_at": "2024-08-07T14:34:56.293000+00:00",
+      "modified_at": "2026-01-05T21:14:32.455000+00:00",
+      "stats": {
+        "totalBuilds": 14,
+        "totalRuns": 498187,
+        "totalUsers": 1783,
+        "totalUsers7Days": 46,
+        "totalUsers30Days": 128,
+        "totalUsers90Days": 295,
+        "lastRunStartedAt": "2026-01-11T08:01:46.003000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 58,
+          "FAILED": 1,
+          "SUCCEEDED": 46551,
+          "TIMED-OUT": 4,
+          "TOTAL": 46617
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.526986925549776,
+        "bookmarkCount": 40
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apimaestro/linkedin-company-detail",
+      "error": null,
+      "exists": true,
+      "username": "apimaestro",
+      "name": "linkedin-company-detail",
+      "title": "Linkedin Company Detail (No Cookies)",
+      "description": "Extract detailed LinkedIn company data instantly. Get company overview, employee count, locations, funding info, and more. Perfect for market research, lead generation, and competitor analysis. Clean, structured data ready for your business needs.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-11-24T17:21:21.955000+00:00",
+      "modified_at": "2025-12-25T00:56:49.947000+00:00",
+      "stats": {
+        "totalBuilds": 47,
+        "totalRuns": 2524748,
+        "totalUsers": 2655,
+        "totalUsers7Days": 282,
+        "totalUsers30Days": 495,
+        "totalUsers90Days": 1044,
+        "lastRunStartedAt": "2026-01-11T08:01:52.438000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 26,
+          "FAILED": 0,
+          "SUCCEEDED": 485211,
+          "TIMED-OUT": 27,
+          "TOTAL": 485265
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 4.477331917675343,
+        "bookmarkCount": 109
+      },
+      "categories": [
+        "AUTOMATION",
+        "JOBS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datavoyantlab/instagram-story-downloader",
+      "error": null,
+      "exists": true,
+      "username": "datavoyantlab",
+      "name": "instagram-story-downloader",
+      "title": "Instagram Stories Downloader Scraper",
+      "description": "Fast, secure Instagram Stories scraper to download public IG stories. Export to CSV, JSON, Excel, or HTML. No login or cookies required. Automate via API, Zapier, or webhooks",
+      "readme": "",
+      "version": "2.8",
+      "created_at": "2024-09-04T20:56:25.999000+00:00",
+      "modified_at": "2025-10-22T13:42:19.262000+00:00",
+      "stats": {
+        "totalBuilds": 188,
+        "totalRuns": 586649,
+        "totalUsers": 770,
+        "totalUsers7Days": 41,
+        "totalUsers30Days": 66,
+        "totalUsers90Days": 126,
+        "lastRunStartedAt": "2026-01-11T08:00:56.861000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 17,
+          "SUCCEEDED": 58360,
+          "TIMED-OUT": 212,
+          "TOTAL": 58593
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.516285588684612,
+        "bookmarkCount": 39
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/instagram-location-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "instagram-location-scraper",
+      "title": "🏯 Instagram Location Scraper (Pay Per Result)",
+      "description": "Instagram Location Scraper, your premier solution for harvesting data from locations on Instagram. It offers remarkable value at just $0.50 per 1000 posts, with the capability to scrape between 100-200 posts per second!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-03T08:17:15.109000+00:00",
+      "modified_at": "2026-01-11T02:03:19.679000+00:00",
+      "stats": {
+        "totalBuilds": 601,
+        "totalRuns": 1148597,
+        "totalUsers": 1151,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 50,
+        "totalUsers90Days": 133,
+        "lastRunStartedAt": "2026-01-11T07:20:59.231000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 12,
+          "SUCCEEDED": 8929,
+          "TIMED-OUT": 0,
+          "TOTAL": 8947
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 32
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "devil_port369-owner/instagram-profile-scraper---custom",
+      "error": null,
+      "exists": true,
+      "username": "devil_port369-owner",
+      "name": "instagram-profile-scraper---custom",
+      "title": "Instagram Profile Scraper - Custom",
+      "description": "Scrape Instagram profile details. This is custom solution for related client.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-30T13:39:41.991000+00:00",
+      "modified_at": "2025-12-23T04:55:32.988000+00:00",
+      "stats": {
+        "totalBuilds": 51,
+        "totalRuns": 522292,
+        "totalUsers": 56,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 15,
+        "totalUsers90Days": 25,
+        "lastRunStartedAt": "2026-01-09T20:35:48.018000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 64,
+          "TIMED-OUT": 0,
+          "TOTAL": 64
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "figue/instagram-followers-and-following-scrapper",
+      "error": null,
+      "exists": true,
+      "username": "figue",
+      "name": "instagram-followers-and-following-scrapper",
+      "title": "🚀 Instagram Followers and Following Scrapper",
+      "description": "Extract Instagram followers and following data from any Instagram profile! High-speed bot extracts ~500 followers/min, supports proxies, simulates human behavior, and provides configurable pagination. Collect detailed user data efficiently—perfect for market research and audience insights!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-11T20:51:59.589000+00:00",
+      "modified_at": "2025-02-25T13:23:37.871000+00:00",
+      "stats": {
+        "totalBuilds": 30,
+        "totalRuns": 26159,
+        "totalUsers": 1641,
+        "totalUsers7Days": 9,
+        "totalUsers30Days": 59,
+        "totalUsers90Days": 161,
+        "lastRunStartedAt": "2026-01-11T03:50:32.146000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 16,
+          "FAILED": 2,
+          "SUCCEEDED": 257,
+          "TIMED-OUT": 16,
+          "TOTAL": 298
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 1.0793066119531785,
+        "bookmarkCount": 27
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datavoyantlab/advanced-instagram-stories-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datavoyantlab",
+      "name": "advanced-instagram-stories-scraper",
+      "title": "Advanced Instagram Stories Scraper (Fast)",
+      "description": "Scrape public Instagram stories by profiles with media URLs, timestamps & metadata. No login needed. Fast, reliable & easy to use. Supports photo & video stories. Ideal for research & monitoring.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-12T21:18:18.405000+00:00",
+      "modified_at": "2026-01-09T21:33:07.549000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 44242,
+        "totalUsers": 275,
+        "totalUsers7Days": 31,
+        "totalUsers30Days": 63,
+        "totalUsers90Days": 116,
+        "lastRunStartedAt": "2026-01-11T08:00:20.803000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 8991,
+          "TIMED-OUT": 2,
+          "TOTAL": 8994
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 3.121212803203599,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/instagram-story-details-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "instagram-story-details-scraper",
+      "title": "Instagram Story Details Scraper",
+      "description": "Extract detailed Instagram stories data for data analysis, content monitoring, and competitor research. Does not require authentication or login. Fast & easy to use. Supports photo & video stories.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-18T20:21:03.155000+00:00",
+      "modified_at": "2025-12-17T06:20:29.032000+00:00",
+      "stats": {
+        "totalBuilds": 8,
+        "totalRuns": 527636,
+        "totalUsers": 413,
+        "totalUsers7Days": 29,
+        "totalUsers30Days": 77,
+        "totalUsers90Days": 167,
+        "lastRunStartedAt": "2026-01-11T07:33:52.606000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 17,
+          "SUCCEEDED": 119366,
+          "TIMED-OUT": 0,
+          "TOTAL": 119383
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.302832961977324,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/instagram-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "instagram-email-scraper",
+      "title": "Instagram Email Scraper",
+      "description": "Instagram Email Scraper :  Scrap emails from Instagram specific profile from search engine based on your keyword",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-03-09T05:52:50.853000+00:00",
+      "modified_at": "2025-11-17T12:17:59.456000+00:00",
+      "stats": {
+        "totalBuilds": 248,
+        "totalRuns": 142058,
+        "totalUsers": 4653,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 71,
+        "totalUsers90Days": 251,
+        "lastRunStartedAt": "2026-01-11T01:06:22.646000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 118,
+          "FAILED": 1,
+          "SUCCEEDED": 7615,
+          "TIMED-OUT": 2,
+          "TOTAL": 7758
+        },
+        "actorReviewCount": 17,
+        "actorReviewRating": 3.6919298791426405,
+        "bookmarkCount": 112
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "anchor/email-phone-extractor",
+      "error": null,
+      "exists": true,
+      "username": "anchor",
+      "name": "email-phone-extractor",
+      "title": "Email ✉️  & Phone ☎️ Extractor",
+      "description": "Extract emails, phone numbers, and other contact information like Twitter, LinkedIn, Instagram... from websites you provide. Best for lead generation and data enrichment. Export data in structured formats and dominate your outreach game. Capture your leads almost for free, fast, and without limits.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2021-10-05T15:25:02.985000+00:00",
+      "modified_at": "2025-11-23T11:58:27.526000+00:00",
+      "stats": {
+        "totalBuilds": 153,
+        "totalRuns": 305494,
+        "totalUsers": 7651,
+        "totalUsers7Days": 9,
+        "totalUsers30Days": 47,
+        "totalUsers90Days": 181,
+        "lastRunStartedAt": "2026-01-11T02:59:51.844000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 47,
+          "FAILED": 4,
+          "SUCCEEDED": 1709,
+          "TIMED-OUT": 0,
+          "TOTAL": 1760
+        },
+        "actorReviewCount": 15,
+        "actorReviewRating": 4.935816095585325,
+        "bookmarkCount": 86
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "coderx/instagram-profile-scraper-bio-posts",
+      "error": null,
+      "exists": true,
+      "username": "coderx",
+      "name": "instagram-profile-scraper-bio-posts",
+      "title": "Instagram Profile Scraper (Bio & Posts)",
+      "description": "Instagram Profile Insights Scraper is a lightweight tool that collects detailed public data from a list of Instagram usernames. It fetches profile info and recent posts to help you analyze accounts at scale.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-23T14:32:02.038000+00:00",
+      "modified_at": "2025-12-18T18:38:54.344000+00:00",
+      "stats": {
+        "totalBuilds": 146,
+        "totalRuns": 161057,
+        "totalUsers": 696,
+        "totalUsers7Days": 77,
+        "totalUsers30Days": 167,
+        "totalUsers90Days": 303,
+        "lastRunStartedAt": "2026-01-11T07:37:07.452000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 63,
+          "FAILED": 0,
+          "SUCCEEDED": 44232,
+          "TIMED-OUT": 106,
+          "TOTAL": 44401
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-hashtag-stats",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-hashtag-stats",
+      "title": "Instagram Related Hashtag Stats Scraper",
+      "description": "Extract detailed Instagram hashtag statistics fast. Get total post count, posts per day, top and latest posts, related hashtags (literal and semantic), and their usage frequency. Export scraped stats, run the scraper via API, schedule and monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-01-03T10:46:15.138000+00:00",
+      "modified_at": "2026-01-11T04:39:42.706000+00:00",
+      "stats": {
+        "totalBuilds": 1498,
+        "totalRuns": 139676,
+        "totalUsers": 1951,
+        "totalUsers7Days": 34,
+        "totalUsers30Days": 95,
+        "totalUsers90Days": 285,
+        "lastRunStartedAt": "2026-01-11T08:01:57.722000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 4748,
+          "TIMED-OUT": 0,
+          "TOTAL": 4751
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 4.297416293817467,
+        "bookmarkCount": 39
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "hpix/ig-reels-scraper",
+      "error": null,
+      "exists": true,
+      "username": "hpix",
+      "name": "ig-reels-scraper",
+      "title": "Instagram Reels Scraper",
+      "description": "Scrape Instagram Reels, Profiles and Posts efficiently and reliably.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-05-29T02:14:48.218000+00:00",
+      "modified_at": "2025-12-21T01:51:43.484000+00:00",
+      "stats": {
+        "totalBuilds": 60,
+        "totalRuns": 70065,
+        "totalUsers": 1228,
+        "totalUsers7Days": 21,
+        "totalUsers30Days": 54,
+        "totalUsers90Days": 131,
+        "lastRunStartedAt": "2026-01-11T08:04:03.626000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 22,
+          "FAILED": 6,
+          "SUCCEEDED": 24369,
+          "TIMED-OUT": 8,
+          "TOTAL": 24406
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.0600773341615772,
+        "bookmarkCount": 74
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "borderline/uber-eats-scraper-ppr",
+      "error": null,
+      "exists": true,
+      "username": "borderline",
+      "name": "uber-eats-scraper-ppr",
+      "title": "🍴Uber Eats Scraper [PPR]",
+      "description": "Pay per result - Fast and cost-effective Uber Eats Scraper requiring just a search query and location. Instantly retrieve comprehensive restaurant data, including names, phone, ratings, locations, and menus. Seamlessly integrates, offering a highly efficient data solution.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-02T17:12:49.853000+00:00",
+      "modified_at": "2025-11-09T18:15:14.542000+00:00",
+      "stats": {
+        "totalBuilds": 34,
+        "totalRuns": 56376,
+        "totalUsers": 171,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 31,
+        "totalUsers90Days": 58,
+        "lastRunStartedAt": "2026-01-10T10:47:46.932000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 8169,
+          "TIMED-OUT": 0,
+          "TOTAL": 8176
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "bhansalisoft/instagram-follower-scraper",
+      "error": null,
+      "exists": true,
+      "username": "bhansalisoft",
+      "name": "instagram-follower-scraper",
+      "title": "Instagram follower scraper",
+      "description": "Instagram follower scraper- Scrap Instagram followers from any Instagram profiles.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-02-23T06:32:29.232000+00:00",
+      "modified_at": "2025-11-28T20:18:12.225000+00:00",
+      "stats": {
+        "totalBuilds": 240,
+        "totalRuns": 24241,
+        "totalUsers": 2243,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 77,
+        "lastRunStartedAt": "2026-01-10T10:21:36.290000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 26,
+          "FAILED": 17,
+          "SUCCEEDED": 102,
+          "TIMED-OUT": 0,
+          "TOTAL": 145
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 2.155063662899149,
+        "bookmarkCount": 44
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "devil_port369-owner/instagram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "devil_port369-owner",
+      "name": "instagram-scraper",
+      "title": "Instagram Scraper",
+      "description": "Scrape Instagram user's profile details along with  Email/Phone details.",
+      "readme": "",
+      "version": "0.2",
+      "created_at": "2023-12-24T11:47:30.804000+00:00",
+      "modified_at": "2025-12-10T05:41:45.173000+00:00",
+      "stats": {
+        "totalBuilds": 250,
+        "totalRuns": 177208,
+        "totalUsers": 1934,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 89,
+        "lastRunStartedAt": "2026-01-11T05:59:50.417000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 1,
+          "SUCCEEDED": 224,
+          "TIMED-OUT": 0,
+          "TOTAL": 235
+        },
+        "actorReviewCount": 12,
+        "actorReviewRating": 3.840563914823501,
+        "bookmarkCount": 71
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/instagram-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "instagram-video-downloader",
+      "title": "Instagram Video Downloader",
+      "description": "Download Instagram.com videos without any limit",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-07-06T18:45:58.098000+00:00",
+      "modified_at": "2026-01-11T00:15:11.478000+00:00",
+      "stats": {
+        "totalBuilds": 874,
+        "totalRuns": 66883,
+        "totalUsers": 946,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 33,
+        "totalUsers90Days": 71,
+        "lastRunStartedAt": "2026-01-11T05:05:00.249000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1074,
+          "FAILED": 37,
+          "SUCCEEDED": 1933,
+          "TIMED-OUT": 20,
+          "TOTAL": 3064
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 48
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datadoping/instagram-followers-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datadoping",
+      "name": "instagram-followers-scraper",
+      "title": "Instagram Followers Scraper (No Cookie)",
+      "description": "Extract Instagram profile followers in bulk without requiring login, session ID, or cookies. This actor provides complete API support, and seamless export options, making large-scale follower collection efficient and reliable.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-28T23:18:23.782000+00:00",
+      "modified_at": "2025-10-31T15:22:35.824000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 3711,
+        "totalUsers": 646,
+        "totalUsers7Days": 58,
+        "totalUsers30Days": 168,
+        "totalUsers90Days": 324,
+        "lastRunStartedAt": "2026-01-11T07:10:01.982000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 29,
+          "FAILED": 0,
+          "SUCCEEDED": 1716,
+          "TIMED-OUT": 0,
+          "TOTAL": 1749
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "kaitoeasyapi/twitter-reply",
+      "error": null,
+      "exists": true,
+      "username": "kaitoeasyapi",
+      "name": "twitter-reply",
+      "title": "Twitter Tweet Reply Scrape | $0.25/1K Tweets | Pay-Per Result",
+      "description": "🚀 Instantly scrape Twitter/X replies & conversations with Pay only $0.25/1K tweets. Get complete reply chains, user info & engagement metrics. Perfect for sentiment analysis, market research & competitor tracking. 100% reliable data extraction, no API needed!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-20T13:16:15.723000+00:00",
+      "modified_at": "2025-08-26T15:22:40.218000+00:00",
+      "stats": {
+        "totalBuilds": 83,
+        "totalRuns": 340948,
+        "totalUsers": 674,
+        "totalUsers7Days": 21,
+        "totalUsers30Days": 52,
+        "totalUsers90Days": 143,
+        "lastRunStartedAt": "2026-01-11T03:49:31.164000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 8572,
+          "TIMED-OUT": 1,
+          "TOTAL": 8575
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.5249935891125554,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "NEWS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-reels-downloader",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-reels-downloader",
+      "title": "Instagram Reels Downloader",
+      "description": "Download Instagram Reels videos in bulk with high quality! Perfect for content creators, marketers, and researchers. Get comprehensive video data including engagement metrics, creator info, and direct download links - all in one powerful tool. 🎥✨",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-25T01:39:09.387000+00:00",
+      "modified_at": "2025-12-02T00:43:31.845000+00:00",
+      "stats": {
+        "totalBuilds": 11,
+        "totalRuns": 76824,
+        "totalUsers": 845,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 33,
+        "totalUsers90Days": 91,
+        "lastRunStartedAt": "2026-01-10T23:42:12.242000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 3482,
+          "TIMED-OUT": 0,
+          "TOTAL": 3483
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 2.8731550773797494,
+        "bookmarkCount": 37
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "gauravsaran/dubai-property-unit-finder",
+      "error": null,
+      "exists": true,
+      "username": "gauravsaran",
+      "name": "dubai-property-unit-finder",
+      "title": "Dubai Unit Number & Owner Finder (Bayut + PropertyFinder)",
+      "description": "Want faster deals and better leads? Instantly get owner details and unit numbers from any UAE property listing on Bayut AND PropertyFinder. The fastest actor in the market (4-9s). All data flows straight into your CRM—so your agents can focus on closing, not chasing.  Supports both URLs.",
+      "readme": "",
+      "version": "2.0",
+      "created_at": "2025-07-01T11:27:21.146000+00:00",
+      "modified_at": "2025-12-01T08:56:37.175000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 40757,
+        "totalUsers": 867,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 18,
+        "totalUsers90Days": 54,
+        "lastRunStartedAt": "2026-01-11T07:47:20.880000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 5065,
+          "TIMED-OUT": 0,
+          "TOTAL": 5067
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.249601868103471,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "REAL_ESTATE",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "data_xplorer/google-trends-fast-scraper",
+      "error": null,
+      "exists": true,
+      "username": "data_xplorer",
+      "name": "google-trends-fast-scraper",
+      "title": "Google Trends Scraper FAST",
+      "description": "Get instant access to 🔥 daily trending searches by country and analyze Google Trends keyword search trends. This ultimate API alternative gives developers and data scientists programmatic access to Google Trends data without limitations.",
+      "readme": "",
+      "version": "1.3",
+      "created_at": "2024-12-29T20:41:00.216000+00:00",
+      "modified_at": "2026-01-03T17:20:47.310000+00:00",
+      "stats": {
+        "totalBuilds": 443,
+        "totalRuns": 129214,
+        "totalUsers": 531,
+        "totalUsers7Days": 27,
+        "totalUsers30Days": 52,
+        "totalUsers90Days": 123,
+        "lastRunStartedAt": "2026-01-11T08:00:23.472000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 23,
+          "SUCCEEDED": 9874,
+          "TIMED-OUT": 0,
+          "TOTAL": 9897
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.496535934467766,
+        "bookmarkCount": 44
+      },
+      "categories": [
+        "AUTOMATION",
+        "INTEGRATIONS",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/twitter-reply-scraper-0-2-1k-tweets-pay-per-result-2025",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "twitter-reply-scraper-0-2-1k-tweets-pay-per-result-2025",
+      "title": "Twitter Reply Scraper | $0.2/1K Tweets | Pay-Per Result ｜ 2025",
+      "description": "Get 1,000 Twitter replies(comments) for just $0.2! 🚀 Instantly download Twitter replies and comments. Our tool provides precise and rapid data extraction, no coding required. Pay only for the data you need, and gain valuable insights for market analysis, sentiment monitoring, and more.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-16T08:44:53.182000+00:00",
+      "modified_at": "2025-12-18T12:51:21.571000+00:00",
+      "stats": {
+        "totalBuilds": 81,
+        "totalRuns": 96890,
+        "totalUsers": 356,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 26,
+        "totalUsers90Days": 91,
+        "lastRunStartedAt": "2026-01-11T01:14:21.049000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 445,
+          "SUCCEEDED": 10100,
+          "TIMED-OUT": 0,
+          "TOTAL": 10546
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1.1095284292855194,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "AI",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/instagram-stories-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "instagram-stories-scraper",
+      "title": "Instagram Stories Scraper Downloader",
+      "description": "Efficiently extract and download all stories from your chosen Instagram profiles, enabling you to stay updated and engaged with the latest content effortlessly. Does not require authentication or login. Fast & easy to use. Supports photo & video stories.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-23T07:28:51.052000+00:00",
+      "modified_at": "2025-12-10T11:15:59.218000+00:00",
+      "stats": {
+        "totalBuilds": 25,
+        "totalRuns": 74578,
+        "totalUsers": 406,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 16,
+        "totalUsers90Days": 55,
+        "lastRunStartedAt": "2026-01-11T07:15:02.119000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 4,
+          "SUCCEEDED": 317,
+          "TIMED-OUT": 0,
+          "TOTAL": 321
+        },
+        "actorReviewCount": 9,
+        "actorReviewRating": 1.359775304230553,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "AUTOMATION",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/instagram-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "instagram-scraper",
+      "title": "Instagram Scraper - All in one",
+      "description": "Scrape instragram profiles, followers, posts, comments and get valuable information like email addresses, websites, post engagement insights, commented users, etc",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-06-25T22:17:51.388000+00:00",
+      "modified_at": "2025-03-23T05:37:21.869000+00:00",
+      "stats": {
+        "totalBuilds": 100,
+        "totalRuns": 108504,
+        "totalUsers": 3491,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 15,
+        "totalUsers90Days": 74,
+        "lastRunStartedAt": "2026-01-10T20:31:53.063000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 12,
+          "FAILED": 17,
+          "SUCCEEDED": 80,
+          "TIMED-OUT": 7,
+          "TOTAL": 118
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.31950649678973,
+        "bookmarkCount": 48
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "powerful_bachelor/Instagram-Tagged-Mentions-Posts-Scraper",
+      "error": null,
+      "exists": true,
+      "username": "powerful_bachelor",
+      "name": "Instagram-Tagged-Mentions-Posts-Scraper",
+      "title": "Instagram Tagged & Mentions Posts Scraper",
+      "description": "Instagram Tagged & Mentions Posts Scraper 📸 allows you to extract posts where specific users are tagged or mentioned. Download data in various formats for market research, sentiment analysis, or audience engagement. Identify paid partnerships, affiliates, ads, and sponsor users easily. 🎉",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-06-09T10:37:30.469000+00:00",
+      "modified_at": "2025-11-08T04:36:30.713000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 48799,
+        "totalUsers": 433,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 18,
+        "totalUsers90Days": 37,
+        "lastRunStartedAt": "2026-01-11T07:58:55.807000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 1626,
+          "TIMED-OUT": 2643,
+          "TOTAL": 4292
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "afanasenko/instagram-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "afanasenko",
+      "name": "instagram-profile-scraper",
+      "title": "Instagram Profile Scraper",
+      "description": "Analyze Instagram followers or following to find valuable profiles. Filter large accounts by engagement, contact info, and business category to discover influencers, leads, or ideal customers. Perfect for lead generation, market research, and influencer marketing.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-29T15:40:23.062000+00:00",
+      "modified_at": "2025-12-08T12:18:45.763000+00:00",
+      "stats": {
+        "totalBuilds": 502,
+        "totalRuns": 6311,
+        "totalUsers": 817,
+        "totalUsers7Days": 20,
+        "totalUsers30Days": 59,
+        "totalUsers90Days": 129,
+        "lastRunStartedAt": "2026-01-11T07:39:04.369000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 18,
+          "SUCCEEDED": 387,
+          "TIMED-OUT": 0,
+          "TOTAL": 412
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 5,
+        "bookmarkCount": 38
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "borderline/ubereats-scraper",
+      "error": null,
+      "exists": true,
+      "username": "borderline",
+      "name": "ubereats-scraper",
+      "title": "🍴Uber Eats Scraper [RENTAL]",
+      "description": "Rental - Fast and cost-effective Uber Eats Scraper requiring just a search query and location. Instantly retrieve comprehensive restaurant data, including names, ratings, locations, reviews and menus. Seamlessly integrates with tools like Google Sheets, and more, offering a highly efficient solution",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-12T21:28:56.747000+00:00",
+      "modified_at": "2025-12-01T17:44:51.502000+00:00",
+      "stats": {
+        "totalBuilds": 71,
+        "totalRuns": 14993,
+        "totalUsers": 214,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 35,
+        "lastRunStartedAt": "2026-01-11T06:05:47.760000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 1036,
+          "TIMED-OUT": 216,
+          "TOTAL": 1255
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.095255755615497,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "ECOMMERCE",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "futurafree/facebook-marketplace-scraper-discord-alerts",
+      "error": null,
+      "exists": true,
+      "username": "futurafree",
+      "name": "facebook-marketplace-scraper-discord-alerts",
+      "title": "Facebook Marketplace Scraper + Discord Alerts",
+      "description": "An extremely CHEAP and FAST Facebook Marketplace scraper! Best for flippers and resellers. Instantly finds and sends the newest listings to your Discord for rapid sourcing and real-time alerts. Also supports mass scraping of listing info for analysis or research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-06T23:21:30.562000+00:00",
+      "modified_at": "2026-01-09T19:58:36.122000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 339503,
+        "totalUsers": 134,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 12,
+        "totalUsers90Days": 18,
+        "lastRunStartedAt": "2026-01-11T08:05:01.162000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 60940,
+          "TIMED-OUT": 0,
+          "TOTAL": 60947
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "AUTOMATION",
+        "REAL_ESTATE",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "kaitoeasyapi/premium-twitter-user-scraper-pay-per-result",
+      "error": null,
+      "exists": true,
+      "username": "kaitoeasyapi",
+      "name": "premium-twitter-user-scraper-pay-per-result",
+      "title": "Premium X User Scraper | $0.15/1000 Users | Pay Per Result",
+      "description": "Just $0.15 per 1000 profiles! Premium Twitter(X) User Data Extractor. Get instant access to comprehensive user details: bio, metrics, verified status & more. Trusted by analysts for accurate data. Lightning - fast extraction, 99.9% success rate. Blazing - fast: 40 profiles/second for bulk extraction",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-17T04:23:32.015000+00:00",
+      "modified_at": "2025-11-20T17:29:20.419000+00:00",
+      "stats": {
+        "totalBuilds": 107,
+        "totalRuns": 434862,
+        "totalUsers": 392,
+        "totalUsers7Days": 21,
+        "totalUsers30Days": 42,
+        "totalUsers90Days": 82,
+        "lastRunStartedAt": "2026-01-11T08:05:36.194000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 66,
+          "SUCCEEDED": 45151,
+          "TIMED-OUT": 0,
+          "TOTAL": 45217
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.82320398098642,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/threads-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "threads-scraper",
+      "title": "Meta threads scraper",
+      "description": "Scrape threads or posts from meta or instagram's new social media website \"threads.net\"",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-07-07T18:12:36.809000+00:00",
+      "modified_at": "2025-01-23T18:14:29.538000+00:00",
+      "stats": {
+        "totalBuilds": 60,
+        "totalRuns": 2155065,
+        "totalUsers": 951,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 21,
+        "totalUsers90Days": 65,
+        "lastRunStartedAt": "2026-01-11T08:02:44.461000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 14,
+          "SUCCEEDED": 11311,
+          "TIMED-OUT": 1,
+          "TOTAL": 11328
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 26
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dainty_screw/contact-info-scraper--extract-business-contact-information",
+      "error": null,
+      "exists": true,
+      "username": "dainty_screw",
+      "name": "contact-info-scraper--extract-business-contact-information",
+      "title": "Contact Info Scraper -Extract Business Contact Information",
+      "description": "Looking to gather business contact information fast? Our Business Contact Info Scraper extracts emails, phone numbers, and social profiles like Facebook, Twitter, LinkedIn, and Instagram from websites at scale. Get accurate contact details quickly and efficiently with this powerful tool.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-04-01T23:35:05.001000+00:00",
+      "modified_at": "2025-10-03T15:36:59.086000+00:00",
+      "stats": {
+        "totalBuilds": 37,
+        "totalRuns": 135114,
+        "totalUsers": 953,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 19,
+        "totalUsers90Days": 72,
+        "lastRunStartedAt": "2026-01-11T07:54:46.266000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 13,
+          "FAILED": 0,
+          "SUCCEEDED": 30609,
+          "TIMED-OUT": 11748,
+          "TOTAL": 42371
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 31
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapeverse/linkedin-user-profile-url---mass-finder",
+      "error": null,
+      "exists": true,
+      "username": "scrapeverse",
+      "name": "linkedin-user-profile-url---mass-finder",
+      "title": "Linkedin User Profile Url - Mass Finder",
+      "description": "LinkedIn User Profile URL - Mass Finder automates locating LinkedIn profiles by inputting names, location or designations. It provides instant URLs, saving time for market research, lead generation, and recruitment. It enhances efficiency and streamlines workflows",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-21T06:53:40.556000+00:00",
+      "modified_at": "2025-01-20T00:59:56.881000+00:00",
+      "stats": {
+        "totalBuilds": 8,
+        "totalRuns": 18806,
+        "totalUsers": 500,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 63,
+        "lastRunStartedAt": "2026-01-10T01:16:02.858000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 51,
+          "TIMED-OUT": 4,
+          "TOTAL": 58
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.7434516843446466,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "sian.agency/instagram-ai-transcript-extractor",
+      "error": null,
+      "exists": true,
+      "username": "sian.agency",
+      "name": "instagram-ai-transcript-extractor",
+      "title": "Instagram AI Transcript Extractor",
+      "description": "🎬 AI Reel Transcript | 📊 30+ Metrics | 🆕 Auto Channel Scraping | 💰 Best Price. Extract entire Instagram channels with word-perfect transcripts. 75% cheaper. Try 5 reels free!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-24T13:55:24.079000+00:00",
+      "modified_at": "2026-01-04T08:27:59.317000+00:00",
+      "stats": {
+        "totalBuilds": 181,
+        "totalRuns": 38064,
+        "totalUsers": 589,
+        "totalUsers7Days": 43,
+        "totalUsers30Days": 110,
+        "totalUsers90Days": 264,
+        "lastRunStartedAt": "2026-01-11T06:20:48.485000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 66,
+          "FAILED": 0,
+          "SUCCEEDED": 11587,
+          "TIMED-OUT": 0,
+          "TOTAL": 11653
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.796049656074931,
+        "bookmarkCount": 31
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "agents/google-maps-search",
+      "error": null,
+      "exists": true,
+      "username": "agents",
+      "name": "google-maps-search",
+      "title": "Google Maps Search: Cheaper, Robust, Easy to use",
+      "description": "Find high-value leads fast with our low-cost Google Maps scraper. Instantly extract business names, contact details, emails, phone numbers, and reviews—perfect for sales prospecting and outreach. Affordable, reliable, and built for scale.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-27T17:23:02.743000+00:00",
+      "modified_at": "2026-01-11T02:01:59.100000+00:00",
+      "stats": {
+        "totalBuilds": 249,
+        "totalRuns": 122677,
+        "totalUsers": 197,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 27,
+        "totalUsers90Days": 68,
+        "lastRunStartedAt": "2026-01-11T07:33:34.483000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 10,
+          "SUCCEEDED": 28169,
+          "TIMED-OUT": 0,
+          "TOTAL": 28180
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "TRAVEL",
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "mscraper/similarweb-quick-scraper",
+      "error": null,
+      "exists": true,
+      "username": "mscraper",
+      "name": "similarweb-quick-scraper",
+      "title": "Similarweb Quick Scraper",
+      "description": "A quick scraper for Similarweb. Get needed data instantly for domains of your choice. Export accumulated data into formats such as HTML, JSON, or Excel.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-06-27T21:15:09.695000+00:00",
+      "modified_at": "2026-01-06T20:31:22.413000+00:00",
+      "stats": {
+        "totalBuilds": 63,
+        "totalRuns": 344456,
+        "totalUsers": 1096,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 61,
+        "totalUsers90Days": 298,
+        "lastRunStartedAt": "2026-01-11T07:42:16.907000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 357,
+          "SUCCEEDED": 77233,
+          "TIMED-OUT": 0,
+          "TOTAL": 77597
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 27
+      },
+      "categories": [
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/instagram-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "instagram-posts-scraper",
+      "title": "Instagram Posts Scraper",
+      "description": "The Instagram Post Scraper extracts detailed data from any valid post URL, including content, engagement metrics, user details, and media. It delivers structured output for social media analysis, monitoring, and research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-17T11:18:56.726000+00:00",
+      "modified_at": "2025-12-07T06:31:55.702000+00:00",
+      "stats": {
+        "totalBuilds": 2,
+        "totalRuns": 1315728,
+        "totalUsers": 431,
+        "totalUsers7Days": 32,
+        "totalUsers30Days": 61,
+        "totalUsers90Days": 115,
+        "lastRunStartedAt": "2026-01-11T08:06:43.533000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 1926,
+          "SUCCEEDED": 302510,
+          "TIMED-OUT": 4145,
+          "TOTAL": 308582
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 15
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dead00/instagram-dms-automation",
+      "error": null,
+      "exists": true,
+      "username": "dead00",
+      "name": "instagram-dms-automation",
+      "title": "Instagram DMs Automation",
+      "description": "Instagram DM Automation\nAutomatically send direct messages to multiple Instagram users using your session ID. Customize the message, delay, proxy settings, and number of users for safe, efficient outreach.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-27T08:11:12.888000+00:00",
+      "modified_at": "2025-07-14T01:57:40.477000+00:00",
+      "stats": {
+        "totalBuilds": 44,
+        "totalRuns": 9451,
+        "totalUsers": 295,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 42,
+        "lastRunStartedAt": "2026-01-11T07:31:39.806000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 16,
+          "FAILED": 0,
+          "SUCCEEDED": 256,
+          "TIMED-OUT": 0,
+          "TOTAL": 272
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 5,
+        "bookmarkCount": 28
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "caprolok/instagram-leads-generator",
+      "error": null,
+      "exists": true,
+      "username": "caprolok",
+      "name": "instagram-leads-generator",
+      "title": "Instagram Leads Generator",
+      "description": "Extract verified emails, usernames, follower counts, and more from Instagram profiles using just a keyword and location. Perfect for building lead lists, finding influencers, or enriching contact data.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-02T14:21:35.540000+00:00",
+      "modified_at": "2025-12-30T07:20:33.634000+00:00",
+      "stats": {
+        "totalBuilds": 137,
+        "totalRuns": 4594,
+        "totalUsers": 1003,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 34,
+        "totalUsers90Days": 118,
+        "lastRunStartedAt": "2026-01-10T22:03:46.438000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 4,
+          "FAILED": 0,
+          "SUCCEEDED": 148,
+          "TIMED-OUT": 1,
+          "TOTAL": 160
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 3.794393222661487,
+        "bookmarkCount": 34
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/instagram-reels-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "instagram-reels-scraper",
+      "title": "Instagram Reels Scraper",
+      "description": "The Instagram Reels Scraper is a tool designed to extract detailed information from valid Instagram Reels. This actor automates the process of gathering data, making it easier for developers and data analysts to access and utilize Instagram Reels content for various applications.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-17T11:31:39.671000+00:00",
+      "modified_at": "2025-07-17T05:37:55.228000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 211421,
+        "totalUsers": 371,
+        "totalUsers7Days": 11,
+        "totalUsers30Days": 24,
+        "totalUsers90Days": 56,
+        "lastRunStartedAt": "2026-01-11T07:51:29.972000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 204,
+          "SUCCEEDED": 28709,
+          "TIMED-OUT": 707,
+          "TOTAL": 29620
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 2.0406211795128106,
+        "bookmarkCount": 30
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "igview-owner/instagram-story-viewer",
+      "error": null,
+      "exists": true,
+      "username": "igview-owner",
+      "name": "instagram-story-viewer",
+      "title": "Instagram Story Viewer",
+      "description": "Just enter one or multiple usernames and instantly get all active stories with media URLs, timestamps, mentions, shared posts, and user details. Ideal for agencies, brands, and analysts tracking Instagram activity.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-09-23T08:55:45.296000+00:00",
+      "modified_at": "2026-01-09T04:29:51.851000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 49769,
+        "totalUsers": 156,
+        "totalUsers7Days": 29,
+        "totalUsers30Days": 61,
+        "totalUsers90Days": 96,
+        "lastRunStartedAt": "2026-01-11T02:42:54.932000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 12,
+          "SUCCEEDED": 6829,
+          "TIMED-OUT": 39,
+          "TOTAL": 6882
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.8573980976732174,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/instagram-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "instagram-comments-scraper",
+      "title": "Instagram Comments Scraper",
+      "description": "The Instagram Comments Scraper is a tool designed to extract detailed comments from valid Instagram posts and reels. This actor provides a structured way to gather insights from user interactions on Instagram, making it easier to analyze engagement and sentiment.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-17T11:47:06.527000+00:00",
+      "modified_at": "2025-11-20T17:48:42.805000+00:00",
+      "stats": {
+        "totalBuilds": 3,
+        "totalRuns": 201133,
+        "totalUsers": 357,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 46,
+        "totalUsers90Days": 95,
+        "lastRunStartedAt": "2026-01-10T23:45:47.890000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 3,
+          "SUCCEEDED": 227,
+          "TIMED-OUT": 1,
+          "TOTAL": 232
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pratikdani/instagram-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pratikdani",
+      "name": "instagram-profile-scraper",
+      "title": "Instagram Profile Scraper",
+      "description": "Scrape Instagram profiles easily by adding one or more usernames. Extract followers, follows, URLs, bios, posts, likes, counts, related profiles, captions, and highlight reels. Export data, run scrapers via API, schedule and monitor tasks, or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-17T10:39:12.809000+00:00",
+      "modified_at": "2025-05-01T03:38:22.769000+00:00",
+      "stats": {
+        "totalBuilds": 7,
+        "totalRuns": 529732,
+        "totalUsers": 552,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 29,
+        "totalUsers90Days": 79,
+        "lastRunStartedAt": "2026-01-10T21:00:59.284000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 3,
+          "SUCCEEDED": 118,
+          "TIMED-OUT": 7,
+          "TOTAL": 130
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 18
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "thenetaji/instagram-related-user-scraper",
+      "error": null,
+      "exists": true,
+      "username": "thenetaji",
+      "name": "instagram-related-user-scraper",
+      "title": "Instagram related user scraper",
+      "description": "Scrape related user for instagram. Supports email extraction too. Try Now!",
+      "readme": "",
+      "version": "1.5",
+      "created_at": "2025-09-10T12:29:14.125000+00:00",
+      "modified_at": "2026-01-09T07:35:08.426000+00:00",
+      "stats": {
+        "totalBuilds": 23,
+        "totalRuns": 8827,
+        "totalUsers": 166,
+        "totalUsers7Days": 13,
+        "totalUsers30Days": 29,
+        "totalUsers90Days": 79,
+        "lastRunStartedAt": "2026-01-11T07:46:00.665000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 612,
+          "SUCCEEDED": 830,
+          "TIMED-OUT": 21,
+          "TOTAL": 1469
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraper-mind/instagram-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scraper-mind",
+      "name": "instagram-email-scraper",
+      "title": "Mass Instagram Email Scraper",
+      "description": "[𝗖𝗵𝗲𝗮𝗽𝗲𝘀𝘁 𝗣𝗿𝗶𝗰𝗲] The Mass/Bulk Instagram Email Scraper efficiently extracts email addresses from Instagram profiles based on custom keywords. Ideal for influencer marketing, social outreach, and business collaborations. Fast, accurate, and 50% more affordable than competitors.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-10-23T09:55:00.209000+00:00",
+      "modified_at": "2025-12-28T23:13:27.741000+00:00",
+      "stats": {
+        "totalBuilds": 42,
+        "totalRuns": 18741,
+        "totalUsers": 2163,
+        "totalUsers7Days": 28,
+        "totalUsers30Days": 84,
+        "totalUsers90Days": 268,
+        "lastRunStartedAt": "2026-01-11T08:07:46.083000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 107,
+          "FAILED": 0,
+          "SUCCEEDED": 1630,
+          "TIMED-OUT": 49,
+          "TOTAL": 1796
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 4.68686296111345,
+        "bookmarkCount": 74
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "clothefobia/instagram-email-extractor",
+      "error": null,
+      "exists": true,
+      "username": "clothefobia",
+      "name": "instagram-email-extractor",
+      "title": "Instagram Email Extractor",
+      "description": "Instagram Email Extractor-Scrap Emails from instagram unique technology with any keyword",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-13T09:38:35.767000+00:00",
+      "modified_at": "2025-10-17T06:52:23.198000+00:00",
+      "stats": {
+        "totalBuilds": 23,
+        "totalRuns": 69321,
+        "totalUsers": 411,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 26,
+        "lastRunStartedAt": "2026-01-10T10:47:49.638000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 30,
+          "TIMED-OUT": 28262,
+          "TOTAL": 28299
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 2.889503159165958,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraper-mind/instagram-profile-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scraper-mind",
+      "name": "instagram-profile-email-scraper",
+      "title": "Instagram Profile Email Scraper",
+      "description": "Instagram Profile Email Scraper lets you effortlessly extract emails, follower stats, and profile data from public Instagram accounts with our reliable, $10/run scraper. Supports multi-profile batches, proxy fallbacks, and structured JSON output—ideal for marketers, recruiters, and developers.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-05-07T00:37:56.336000+00:00",
+      "modified_at": "2025-08-17T20:46:45.628000+00:00",
+      "stats": {
+        "totalBuilds": 3,
+        "totalRuns": 42824,
+        "totalUsers": 639,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 40,
+        "totalUsers90Days": 133,
+        "lastRunStartedAt": "2026-01-11T00:10:18.700000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 14,
+          "FAILED": 0,
+          "SUCCEEDED": 543,
+          "TIMED-OUT": 8,
+          "TOTAL": 566
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 4.45233975038071,
+        "bookmarkCount": 13
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "gauravsaran/dubai-unit-number-owner-details-finder-propertyfinder-only",
+      "error": null,
+      "exists": true,
+      "username": "gauravsaran",
+      "name": "dubai-unit-number-owner-details-finder-propertyfinder-only",
+      "title": "Dubai Unit Number & Owner Details Finder (PropertyFinder Only)",
+      "description": "Want faster deals and better leads? Instantly get owner details and unit numbers from any PropertyFinder UAE listing in 3–6s. The fastest actor in the market. All data flows straight into your CRM—so your agents can focus on closing, not chasing. PropertyFinder URLs only.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-06-16T09:01:23.577000+00:00",
+      "modified_at": "2025-12-01T09:01:14.400000+00:00",
+      "stats": {
+        "totalBuilds": 44,
+        "totalRuns": 40571,
+        "totalUsers": 644,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 40,
+        "lastRunStartedAt": "2026-01-10T10:28:41.156000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 893,
+          "TIMED-OUT": 0,
+          "TOTAL": 894
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "REAL_ESTATE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "powerful_bachelor/instagram-profile-scraper-pro",
+      "error": null,
+      "exists": true,
+      "username": "powerful_bachelor",
+      "name": "instagram-profile-scraper-pro",
+      "title": "Instagram Profile Scraper Pro",
+      "description": "📊 Instagram Profile Scraper Pro extracts detailed data like engagement rate, followers, profile pic, and more from Instagram profiles! Perfect for influencers, marketers, and analysts. Export data in multiple formats and gain deep insights easily! 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-16T20:10:18.153000+00:00",
+      "modified_at": "2025-11-24T10:22:00.617000+00:00",
+      "stats": {
+        "totalBuilds": 17,
+        "totalRuns": 16813,
+        "totalUsers": 449,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 49,
+        "lastRunStartedAt": "2026-01-11T05:26:44.572000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 327,
+          "TIMED-OUT": 2,
+          "TOTAL": 330
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "memo23/zoopla-cheerio-scraper",
+      "error": null,
+      "exists": true,
+      "username": "memo23",
+      "name": "zoopla-cheerio-scraper",
+      "title": "Zoopla | Buy | Rent | Sell | House Price | Agent | UPRN Scraper",
+      "description": "Your key to mastering UK real estate data. Get instant access to Zoopla's extensive property listings, complete with pricing, features, and agent details. Perfect for market analysis, lead generation, and property research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-21T09:17:21.244000+00:00",
+      "modified_at": "2026-01-03T20:58:02.339000+00:00",
+      "stats": {
+        "totalBuilds": 17,
+        "totalRuns": 1565,
+        "totalUsers": 62,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 6,
+        "lastRunStartedAt": "2026-01-11T05:30:03.652000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 127,
+          "TIMED-OUT": 0,
+          "TOTAL": 129
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "REAL_ESTATE",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapestorm/spotify-artist-monthly-listeners-contact-info-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scrapestorm",
+      "name": "spotify-artist-monthly-listeners-contact-info-scraper",
+      "title": "Spotify Artist : Monthly Listeners & Contact Info Scraper📊📩",
+      "description": "Collect detailed Spotify artist data 🎧: name, verification status ✅, biography, profile image 📸, monthly listeners, image gallery, related artists, popular albums 🎶, top cities, and social links (Facebook, Instagram, Twitter) 🌐. Perfect for analyzing the music industry and research projects!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-03T19:06:51.552000+00:00",
+      "modified_at": "2026-01-03T09:37:20.122000+00:00",
+      "stats": {
+        "totalBuilds": 14,
+        "totalRuns": 50632,
+        "totalUsers": 126,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 9,
+        "totalUsers90Days": 25,
+        "lastRunStartedAt": "2026-01-11T04:29:36.559000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 15,
+          "FAILED": 3,
+          "SUCCEEDED": 35470,
+          "TIMED-OUT": 6,
+          "TOTAL": 35504
+        },
+        "actorReviewCount": 24,
+        "actorReviewRating": 3.9104736680260643,
+        "bookmarkCount": 19
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapearchitect/instagram-reels-downloader",
+      "error": null,
+      "exists": true,
+      "username": "scrapearchitect",
+      "name": "instagram-reels-downloader",
+      "title": "Instagram Reels Downloader",
+      "description": "🚀 Download Instagram Reels🎥 in 1080p/720p 📏 + audio 🎧 ! Secure Apify links 🔐 creator info 📋 thumbnails 🌄 Bulk URLs 🔄 residential proxies 🌍 For devs 🛠️ agencies 🎬! 🎧 Instagram Reels/Shorts Video Downloader 🎥",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-04-25T16:55:30.743000+00:00",
+      "modified_at": "2025-11-26T17:14:30.357000+00:00",
+      "stats": {
+        "totalBuilds": 44,
+        "totalRuns": 10503,
+        "totalUsers": 144,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 11,
+        "totalUsers90Days": 28,
+        "lastRunStartedAt": "2026-01-10T21:33:32.157000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 2461,
+          "TIMED-OUT": 0,
+          "TOTAL": 2462
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "devil_port369-owner/instagram-followers-scraper",
+      "error": null,
+      "exists": true,
+      "username": "devil_port369-owner",
+      "name": "instagram-followers-scraper",
+      "title": "Instagram Followers Scraper",
+      "description": "The Instagram Followers Scraper extracts follower data from public Instagram account. Ideal for influencer marketing, audience analysis, and business intelligence. Safe API rates ensure account protection while providing valuable insights.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-05T07:31:14.468000+00:00",
+      "modified_at": "2025-06-25T08:50:45.514000+00:00",
+      "stats": {
+        "totalBuilds": 33,
+        "totalRuns": 2869,
+        "totalUsers": 966,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-11T05:53:52.875000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 113,
+          "TIMED-OUT": 1,
+          "TOTAL": 115
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 1,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dxbear/fast-email-finder",
+      "error": null,
+      "exists": true,
+      "username": "dxbear",
+      "name": "fast-email-finder",
+      "title": "Fast Email Finder",
+      "description": "🔥 Blazing Fast Email Finder  \nInstantly Scrape ⚡public emails for any company domain 🌐 or using first name, last name 👤, and domain. Perfect for cold email outreach 📧 and lead generation 📈 — find high-converting leads 🚀, and scale your campaigns 🌡️ with direct inbox access.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-05-22T08:08:17.214000+00:00",
+      "modified_at": "2026-01-02T22:39:48.350000+00:00",
+      "stats": {
+        "totalBuilds": 127,
+        "totalRuns": 23916,
+        "totalUsers": 494,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 33,
+        "totalUsers90Days": 98,
+        "lastRunStartedAt": "2026-01-10T00:26:52.848000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 0,
+          "SUCCEEDED": 6539,
+          "TIMED-OUT": 5,
+          "TOTAL": 6554
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 4.333319976877604,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "AUTOMATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-story-downloader",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-story-downloader",
+      "title": "Instagram Story Downloader",
+      "description": "Download Instagram stories effortlessly! Save photos and videos from multiple accounts simultaneously while preserving original quality. Perfect for content creators, social media managers, and anyone wanting to archive Instagram stories. 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-25T01:27:00.764000+00:00",
+      "modified_at": "2025-12-02T00:42:17.177000+00:00",
+      "stats": {
+        "totalBuilds": 14,
+        "totalRuns": 116270,
+        "totalUsers": 220,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 30,
+        "lastRunStartedAt": "2026-01-10T20:00:50.054000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 62,
+          "TIMED-OUT": 0,
+          "TOTAL": 63
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 3.7615989373672667,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "thenetaji/instagram-followers-followings-scraper",
+      "error": null,
+      "exists": true,
+      "username": "thenetaji",
+      "name": "instagram-followers-followings-scraper",
+      "title": "Instagram Followers/Followings Scraper",
+      "description": "Scrape Instagram users followers and followings. No cookies, No login. No limit. And lightning fast profile enrichment with email (300 profiles in 1 minute). Try now!",
+      "readme": "",
+      "version": "1.5",
+      "created_at": "2025-08-17T11:13:17.355000+00:00",
+      "modified_at": "2026-01-09T07:38:33.310000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 2852,
+        "totalUsers": 349,
+        "totalUsers7Days": 19,
+        "totalUsers30Days": 74,
+        "totalUsers90Days": 142,
+        "lastRunStartedAt": "2026-01-11T06:52:50.787000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 63,
+          "FAILED": 74,
+          "SUCCEEDED": 427,
+          "TIMED-OUT": 0,
+          "TOTAL": 564
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 2.6902091517060467,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "fastcrawler/tweet-x-twitter-scraper-0-2-1k-pay-per-result-v2",
+      "error": null,
+      "exists": true,
+      "username": "fastcrawler",
+      "name": "tweet-x-twitter-scraper-0-2-1k-pay-per-result-v2",
+      "title": "Tweet(X)/Twitter scraper|$0.2/1K| Pay-Per Result v2",
+      "description": "Need a no-code, online Twitter (X)/Tweet scraper? Get real-time data for just $0.2 per 1K results with our pay-per-result model—no hidden fees! Extract tweets, profiles, and engagement metrics instantly. Fast, reliable, and cost-effective. Start scraping now! 🚀",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-21T03:15:04.015000+00:00",
+      "modified_at": "2025-12-18T12:49:46.519000+00:00",
+      "stats": {
+        "totalBuilds": 100,
+        "totalRuns": 138061,
+        "totalUsers": 344,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 18,
+        "totalUsers90Days": 58,
+        "lastRunStartedAt": "2026-01-11T08:02:33.934000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 332,
+          "SUCCEEDED": 17593,
+          "TIMED-OUT": 0,
+          "TOTAL": 17925
+        },
+        "actorReviewCount": 7,
+        "actorReviewRating": 1.9441688321461061,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datavoyantlab/instagram-followers-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datavoyantlab",
+      "name": "instagram-followers-scraper",
+      "title": "Instagram Followers Scraper - No‑Login Follower Data API",
+      "description": "Scrape public Instagram followers in seconds. no login, pay‑per‑use, CSV/JSON output. Ideal for marketing, research, and automation.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-28T22:42:33.611000+00:00",
+      "modified_at": "2026-01-09T21:38:32.926000+00:00",
+      "stats": {
+        "totalBuilds": 16,
+        "totalRuns": 571,
+        "totalUsers": 260,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 51,
+        "totalUsers90Days": 102,
+        "lastRunStartedAt": "2026-01-11T05:36:26.492000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 20,
+          "FAILED": 0,
+          "SUCCEEDED": 130,
+          "TIMED-OUT": 19,
+          "TOTAL": 177
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 7
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraping_solutions/instagram-hashtag-scraper-pro-no-cookies",
+      "error": null,
+      "exists": true,
+      "username": "scraping_solutions",
+      "name": "instagram-hashtag-scraper-pro-no-cookies",
+      "title": "Instagram Hashtag Scraper Pro ✅ No cookies ✅",
+      "description": "Instagram Hashtag Scraper API: Automatically extract public Instagram posts by hashtag. Perfect for trend analysis, campaign monitoring, and real-time content collection.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-01T03:13:36.503000+00:00",
+      "modified_at": "2026-01-07T04:29:44.870000+00:00",
+      "stats": {
+        "totalBuilds": 121,
+        "totalRuns": 2775,
+        "totalUsers": 314,
+        "totalUsers7Days": 16,
+        "totalUsers30Days": 43,
+        "totalUsers90Days": 115,
+        "lastRunStartedAt": "2026-01-11T00:56:03.445000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 0,
+          "SUCCEEDED": 344,
+          "TIMED-OUT": 0,
+          "TOTAL": 354
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.4258886160679225,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "ECOMMERCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "curious_coder/instant-web-scraper",
+      "error": null,
+      "exists": true,
+      "username": "curious_coder",
+      "name": "instant-web-scraper",
+      "title": "Instant web data scraper - Scrape any website",
+      "description": "Scrape any public and private website data by providing just URL and optionally cookies and proxy information. \nThis scraper is similar to instant data scraper but runs on cloud and can be used as API too!",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-08-23T18:29:59.947000+00:00",
+      "modified_at": "2024-07-30T10:43:00.706000+00:00",
+      "stats": {
+        "totalBuilds": 49,
+        "totalRuns": 35734,
+        "totalUsers": 1876,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 23,
+        "totalUsers90Days": 100,
+        "lastRunStartedAt": "2026-01-10T03:17:48.971000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 8,
+          "FAILED": 62,
+          "SUCCEEDED": 228,
+          "TIMED-OUT": 84,
+          "TOTAL": 382
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.876399455004523,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "AI",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapearchitect/youtube-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "scrapearchitect",
+      "name": "youtube-video-downloader",
+      "title": "YouTube Video Downloader⚡",
+      "description": "🎵 Instantly grab🎥videos,🎵audio, &📱Shorts from YouTube & YouTube Kids! Supports 8K to 360p Videos 🌍, and family-friendly content 👧👦 Get direct MP4/MP3 links in seconds! ⚡ YouTube Video, Shorts, Audio/MP3 & YouTube-Kids Video Downloader 🚀",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-04-12T17:23:27.064000+00:00",
+      "modified_at": "2025-12-07T06:49:37.237000+00:00",
+      "stats": {
+        "totalBuilds": 59,
+        "totalRuns": 5208,
+        "totalUsers": 204,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 33,
+        "lastRunStartedAt": "2026-01-11T06:12:43.712000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 663,
+          "TIMED-OUT": 0,
+          "TOTAL": 664
+        },
+        "actorReviewCount": 17,
+        "actorReviewRating": 4.258112836006489,
+        "bookmarkCount": 12
+      },
+      "categories": [
+        "VIDEOS",
+        "AUTOMATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "saswave/instagram-discovery-reels-scraper",
+      "error": null,
+      "exists": true,
+      "username": "saswave",
+      "name": "instagram-discovery-reels-scraper",
+      "title": "Instagram Discovery Reels Scraper",
+      "description": "Generate a list of reels from the discovery \"For you\" / \"Following\" page.\nAccess their data: caption, likes, comments, location, date, instagram id, facebook id, music information\nHelps you scale analytics",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-04-03T05:33:31.204000+00:00",
+      "modified_at": "2025-11-28T17:37:30.630000+00:00",
+      "stats": {
+        "totalBuilds": 53,
+        "totalRuns": 1567,
+        "totalUsers": 80,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 0,
+        "totalUsers90Days": 1,
+        "lastRunStartedAt": "2026-01-09T11:37:26.061000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 0,
+          "SUCCEEDED": 1,
+          "TIMED-OUT": 0,
+          "TOTAL": 4
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 14
+      },
+      "categories": [
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "muhammetakkurtt/pump-fun-real-time-monitor",
+      "error": null,
+      "exists": true,
+      "username": "muhammetakkurtt",
+      "name": "pump-fun-real-time-monitor",
+      "title": "Pump.fun Real Time Monitor",
+      "description": "Get real-time Solana meme token events from Pump.fun with this high-performance Apify Standby Actor. Instantly stream new token launches, live trades, and graduations via Server-Sent Events (SSE). With sub-second latency and no polling required, it's the ultimate tool for traders and developers.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-21T19:14:35.802000+00:00",
+      "modified_at": "2025-11-07T21:57:29.269000+00:00",
+      "stats": {
+        "totalBuilds": 4,
+        "totalRuns": 1666,
+        "totalUsers": 38,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 6,
+        "lastRunStartedAt": "2026-01-11T03:37:55.176000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 445,
+          "TIMED-OUT": 0,
+          "TOTAL": 447
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "DEVELOPER_TOOLS",
+        "AUTOMATION",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "mohamedgb00714/instagram-full-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "mohamedgb00714",
+      "name": "instagram-full-profile-scraper",
+      "title": "Instagram Full Profile Scraper",
+      "description": "Scrape all Instagram profile info. Just add one or more Instagram usernames and extract number of followers&follows, URLs, bio, posts, likes, counts, related profiles, captions, highlight reels. Export scraped data, run the scraper via API, schedule and monitor runs or integrate with other tools.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-05T23:15:12.183000+00:00",
+      "modified_at": "2025-07-14T18:22:05.550000+00:00",
+      "stats": {
+        "totalBuilds": 18,
+        "totalRuns": 2417,
+        "totalUsers": 737,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 31,
+        "totalUsers90Days": 108,
+        "lastRunStartedAt": "2026-01-10T22:54:48.945000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 13,
+          "FAILED": 0,
+          "SUCCEEDED": 320,
+          "TIMED-OUT": 1,
+          "TOTAL": 334
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dz_omar/facebook-ads-scraper-pro",
+      "error": null,
+      "exists": true,
+      "username": "dz_omar",
+      "name": "facebook-ads-scraper-pro",
+      "title": "Facebook Ads Scraper Pro",
+      "description": "Extract comprehensive Facebook Ad Library data including creative content, targeting info, performance metrics, and media downloads. Perfect for competitive analysis, market research, and advertising intelligence across all Meta platforms (Facebook, Instagram, WhatsApp, Messenger).",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-27T22:56:47.753000+00:00",
+      "modified_at": "2025-11-29T00:33:12.833000+00:00",
+      "stats": {
+        "totalBuilds": 23,
+        "totalRuns": 2910,
+        "totalUsers": 469,
+        "totalUsers7Days": 15,
+        "totalUsers30Days": 62,
+        "totalUsers90Days": 169,
+        "lastRunStartedAt": "2026-01-11T05:17:51.727000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 15,
+          "FAILED": 0,
+          "SUCCEEDED": 645,
+          "TIMED-OUT": 11,
+          "TOTAL": 671
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 36
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "linen_snack/instagram-videos-transcipt-subtitles-and-translate",
+      "error": null,
+      "exists": true,
+      "username": "linen_snack",
+      "name": "instagram-videos-transcipt-subtitles-and-translate",
+      "title": "Instagram reel transcript",
+      "description": "Effortlessly convert any public Instagram reels videos into accurate text, subtitles, or translations with this powerful OpenAI Whisper API actor.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-24T21:24:17.274000+00:00",
+      "modified_at": "2026-01-10T23:19:36.142000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 163216,
+        "totalUsers": 426,
+        "totalUsers7Days": 23,
+        "totalUsers30Days": 42,
+        "totalUsers90Days": 118,
+        "lastRunStartedAt": "2026-01-11T07:45:29.846000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 3766,
+          "SUCCEEDED": 45943,
+          "TIMED-OUT": 103,
+          "TOTAL": 49824
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AI"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "coder_luffy/website-logo-finder",
+      "error": null,
+      "exists": true,
+      "username": "coder_luffy",
+      "name": "website-logo-finder",
+      "title": "Website Logo Finder – Extract Logos from Any URL",
+      "description": "Easily find and extract logos from any website URL. This tool helps you instantly get brand logos for websites—perfect for marketing, research, design, and automation tasks.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-04-12T08:02:24.207000+00:00",
+      "modified_at": "2025-11-19T10:46:25.413000+00:00",
+      "stats": {
+        "totalBuilds": 55,
+        "totalRuns": 21088,
+        "totalUsers": 379,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 39,
+        "lastRunStartedAt": "2026-01-10T19:51:47.804000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 438,
+          "TIMED-OUT": 0,
+          "TOTAL": 438
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 4.093395588659539,
+        "bookmarkCount": 24
+      },
+      "categories": [
+        "INTEGRATIONS",
+        "AUTOMATION",
+        "SEO_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "epctex/kickstarter-scraper",
+      "error": null,
+      "exists": true,
+      "username": "epctex",
+      "name": "kickstarter-scraper",
+      "title": "Kickstarter Scraper",
+      "description": "The ultimate and most all-encompassing Kickstarter tool you'll ever discover. With powerful search features, you can instantly locate and access any live project on Kickstarter.com. Search by location, project status, funding progress, and more. User-friendly, cost-effective, and without limitations",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2018-10-31T10:57:32.777000+00:00",
+      "modified_at": "2026-01-11T00:18:16.832000+00:00",
+      "stats": {
+        "totalBuilds": 650,
+        "totalRuns": 387904,
+        "totalUsers": 766,
+        "lastRunStartedAt": "2026-01-11T01:30:07.826000+00:00",
+        "totalUsers30Days": 6,
+        "totalUsers7Days": 4,
+        "totalUsers90Days": 19,
+        "totalMetamorphs": 1,
+        "publicActorRunStats30Days": {
+          "ABORTED": 10,
+          "FAILED": 19,
+          "SUCCEEDED": 253,
+          "TIMED-OUT": 0,
+          "TOTAL": 282
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "ECOMMERCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "pengbo_the_penguin/deal-machine-scraper",
+      "error": null,
+      "exists": true,
+      "username": "pengbo_the_penguin",
+      "name": "deal-machine-scraper",
+      "title": "Deal Machine Scraper",
+      "description": "The DealMachine Scraper makes skip tracing effortless—secure login, unlimited lead extraction, and instant access to owner names, phones, and emails. Generate ready-to-contact property leads in minutes for your SMS Blasts or Cold Calling Campaigns!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-26T18:33:03.916000+00:00",
+      "modified_at": "2025-09-14T14:12:56.059000+00:00",
+      "stats": {
+        "totalBuilds": 16,
+        "totalRuns": 975,
+        "totalUsers": 36,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 10,
+        "lastRunStartedAt": "2026-01-11T01:17:22.347000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 22,
+          "FAILED": 47,
+          "SUCCEEDED": 653,
+          "TIMED-OUT": 0,
+          "TOTAL": 722
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 1,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "REAL_ESTATE",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "saswave/ankorstore-scraper",
+      "error": null,
+      "exists": true,
+      "username": "saswave",
+      "name": "ankorstore-scraper",
+      "title": "Ankorstore Scraper",
+      "description": "Ankorstore scraper. Collect companies details from website ankorstore.com . Advanced Web crawler for ecommerce website. Extract promo code, adresses, company name, year founded, instagram username, intagram followers, description, available countries, shipping time, is holiday mode enabled",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-07-21T15:29:12.075000+00:00",
+      "modified_at": "2025-12-01T11:15:50.244000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 186,
+        "totalUsers": 7,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 0,
+        "totalUsers90Days": 1,
+        "lastRunStartedAt": "2026-01-10T08:23:48.398000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 1,
+          "SUCCEEDED": 32,
+          "TIMED-OUT": 0,
+          "TOTAL": 33
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 1
+      },
+      "categories": [
+        "ECOMMERCE",
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraped/instagram-story-scraper",
+      "error": null,
+      "exists": true,
+      "username": "scraped",
+      "name": "instagram-story-scraper",
+      "title": "Instagram (IG) Anonymous Story Scraper Downloader Viewer",
+      "description": "This scraper will provide you with Instagram story data for the username you input.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-02-25T07:53:54.645000+00:00",
+      "modified_at": "2025-09-15T05:42:34.504000+00:00",
+      "stats": {
+        "totalBuilds": 37,
+        "totalRuns": 5702,
+        "totalUsers": 159,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 5,
+        "totalUsers90Days": 19,
+        "lastRunStartedAt": "2026-01-11T07:51:19.927000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 1014,
+          "TIMED-OUT": 0,
+          "TOTAL": 1014
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "devil_port369-owner/instagram-followings-scraper",
+      "error": null,
+      "exists": true,
+      "username": "devil_port369-owner",
+      "name": "instagram-followings-scraper",
+      "title": "Instagram Followings Scraper",
+      "description": "The Instagram Followings Scraper extracts following data from public Instagram account. Ideal for influencer marketing, audience analysis, and business intelligence. Safe API rates ensure account protection while providing valuable insights.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-05T15:08:39.786000+00:00",
+      "modified_at": "2025-06-25T08:51:13.393000+00:00",
+      "stats": {
+        "totalBuilds": 13,
+        "totalRuns": 3927,
+        "totalUsers": 407,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 13,
+        "lastRunStartedAt": "2026-01-11T06:00:17.091000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 49,
+          "TIMED-OUT": 0,
+          "TOTAL": 50
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 1,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "saswave/instagram-like-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "saswave",
+      "name": "instagram-like-comments-scraper",
+      "title": "Instagram Like & Comments Scraper",
+      "description": "List all your followers likes and comments on your posts for data analysis. You can also list likes from a posts you are not the owner, instagram limit of 100 likers per post\nYou can narrow down, who is engaging and who might be a bot, dragging down your reach/engagement. Boost  your instagram posts",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-23T16:38:43.656000+00:00",
+      "modified_at": "2025-11-28T17:38:22.107000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 3483,
+        "totalUsers": 394,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 21,
+        "lastRunStartedAt": "2026-01-10T19:01:27.791000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 12,
+          "SUCCEEDED": 15,
+          "TIMED-OUT": 0,
+          "TOTAL": 28
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 22
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "perfectscrape/mass-instagram-profile-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "perfectscrape",
+      "name": "mass-instagram-profile-posts-scraper",
+      "title": "Instagram Profile Posts Scraper",
+      "description": "Super fast Instagram scraper, hundreds of requests per minute - using direct HTTP requests (no browser). Add multiple usernames/profile links. Get captions, images, videos, likes, comments, timestamps, and more. Fast, lightweight, low-cost—perfect for mass instagram scraping.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2025-05-30T19:45:56.566000+00:00",
+      "modified_at": "2025-07-22T14:15:11.526000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 22235,
+        "totalUsers": 153,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 30,
+        "totalUsers90Days": 56,
+        "lastRunStartedAt": "2026-01-11T08:03:20.682000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 5774,
+          "TIMED-OUT": 0,
+          "TOTAL": 5775
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "OTHER"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "thenetaji/instagram-followers-scraper",
+      "error": null,
+      "exists": true,
+      "username": "thenetaji",
+      "name": "instagram-followers-scraper",
+      "title": "Instagram Followers Scraper",
+      "description": "Scrape Instagram users followers with email. Lightining fast. No cookies, No login. No limit. Try now! fast. No cookies, No login. No limit. Try now!",
+      "readme": "",
+      "version": "1.5",
+      "created_at": "2025-09-06T05:35:45.243000+00:00",
+      "modified_at": "2026-01-09T07:39:53.297000+00:00",
+      "stats": {
+        "totalBuilds": 24,
+        "totalRuns": 442,
+        "totalUsers": 137,
+        "totalUsers7Days": 7,
+        "totalUsers30Days": 30,
+        "totalUsers90Days": 64,
+        "lastRunStartedAt": "2026-01-10T15:15:32.321000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 3,
+          "FAILED": 17,
+          "SUCCEEDED": 111,
+          "TIMED-OUT": 0,
+          "TOTAL": 131
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "worldunboxer/rapid-linkedin-scraper",
+      "error": null,
+      "exists": true,
+      "username": "worldunboxer",
+      "name": "rapid-linkedin-scraper",
+      "title": "⚡️Rapid Linkedin Jobs Scraper | Free Jobs Scraper",
+      "description": "Free LinkedIn job scraper tool to extract job listings, company details, and complete job information instantly. Scrape LinkedIn jobs by keywords, location, or company. Get structured data including titles, descriptions, salaries, requirements, and employer info. Fast, efficient job data extraction.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-01-29T08:26:29.809000+00:00",
+      "modified_at": "2026-01-10T03:40:01.578000+00:00",
+      "stats": {
+        "totalBuilds": 212,
+        "totalRuns": 44299,
+        "totalUsers": 1750,
+        "totalUsers7Days": 104,
+        "totalUsers30Days": 241,
+        "totalUsers90Days": 427,
+        "lastRunStartedAt": "2026-01-11T08:11:52.327000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 66,
+          "FAILED": 29,
+          "SUCCEEDED": 6551,
+          "TIMED-OUT": 31,
+          "TOTAL": 6677
+        },
+        "actorReviewCount": 11,
+        "actorReviewRating": 4.357850943267828,
+        "bookmarkCount": 71
+      },
+      "categories": [
+        "JOBS",
+        "AUTOMATION",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-email-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-email-scraper",
+      "title": "Instagram Email Scraper",
+      "description": "🚀 Effortlessly scrape email addresses from Instagram profiles! 📸 Find Instagram users matching your keywords and specific email domains. Perfect for influencer marketing, brand collaborations, and targeted outreach campaigns. Powered by stealth technology for reliable data collection. 📧🕵️‍♂️",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-12T06:11:09.106000+00:00",
+      "modified_at": "2025-11-25T00:29:16.892000+00:00",
+      "stats": {
+        "totalBuilds": 15,
+        "totalRuns": 21585,
+        "totalUsers": 1005,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 62,
+        "lastRunStartedAt": "2026-01-11T05:59:24.626000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 76,
+          "TIMED-OUT": 0,
+          "TOTAL": 76
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 1.2343892180595788,
+        "bookmarkCount": 33
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/google-realtime-trends-data-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "google-realtime-trends-data-scraper",
+      "title": "Google RealTime Trends Data Scraper",
+      "description": "Real-time Google Trends data scraper that monitors trending search keywords across 40+ countries worldwide. Updated every 10 minutes, perfect for market research, content planning, and trend analysis. Get instant access to what's trending globally! 🌍🔍",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-28T01:16:16.993000+00:00",
+      "modified_at": "2025-11-25T00:34:28.513000+00:00",
+      "stats": {
+        "totalBuilds": 20,
+        "totalRuns": 5109,
+        "totalUsers": 129,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 14,
+        "lastRunStartedAt": "2026-01-09T11:17:52.089000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 25,
+          "TIMED-OUT": 0,
+          "TOTAL": 25
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SEO_TOOLS",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-hashtag-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-hashtag-scraper",
+      "title": "Instagram Hashtag Scraper",
+      "description": "Effortlessly scrape Instagram hashtag data, including top posts and engagement metrics. Perfect for marketers, researchers, and data analysts looking to gain insights from Instagram trends and content performance. 📊",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-20T10:21:22.929000+00:00",
+      "modified_at": "2025-11-25T00:25:52.930000+00:00",
+      "stats": {
+        "totalBuilds": 47,
+        "totalRuns": 152654,
+        "totalUsers": 1343,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 17,
+        "totalUsers90Days": 81,
+        "lastRunStartedAt": "2026-01-11T04:11:53.179000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 2,
+          "FAILED": 0,
+          "SUCCEEDED": 54,
+          "TIMED-OUT": 0,
+          "TOTAL": 56
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.824332112650966,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "louisdeconinck/instagram-followers-scraper",
+      "error": null,
+      "exists": true,
+      "username": "louisdeconinck",
+      "name": "instagram-followers-scraper",
+      "title": "🔔 Instagram Followers Scraper",
+      "description": "🚀 Instantly scrape all followers from any Instagram account, no login needed. Just drop a profile handle, get thousands of followers in seconds. Perfect for growth hacking, competitor research, and lead gen. Fast, cheap, reliable. Built by a top 1% Apify dev.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-09-08T12:28:16.549000+00:00",
+      "modified_at": "2025-12-08T07:56:45.528000+00:00",
+      "stats": {
+        "totalBuilds": 11,
+        "totalRuns": 1039,
+        "totalUsers": 243,
+        "totalUsers7Days": 12,
+        "totalUsers30Days": 46,
+        "totalUsers90Days": 101,
+        "lastRunStartedAt": "2026-01-11T06:31:28.705000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 12,
+          "FAILED": 0,
+          "SUCCEEDED": 446,
+          "TIMED-OUT": 0,
+          "TOTAL": 458
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 4.074229246812845,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-posts-scraper",
+      "title": "Instagram Posts Scraper",
+      "description": "Effortlessly scrape Instagram posts data from multiple users. Extract comprehensive details including likes, comments, captions, hashtags, and more. Perfect for social media analysis, market research, and content monitoring.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-19T14:21:08.689000+00:00",
+      "modified_at": "2025-11-25T00:58:37.861000+00:00",
+      "stats": {
+        "totalBuilds": 24,
+        "totalRuns": 1449,
+        "totalUsers": 234,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 13,
+        "totalUsers90Days": 37,
+        "lastRunStartedAt": "2026-01-10T19:48:47.915000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 2,
+          "SUCCEEDED": 42,
+          "TIMED-OUT": 0,
+          "TOTAL": 45
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-photos-downloader",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-photos-downloader",
+      "title": "Instagram Photos Downloader",
+      "description": "Effortlessly save high-quality images from Instagram posts and profiles. Simply copy the photo URL, paste it into our tool, and download your favorite images in HD. Enjoy a user-friendly experience without the need for an Instagram account. Start preserving your favorite moments today!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-09-11T02:06:31.861000+00:00",
+      "modified_at": "2025-12-02T00:40:42.349000+00:00",
+      "stats": {
+        "totalBuilds": 26,
+        "totalRuns": 40402,
+        "totalUsers": 257,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 8,
+        "totalUsers90Days": 22,
+        "lastRunStartedAt": "2026-01-10T03:29:46.586000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 1522,
+          "TIMED-OUT": 0,
+          "TOTAL": 1522
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "datadoping/instagram-profile-scraper",
+      "error": null,
+      "exists": true,
+      "username": "datadoping",
+      "name": "instagram-profile-scraper",
+      "title": "Instagram Profile Scraper (Cheaper)",
+      "description": "Extract full Instagram profile data — including public email, phone number, followers, following, bio, posts, channels, and external links — with full API support, scheduling, and easy export options.\n\nNote: Free tier users can only scrape 100 profiles in total.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-05-26T23:50:19.366000+00:00",
+      "modified_at": "2025-10-31T15:22:28.527000+00:00",
+      "stats": {
+        "totalBuilds": 65,
+        "totalRuns": 33806,
+        "totalUsers": 344,
+        "totalUsers7Days": 14,
+        "totalUsers30Days": 38,
+        "totalUsers90Days": 105,
+        "lastRunStartedAt": "2026-01-11T01:44:30.079000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 7,
+          "FAILED": 0,
+          "SUCCEEDED": 414,
+          "TIMED-OUT": 0,
+          "TOTAL": 421
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.999999999999999,
+        "bookmarkCount": 16
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "DEVELOPER_TOOLS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "devil_port369-owner/instagram-email-phone-scraper",
+      "error": null,
+      "exists": true,
+      "username": "devil_port369-owner",
+      "name": "instagram-email-phone-scraper",
+      "title": "Instagram Email Phone Scraper",
+      "description": "Scrape Instagram email phone and many more data from any public Instagram profile. Perfect for marketers, analysts, and businesses seeking actionable social media intelligence. It also scrape emails and phone from many other sources.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-11-30T15:12:48.510000+00:00",
+      "modified_at": "2025-05-21T16:07:07.248000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 16992,
+        "totalUsers": 700,
+        "totalUsers7Days": 5,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 44,
+        "lastRunStartedAt": "2026-01-09T14:48:40.708000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 57,
+          "TIMED-OUT": 0,
+          "TOTAL": 57
+        },
+        "actorReviewCount": 10,
+        "actorReviewRating": 1.6214988028855135,
+        "bookmarkCount": 23
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apify/instagram-search-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apify",
+      "name": "instagram-search-scraper",
+      "title": "Instagram Search Scraper",
+      "description": "Scrape Instagram search results: places, businesses, locations, users, and hashtags. Add a keyword and extract search results like contact details, categories, metrics, recent posts, hashtag popularity. Export scraped data, schedule scraper via API, and integrate with other tools or AI workflows.",
+      "readme": "",
+      "version": "0.1",
+      "created_at": "2024-09-02T04:42:12.390000+00:00",
+      "modified_at": "2026-01-11T04:39:42.697000+00:00",
+      "stats": {
+        "totalBuilds": 1278,
+        "totalRuns": 216662,
+        "totalUsers": 4221,
+        "totalUsers7Days": 117,
+        "totalUsers30Days": 334,
+        "totalUsers90Days": 976,
+        "lastRunStartedAt": "2026-01-11T08:14:12.767000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 42,
+          "FAILED": 58,
+          "SUCCEEDED": 12608,
+          "TIMED-OUT": 10,
+          "TOTAL": 12725
+        },
+        "actorReviewCount": 14,
+        "actorReviewRating": 4.045050165004452,
+        "bookmarkCount": 117
+      },
+      "categories": [
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraper-mind/instagram-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "scraper-mind",
+      "name": "instagram-video-downloader",
+      "title": "Instagram Video Downloader",
+      "description": "Download Instagram videos, Reels, IGTV, and Stories effortlessly with our Instagram Video Downloader API. Supports high-resolution downloads (1080p, 720p, 480p, etc), bulk processing (1000+ URLs), metadata extraction, and residential proxy integration. Get seamless, high-quality video downloads.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2025-03-12T04:53:11.496000+00:00",
+      "modified_at": "2025-05-01T10:20:43.695000+00:00",
+      "stats": {
+        "totalBuilds": 6,
+        "totalRuns": 8616,
+        "totalUsers": 191,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 4,
+        "totalUsers90Days": 22,
+        "lastRunStartedAt": "2026-01-10T18:59:48.934000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 66,
+          "TIMED-OUT": 0,
+          "TOTAL": 66
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 3.0110608345902463,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "VIDEOS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "mohamedgb00714/instagram-followers-scrapper",
+      "error": null,
+      "exists": true,
+      "username": "mohamedgb00714",
+      "name": "instagram-followers-scrapper",
+      "title": "Instagram Followers Scrapper",
+      "description": "Extract ONLY Instagram follower data at 500+ users/min. Proxy support, human behavior simulation, configurable pagination. Ideal for focused market research.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-07T03:39:21.588000+00:00",
+      "modified_at": "2025-06-16T22:24:55.089000+00:00",
+      "stats": {
+        "totalBuilds": 9,
+        "totalRuns": 627,
+        "totalUsers": 182,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 27,
+        "lastRunStartedAt": "2026-01-09T17:15:02.279000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 2,
+          "SUCCEEDED": 15,
+          "TIMED-OUT": 1,
+          "TOTAL": 19
+        },
+        "actorReviewCount": 3,
+        "actorReviewRating": 4.179060830601571,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "OPEN_SOURCE"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "saswave/instagram-list-remove-followers",
+      "error": null,
+      "exists": true,
+      "username": "saswave",
+      "name": "instagram-list-remove-followers",
+      "title": "Instagram LIST / REMOVE Followers",
+      "description": "List all your followers for data analysis. Then provide a list of followers to be removed. Clean your account bots followers at scale. Help you to boost reach and engagements on your posts by removing bot accounts and not active followers",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2023-11-23T15:18:46.864000+00:00",
+      "modified_at": "2025-11-28T17:43:29.640000+00:00",
+      "stats": {
+        "totalBuilds": 96,
+        "totalRuns": 6279,
+        "totalUsers": 196,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 3,
+        "totalUsers90Days": 4,
+        "lastRunStartedAt": "2026-01-09T16:58:39.612000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 57,
+          "SUCCEEDED": 806,
+          "TIMED-OUT": 0,
+          "TOTAL": 883
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scrapeverse/linkedin-company-url---mass-finder",
+      "error": null,
+      "exists": true,
+      "username": "scrapeverse",
+      "name": "linkedin-company-url---mass-finder",
+      "title": "LinkedIn Company URL - Mass Finder",
+      "description": "Stop wasting time manually searching for LinkedIn company pages. With LinkedIn Mass Company URL Finder, input your company list and get instant access to their LinkedIn URLs. Automate your search and streamline your workflow today!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-07-14T05:35:16.773000+00:00",
+      "modified_at": "2024-09-25T15:12:54.514000+00:00",
+      "stats": {
+        "totalBuilds": 58,
+        "totalRuns": 16731,
+        "totalUsers": 375,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 14,
+        "totalUsers90Days": 40,
+        "lastRunStartedAt": "2026-01-09T10:17:45.616000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 6,
+          "FAILED": 0,
+          "SUCCEEDED": 29,
+          "TIMED-OUT": 0,
+          "TOTAL": 35
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 11
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "dxbear/bulk-email-validator",
+      "error": null,
+      "exists": true,
+      "username": "dxbear",
+      "name": "bulk-email-validator",
+      "title": "Bulk Email Validator ($0.0014 – $0.002 per email)",
+      "description": "Affordable Email Validator – Just $0.0014 per Validation\nQuick and reliable email validation for AI tools, MCP servers, and budget-conscious businesses. Instantly detect spam, disposable, and undeliverable emails. Pay only for what you use!",
+      "readme": "",
+      "version": "4.1",
+      "created_at": "2025-06-25T05:31:52.890000+00:00",
+      "modified_at": "2025-11-13T07:21:29.014000+00:00",
+      "stats": {
+        "totalBuilds": 149,
+        "totalRuns": 11335,
+        "totalUsers": 72,
+        "totalUsers7Days": 3,
+        "totalUsers30Days": 10,
+        "totalUsers90Days": 18,
+        "lastRunStartedAt": "2026-01-10T23:32:43.005000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 3380,
+          "TIMED-OUT": 0,
+          "TOTAL": 3380
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 8
+      },
+      "categories": [
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "thenetaji/instagram-video-downloader",
+      "error": null,
+      "exists": true,
+      "username": "thenetaji",
+      "name": "instagram-video-downloader",
+      "title": "Instagram Video Downloader(Reels and Stories)",
+      "description": "Download Instagram videos, reels, and stories easily with our Apify Instagram Downloader. Save high-quality IG content in seconds. No login required. Fast, reliable, and easy to use!",
+      "readme": "",
+      "version": "2.1",
+      "created_at": "2025-04-05T11:10:26.972000+00:00",
+      "modified_at": "2026-01-08T11:10:35.891000+00:00",
+      "stats": {
+        "totalBuilds": 18,
+        "totalRuns": 9474,
+        "totalUsers": 203,
+        "totalUsers7Days": 4,
+        "totalUsers30Days": 12,
+        "totalUsers90Days": 28,
+        "lastRunStartedAt": "2026-01-10T17:41:46.991000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 0,
+          "SUCCEEDED": 273,
+          "TIMED-OUT": 0,
+          "TOTAL": 274
+        },
+        "actorReviewCount": 8,
+        "actorReviewRating": 3.400953930235156,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "VIDEOS",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "scraping_samurai/perplexity-ai-instant-response-actor",
+      "error": null,
+      "exists": true,
+      "username": "scraping_samurai",
+      "name": "perplexity-ai-instant-response-actor",
+      "title": "Perplexity AI Instant Response Actor",
+      "description": "The Perplexity AI Actor allows you to interact with the Perplexity effortlessly. Simply input your queries and customize your results with system-level instructions and model selection. Enjoy customizable responses with no effort!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-01-21T17:25:04.635000+00:00",
+      "modified_at": "2025-05-19T03:32:27.035000+00:00",
+      "stats": {
+        "totalBuilds": 18,
+        "totalRuns": 24,
+        "totalUsers": 8,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 8,
+        "lastRunStartedAt": "2025-04-18T03:07:49.600000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 1,
+          "TIMED-OUT": 0,
+          "TOTAL": 1
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 4
+      },
+      "categories": [
+        "AI",
+        "AUTOMATION",
+        "INTEGRATIONS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "coderx/instagram-followers-list-scraper",
+      "error": null,
+      "exists": true,
+      "username": "coderx",
+      "name": "instagram-followers-list-scraper",
+      "title": "Instagram Followers List Scraper",
+      "description": "Easily scrape followers from public Instagram profiles. This tool automatically collects the full list of followers from any public Instagram account. Ideal for marketers, researchers, and data analysts who need follower data for public accounts.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-06-10T14:57:11.877000+00:00",
+      "modified_at": "2025-06-22T08:55:55.698000+00:00",
+      "stats": {
+        "totalBuilds": 159,
+        "totalRuns": 2653,
+        "totalUsers": 924,
+        "totalUsers7Days": 8,
+        "totalUsers30Days": 36,
+        "totalUsers90Days": 131,
+        "lastRunStartedAt": "2026-01-11T05:40:28.878000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 0,
+          "SUCCEEDED": 290,
+          "TIMED-OUT": 0,
+          "TOTAL": 295
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 4.469786856260964,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "apidojo/instagram-hashtag-scraper",
+      "error": null,
+      "exists": true,
+      "username": "apidojo",
+      "name": "instagram-hashtag-scraper",
+      "title": "Instagram Hashtag Scraper",
+      "description": "Best posts & reels hashtag scraper! $0.016 / hashtag gets you 60 items FREE, then $0.0004 / additional item. No authentication, no proxy needed. Perfect for content research and social media intelligence! ⚡",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-08-19T20:38:12.767000+00:00",
+      "modified_at": "2026-01-11T02:04:20.398000+00:00",
+      "stats": {
+        "totalBuilds": 125,
+        "totalRuns": 11364,
+        "totalUsers": 304,
+        "totalUsers7Days": 33,
+        "totalUsers30Days": 71,
+        "totalUsers90Days": 156,
+        "lastRunStartedAt": "2026-01-11T08:15:36.538000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 5,
+          "FAILED": 0,
+          "SUCCEEDED": 5750,
+          "TIMED-OUT": 0,
+          "TOTAL": 5755
+        },
+        "actorReviewCount": 6,
+        "actorReviewRating": 5,
+        "bookmarkCount": 10
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-comments-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-comments-scraper",
+      "title": "Instagram Comments Scraper",
+      "description": "Effortlessly extract comments from Instagram posts. Capture user details, engagement metrics, and nested replies. Perfect for social media analysis, influencer research, and brand monitoring. Stealth-enabled for reliable data collection.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-19T11:36:34.929000+00:00",
+      "modified_at": "2025-11-25T00:25:59.997000+00:00",
+      "stats": {
+        "totalBuilds": 27,
+        "totalRuns": 2165,
+        "totalUsers": 486,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 12,
+        "totalUsers90Days": 49,
+        "lastRunStartedAt": "2026-01-11T07:47:44.501000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 32,
+          "TIMED-OUT": 0,
+          "TOTAL": 32
+        },
+        "actorReviewCount": 4,
+        "actorReviewRating": 3.8297698307530297,
+        "bookmarkCount": 6
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "yeyo/screenshot",
+      "error": null,
+      "exists": true,
+      "username": "yeyo",
+      "name": "screenshot",
+      "title": "Screenshot: Website Image and Video Capture",
+      "description": "Capture high-quality screenshots and videos of any website. Perfect for design verification, content creation, and website snapshots. Compatible across diverse device resolutions. Instant results.",
+      "readme": "",
+      "version": "1.0",
+      "created_at": "2023-09-29T09:37:43.998000+00:00",
+      "modified_at": "2025-07-08T21:25:19.051000+00:00",
+      "stats": {
+        "totalBuilds": 38,
+        "totalRuns": 2977,
+        "totalUsers": 273,
+        "totalUsers7Days": 2,
+        "totalUsers30Days": 7,
+        "totalUsers90Days": 15,
+        "lastRunStartedAt": "2026-01-10T08:10:08.019000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 7,
+          "SUCCEEDED": 57,
+          "TIMED-OUT": 0,
+          "TOTAL": 64
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 9
+      },
+      "categories": [
+        "VIDEOS",
+        "DEVELOPER_TOOLS",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "easyapi/instagram-tagged-posts-scraper",
+      "error": null,
+      "exists": true,
+      "username": "easyapi",
+      "name": "instagram-tagged-posts-scraper",
+      "title": "Instagram Tagged Posts Scraper",
+      "description": "Effortlessly scrape tagged posts from Instagram profiles. Extract detailed post data, high-quality images, and user information. Perfect for influencer research, brand monitoring, and content analysis. Customizable, stealthy, and packed with features!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-10-20T08:55:48.122000+00:00",
+      "modified_at": "2025-11-25T00:34:54.053000+00:00",
+      "stats": {
+        "totalBuilds": 31,
+        "totalRuns": 721,
+        "totalUsers": 161,
+        "totalUsers7Days": 0,
+        "totalUsers30Days": 6,
+        "totalUsers90Days": 17,
+        "lastRunStartedAt": "2026-01-11T08:16:22.232000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 25,
+          "TIMED-OUT": 0,
+          "TOTAL": 25
+        },
+        "actorReviewCount": 1,
+        "actorReviewRating": 5,
+        "bookmarkCount": 2
+      },
+      "categories": [
+        "SOCIAL_MEDIA",
+        "LEAD_GENERATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "web.harvester/meta-media-downloader",
+      "error": null,
+      "exists": true,
+      "username": "web.harvester",
+      "name": "meta-media-downloader",
+      "title": "Meta Media Downloader",
+      "description": "Easily download Facebook and Instagram videos, images, reels, and stories with this powerful tool. Perfect for content creators, marketers, and social media managers, it ensures fast, high-quality media extraction from Meta platforms. Save and repurpose content effortlessly in just a few clicks!",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2025-03-17T05:55:57.620000+00:00",
+      "modified_at": "2025-03-27T04:18:52.037000+00:00",
+      "stats": {
+        "totalBuilds": 5,
+        "totalRuns": 5405,
+        "totalUsers": 75,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 2,
+        "totalUsers90Days": 5,
+        "lastRunStartedAt": "2026-01-11T08:14:28.507000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 10,
+          "SUCCEEDED": 1742,
+          "TIMED-OUT": 0,
+          "TOTAL": 1752
+        },
+        "actorReviewCount": 2,
+        "actorReviewRating": 5,
+        "bookmarkCount": 3
+      },
+      "categories": [
+        "AUTOMATION",
+        "SOCIAL_MEDIA",
+        "VIDEOS"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "saswave/instagram-explore-publications-scraper",
+      "error": null,
+      "exists": true,
+      "username": "saswave",
+      "name": "instagram-explore-publications-scraper",
+      "title": "Instagram Explore Publications Scraper",
+      "description": "Generate a list of publications from the explore \"For you\" page.\nAccess their data: caption, likes, comments, location, date, instagram id, facebook id, music information ...\nHelps you scale analytics",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-04-10T16:10:20.130000+00:00",
+      "modified_at": "2025-11-28T17:38:36.347000+00:00",
+      "stats": {
+        "totalBuilds": 22,
+        "totalRuns": 3256,
+        "totalUsers": 19,
+        "totalUsers7Days": 1,
+        "totalUsers30Days": 1,
+        "totalUsers90Days": 3,
+        "lastRunStartedAt": "2026-01-07T21:04:14.096000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 0,
+          "FAILED": 0,
+          "SUCCEEDED": 9,
+          "TIMED-OUT": 0,
+          "TOTAL": 9
+        },
+        "actorReviewCount": 0,
+        "actorReviewRating": 0,
+        "bookmarkCount": 5
+      },
+      "categories": [
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    },
+    {
+      "actor_id": "devil_port369-owner/instagram-complete-profile-scraper-ppr",
+      "error": null,
+      "exists": true,
+      "username": "devil_port369-owner",
+      "name": "instagram-complete-profile-scraper-ppr",
+      "title": "Instagram Complete Profile Scraper PPR",
+      "description": "Scrape Instagram profile details. Email and Phone also available if mentioned in bio profile and post caption or if it is a public account.",
+      "readme": "",
+      "version": "0.0",
+      "created_at": "2024-12-02T06:34:48.787000+00:00",
+      "modified_at": "2025-12-10T05:40:59.162000+00:00",
+      "stats": {
+        "totalBuilds": 70,
+        "totalRuns": 21107,
+        "totalUsers": 500,
+        "totalUsers7Days": 6,
+        "totalUsers30Days": 20,
+        "totalUsers90Days": 54,
+        "lastRunStartedAt": "2026-01-10T17:20:05.814000+00:00",
+        "publicActorRunStats30Days": {
+          "ABORTED": 1,
+          "FAILED": 1,
+          "SUCCEEDED": 172,
+          "TIMED-OUT": 0,
+          "TOTAL": 174
+        },
+        "actorReviewCount": 5,
+        "actorReviewRating": 4.159075535316284,
+        "bookmarkCount": 27
+      },
+      "categories": [
+        "LEAD_GENERATION",
+        "SOCIAL_MEDIA",
+        "AUTOMATION"
+      ],
+      "input_fields": [],
+      "input_schema_summary": {
+        "total_fields": 0,
+        "required_fields": [],
+        "field_types": []
+      },
+      "output_hints": {
+        "has_examples": false,
+        "has_sample_data": false,
+        "has_json_schema": false
+      }
+    }
+  ]
+}
